@@ -12,7 +12,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Ma'lumotlar bazasi manzili (Railway'da ma'lumot saqlanib qolishi uchun)
 # Agar Railway Volume ulangan bo'lsa, '/app/data/bot_db.sqlite' qilib o'zgartiring
-DB_PATH = "/app/data/bot_db.sqlite"
+DB_PATH = "bot_db.sqlite"
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
