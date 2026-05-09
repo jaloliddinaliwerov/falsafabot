@@ -1,0 +1,11 @@
+? Python qachon yaratilgan?
+= 1995
+== 1991
+= 2000
+= 1989
+
+? Telegram bot yozish uchun qaysi kutubxona asinxron ishlaydi?
+== aiogram
+= telebot
+= requests
+= django
