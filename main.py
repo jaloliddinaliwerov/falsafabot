@@ -8,11 +8,10 @@ from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-# Tokenni Railway'dan olish
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 DB_PATH = "bot_db.sqlite"
 
-# Faol testlarni nazorat qilish uchun lug'at
+# Faol testlarni nazorat qilish
 active_tests = {}
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
@@ -103,12 +102,11 @@ async def help_cmd(message: types.Message):
 async def send_tests_menu(message: types.Message):
     questions = parse_questions("questions.txt")
     if not questions:
-        await message.answer("⚠️ Savollar fayli bo'sh yoki topilmadi! (questions.txt faylini tekshiring)")
+        await message.answer("⚠️ Savollar fayli bo'sh yoki topilmadi!")
         return
 
     chunks = chunk_questions(questions, 30)
     
-    # UI tugmalari (Apple-style toza dizayn)
     builder = InlineKeyboardBuilder()
     for i, chunk in enumerate(chunks):
         start_num = (i * 30) + 1
@@ -155,7 +153,6 @@ async def send_test_chunk(chat_id: int, chunk: list):
     
     async with aiosqlite.connect(DB_PATH) as db:
         for i, q in enumerate(chunk):
-            # To'xtatilganligini tekshirish
             if not active_tests.get(chat_id):
                 return
                 
@@ -163,6 +160,7 @@ async def send_test_chunk(chat_id: int, chunk: list):
                 continue
             
             try:
+                # Poll yuborish
                 msg = await bot.send_poll(
                     chat_id=chat_id,
                     question=q['question'],
@@ -176,22 +174,31 @@ async def send_test_chunk(chat_id: int, chunk: list):
                 await db.commit()
             except Exception as e:
                 logging.error(f"Poll yuborishda xatolik: {e}")
+                continue
 
-            # Eng oxirgi savol bo'lmasa, 30 soniya kutish
-            if i < len(chunk) - 1:
-                # Bot stop buyrug'iga tez reaksiya qilishi uchun 1 soniyadan kutamiz
-                for _ in range(30):
-                    if not active_tests.get(chat_id):
-                        return
-                    await asyncio.sleep(1)
+            # Har bir savol uchun 30 soniya kutish
+            for _ in range(30):
+                if not active_tests.get(chat_id):
+                    # /stop bosilganda oxirgi ochiq qolgan pollni ham yopib qoyamiz
+                    try:
+                        await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
+                    except:
+                        pass
+                    return
+                await asyncio.sleep(1)
+            
+            # 30 soniya o'tgach, poll'ni yopamiz (javob bera olmaydigan qilamiz)
+            try:
+                await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
+            except Exception as e:
+                logging.error(f"Poll yopishda xatolik: {e}")
                 
     if active_tests.get(chat_id):
-        await bot.send_message(chat_id, "✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!")
+        await bot.send_message(chat_id, "✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!\n\nNatijalarni ko'rish uchun /leaderboard buyrug'ini bosing.")
         active_tests.pop(chat_id, None)
 
 @dp.callback_query(F.data.startswith("start_test_"))
 async def handle_start_test(call: types.CallbackQuery):
-    # Bir vaqtning o'zida bitta guruhda faqat bitta test ketishi kerak
     if active_tests.get(call.message.chat.id):
         await call.answer("⚠️ Bu chatda allaqachon test jarayoni ketmoqda. Oldin uni /stop orqali to'xtating.", show_alert=True)
         return
@@ -209,12 +216,11 @@ async def handle_start_test(call: types.CallbackQuery):
     await call.message.edit_text(
         f"🚀 <b>{chunk_index + 1}-bo'lim boshlandi!</b>\n"
         f"Jami: {len(chunk)} ta savol.\n\n"
-        f"<i>⏳ Har bir savol 30 soniya interval bilan yuboriladi...</i>\n"
+        f"<i>⏳ Har bir savol 30 soniya interval bilan yuboriladi va vaqt o'tgach yopiladi.</i>\n"
         f"<i>🛑 To'xtatish uchun /stop buyrug'ini bering.</i>"
     )
     await call.answer()
     
-    # Orqa fonga yuborish
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk))
 
 # --- 5. JAVOBLARNI TEKSHIRISH VA BALL BERISH ---
