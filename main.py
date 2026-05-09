@@ -8,18 +8,18 @@ from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
+# Tokenni Railway'dan olish
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-
-# Papka muammosini oldini olish uchun bazani to'g'ridan-to'g'ri loyihada ochamiz
-# Agar Volume /app/data qilib to'g'ri ulagan bo'lsangiz, "/app/data/bot_db.sqlite" ga o'zgartiring
 DB_PATH = "bot_db.sqlite"
+
+# Faol testlarni nazorat qilish uchun lug'at
+active_tests = {}
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
 # --- 1. MA'LUMOTLAR BAZASINI YARATISH ---
 async def init_db():
-    # Papka yo'q bo'lsa yaratish (xatolik bermasligi uchun)
     db_dir = os.path.dirname(DB_PATH)
     if db_dir and not os.path.exists(db_dir):
         os.makedirs(db_dir, exist_ok=True)
@@ -34,7 +34,6 @@ async def init_db():
                 PRIMARY KEY (user_id, chat_id)
             )
         """)
-        # Qaysi guruh/chatga yuborilganini ham saqlaymiz (chat_id)
         await db.execute("""
             CREATE TABLE IF NOT EXISTS active_polls (
                 poll_id TEXT PRIMARY KEY,
@@ -95,7 +94,8 @@ async def help_cmd(message: types.Message):
         "🔸 /start - Botni qayta ishga tushirish\n"
         "🔸 /help - Shu xabarni ko'rsatish\n"
         "🔸 /test - Savollar bo'limini ko'rish va testni boshlash\n"
-        "🔸 /leaderboard - Hozirgi chatning reytingini ko'rish\n"
+        "🔸 /stop - Faol testni darhol to'xtatish\n"
+        "🔸 /leaderboard - Hozirgi chatning reytingini ko'rish"
     )
     await message.answer(text)
 
@@ -103,12 +103,12 @@ async def help_cmd(message: types.Message):
 async def send_tests_menu(message: types.Message):
     questions = parse_questions("questions.txt")
     if not questions:
-        await message.answer("⚠️ Savollar fayli bo'sh yoki topilmadi!")
+        await message.answer("⚠️ Savollar fayli bo'sh yoki topilmadi! (questions.txt faylini tekshiring)")
         return
 
     chunks = chunk_questions(questions, 30)
     
-    # Chiroyli UI uchun Inline tugmalar yig'amiz
+    # UI tugmalari (Apple-style toza dizayn)
     builder = InlineKeyboardBuilder()
     for i, chunk in enumerate(chunks):
         start_num = (i * 30) + 1
@@ -116,12 +116,21 @@ async def send_tests_menu(message: types.Message):
         btn_text = f"{i + 1}-bo'lim ({start_num}-{end_num})"
         builder.button(text=btn_text, callback_data=f"start_test_{i}")
         
-    builder.adjust(2) # Tugmalarni 2 tadan qilib joylashtirish
+    builder.adjust(2)
 
     await message.answer(
         "📚 <b>Qaysi bo'limdan test yechishni xohlaysiz?</b>\nO'zingizga kerakli bo'limni tanlang:",
         reply_markup=builder.as_markup()
     )
+
+@dp.message(Command("stop"))
+async def stop_test_cmd(message: types.Message):
+    chat_id = message.chat.id
+    if active_tests.get(chat_id):
+        active_tests[chat_id] = False
+        await message.answer("🛑 <b>Test jarayoni darhol to'xtatildi!</b>")
+    else:
+        await message.answer("⚠️ Hozircha faol test jarayoni yo'q.")
 
 @dp.message(Command("leaderboard"))
 async def show_leaderboard(message: types.Message):
@@ -142,13 +151,18 @@ async def show_leaderboard(message: types.Message):
 
 # --- 4. TEST YUBORISH JARAYONI (FON REJIMIDA) ---
 async def send_test_chunk(chat_id: int, chunk: list):
+    active_tests[chat_id] = True 
+    
     async with aiosqlite.connect(DB_PATH) as db:
         for i, q in enumerate(chunk):
+            # To'xtatilganligini tekshirish
+            if not active_tests.get(chat_id):
+                return
+                
             if len(q['options']) < 2:
                 continue
             
             try:
-                # Test yuborish
                 msg = await bot.send_poll(
                     chat_id=chat_id,
                     question=q['question'],
@@ -157,22 +171,31 @@ async def send_test_chunk(chat_id: int, chunk: list):
                     correct_option_id=q['correct_idx'],
                     is_anonymous=False
                 )
-                
-                # Baza yozuvi
                 await db.execute("INSERT OR REPLACE INTO active_polls (poll_id, correct_option_id, chat_id) VALUES (?, ?, ?)", 
                                  (msg.poll.id, q['correct_idx'], chat_id))
                 await db.commit()
             except Exception as e:
                 logging.error(f"Poll yuborishda xatolik: {e}")
 
-            # Eng oxirgi savol bo'lmasa, 1 daqiqa (60 soniya) kutish
+            # Eng oxirgi savol bo'lmasa, 30 soniya kutish
             if i < len(chunk) - 1:
-                await asyncio.sleep(60)
+                # Bot stop buyrug'iga tez reaksiya qilishi uchun 1 soniyadan kutamiz
+                for _ in range(30):
+                    if not active_tests.get(chat_id):
+                        return
+                    await asyncio.sleep(1)
                 
-    await bot.send_message(chat_id, "✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!")
+    if active_tests.get(chat_id):
+        await bot.send_message(chat_id, "✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!")
+        active_tests.pop(chat_id, None)
 
 @dp.callback_query(F.data.startswith("start_test_"))
 async def handle_start_test(call: types.CallbackQuery):
+    # Bir vaqtning o'zida bitta guruhda faqat bitta test ketishi kerak
+    if active_tests.get(call.message.chat.id):
+        await call.answer("⚠️ Bu chatda allaqachon test jarayoni ketmoqda. Oldin uni /stop orqali to'xtating.", show_alert=True)
+        return
+
     chunk_index = int(call.data.split("_")[-1])
     questions = parse_questions("questions.txt")
     chunks = chunk_questions(questions, 30)
@@ -183,15 +206,15 @@ async def handle_start_test(call: types.CallbackQuery):
         
     chunk = chunks[chunk_index]
     
-    # Tugmalarni yashirib, matnni yangilaymiz (minimalistik va tartibli)
     await call.message.edit_text(
         f"🚀 <b>{chunk_index + 1}-bo'lim boshlandi!</b>\n"
         f"Jami: {len(chunk)} ta savol.\n\n"
-        f"<i>⏳ Har bir savol 1 daqiqa interval bilan yuboriladi...</i>"
+        f"<i>⏳ Har bir savol 30 soniya interval bilan yuboriladi...</i>\n"
+        f"<i>🛑 To'xtatish uchun /stop buyrug'ini bering.</i>"
     )
     await call.answer()
     
-    # Test tashlashni orqa fonga (background) olamiz, toki bot boshqa buyruqlarga qotib qolmasligi uchun
+    # Orqa fonga yuborish
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk))
 
 # --- 5. JAVOBLARNI TEKSHIRISH VA BALL BERISH ---
@@ -206,7 +229,6 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
     selected_option = poll_answer.option_ids[0]
 
     async with aiosqlite.connect(DB_PATH) as db:
-        # poll_id orqali qaysi chat(guruh yoki lichka)danligini aniqlaymiz
         async with db.execute("SELECT correct_option_id, chat_id FROM active_polls WHERE poll_id = ?", (poll_id,)) as cursor:
             row = await cursor.fetchone()
             
