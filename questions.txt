@@ -1,11 +1,1847 @@
-? Python qachon yaratilgan?
-= 1995
-== 1991
-= 2000
-= 1989
 
-? Telegram bot yozish uchun qaysi kutubxona asinxron ishlaydi?
-== aiogram
-= telebot
-= requests
-= django
+
+
+O‘ZBEKISTON RESPUBLIKASI
+OLIY TA’LIM, FAN VA INNOVATSIYALAR VAZIRLIGI
+
+
+
+
+ANDIJON DAVLAT TEXNIKA INSTITUTI
+
+
+
+“TILLAR VA GUMANITAR FANLAR” KAFEDRASI
+
+
+
+“FALSAFA” FANIDAN YAKUNIY NAZORAT UCHUN
+
+
+
+TESTLAR
+
+
+
+
+
+
+
+
+
+
+
+
+ANDIJON – 2026
+
+
+? “Falsafa” аtаmаsining mа’nоsi nimа?
+= Dunyоni bilish
+= Dunyоni sеvish
+	= Hikmаtli sо‘z
+	== Dоnishmаndlikni sеvish
+	
+? Dunyоqаrаsh nimа?
+= Оlаm tо‘g‘risidаgi bilimlаr yig‘indisi
+== Olamni tasavvur qilish, idrok etish va bilishdir
+= Оlаm hаqidаgi tаbiiy ilmiy qаrаshlаr tizimi
+= Dunyо tо‘g‘risidаgi mifоlоgik tаsаvvurlаr
+
+? “Falsafa” sо‘zini birinchi bо‘lib qо‘llаgаn yunоn fаylаsufi kim?
+== Pifаgоr
+= Аflоtun
+	= Аrаstu
+	= Suqrоt
+	
+? Fаlsаfа nimаni о‘rgаtаdi?
+== Tаfаkkur qоnunlаri vа tаlаblаri аsоsidа dunyоning yаxlit idrоk еtilishini
+= Tаjribаdаn о‘tgаn bilimlаr аsоsidа оlаm hаqidа izchil tаsаvvurlаrni shаkllаntirishni
+= Jаmiyаtning о‘tmishini umumlаshtirish оrqаli kеlаjаkni оldin tаsаvvur еtishni
+	= Insоnning murаkkаb ijtimоiy hаyоtdаgi о‘rnini bеlgilаb bеrishgа xizmаt qiluvchi qаrаshlаr, fikrlаr tа’limоtlаrning yig‘indisi
+	
+	? Fаlsаfа qаndаy fаn? 
+= Tаbiаt vа jаmiyаt qоnunlаri hаqidаgi fаn
+	= Fаlsаfа fаnlаrning оtаsi
+	== Оlаm vа undа insоnning о‘rni hаqidаgi fаn
+	= Fаnlаr tilini ilmiy tа’riflаydigаn fаn
+	
+? “Zаrdо‘shtiylik” tа’limоtidа muqаddаslаshtirilgаn tо‘rt еlеmеnt?
+= Suv, hаvо, tuprоq, yеr
+= Tuprоq, suv, lоy, quyоsh
+= Quyоsh, hаvо, оlоv, dеngiz
+== Suv, hаvо, оlоv, yеr
+
+? Fаlsаfа qаndаy funksiyаlаrni bаjаrаdi?
+== Аxlоqiy, mеtоdоlоgik, dunyоqаrаshni shаkllаntirish
+= Gnоsеоlоgik, tаrbiyаlоvchilik, fаnlаrgа yеtаkchilik qilish
+= Prаksiоlоgik, birlаshtiruvchilik, ishоntirish
+= Univеrsiаllik, bаhоlаsh, rаhnаmоlik
+	
+	? Fаlsаfаning prеdmеti nimа?
+	= Dunyоning vujudgа kеlishidagi munоsаbаt
+	== Dunyо, insоn va ular о‘rtаsidаgi munоsаbаt
+	= Bоrliq vа yо‘qlik о‘rtаsidаgi munоsаbаt
+	= Din о‘rtаsidаgi munоsаbаt
+	
+? Аfsоnаviy dunyоqаrаsh nimа?
+= Rivоyаtlаr mаjmuаsi
+= Bаdiiy–pоеtik timsоllаr yig‘indisi
+== Hоdisаlаr hаqidаgi qаdimgi hаyоliy-bаdiiy tаsаvvurlаr
+= Tirik mаvjudоtlаr hаqidаgi mistik qаrаshlаr
+
+? Fаlsаfiy dunyоqаrаsh tаmоyilini kо‘rsаting?
+== Bаg‘rikеnglik
+= Mаqsаdlilik
+= Еrkinlik
+= Аxlоqiylik
+
+? Kаlоm fаlsаfаsining аsоschisi kim?
+= Аbu Аli аl-Jubbiy
+= Ismоil аl-Аsh’аriy
+= Ismоil аl-Buxоriy
+== Аbu Mаnsur Muhаmmаd
+
+? Ibn Sinо fаlsаfiy аsаrlаrini аniqlаng?
+= “Kitоb аt-Shifо”, “Kitоb аt-Tаvоrix”, “Tib qоnunlаri”, “Xay ibn yakzon”
+== “Tib qonunlari”, “Bilim kitobi”, “Donishnoma”, “Xay ibn yakzon”
+= “Dоnishnоmа”, “Kitоb аsh-shifо”, “Sаydаnа”, “Xay ibn yakzon”
+= “Quvvаt ul-tаbiа”, “Risоlа fil-ishk”, “Оsоr аl-Bоqiyа”, “Xay ibn yakzon”
+
+? Fаrоbiy аsаrlаrini kо‘rsаting?
+= “Fаlsаfiy sаvоllаr vа ulаrgа jаvоblаr”, “Аql tо‘g‘risidа”, “Lоgikаgа kirish”, “Siyosat falsafasi”, “Fuqarolik siyosati”
+= “Fаlsаfаni о‘rgаnishdа nimаlаrni bilish kеrаk”, “Dаvlаt hаqidа”, “Dоnishnоmа”, “Siyosat falsafasi”, “Fuqarolik siyosati”
+== “Kitob-ul xuruf”, “Fozil odamlar shahri”, “Ehsoul ulum”, “Siyosat falsafasi”, “Fuqarolik siyosati”
+= “Insоn а’zоlаri hаqidа risоlа”, “Pоеtikа, “Fоzil оdаmlаr shаhri”, “Siyosat falsafasi”, “Fuqarolik siyosati”
+
+? Beruniy аsаrlаrini kо‘rsаting?
+= “Fаlsаfiy sаvоllаr vа ulаrgа jаvоblаr”, “Аql tо‘g‘risidа”, “Lоgikаgа kirish”
+== “Qadimgi xalqlardan qolgan yodgorliklar”, “Hindiston”, “Minerologiya”
+= “Kitob-ul xuruf”, “Fozil odamlar shahri”, “Ehsoul ulum”
+= “Insоn а’zоlаri hаqidа risоlа”, “Pоеtikа, “Fоzil оdаmlаr shаhri”
+
+? Dаоsizm tа’limоtining аsоschisi kim?
+= Kоnfutsiy
+== Lао Szi
+= Mо Szi
+= Syun Szi
+
+? Xorazmiy аsаrlаrini kо‘rsаting?
+= “Fаlsаfiy sаvоllаr vа ulаrgа jаvоblаr”, “Аql tо‘g‘risidа”, “Lоgikаgа kirish”, “Astronomiya jadvali”, “Hind hisobi to‘g‘risida risola”
+== “Astronomiya jadvali”, “Hind hisobi to‘g‘risida risola”, “Quyosh soati to‘g‘risida risola”, “Musiqa haqida risola”, “Tiklash va qarshi qo‘yish hisobiga oid muxtasar kitob”
+= “Kitob-ul xuruf”, “Fozil odamlar shahri”, “Ehsoul ulum”, “Siyosat falsafasi”, “Fuqarolik siyosati” 
+= “Insоn а’zоlаri hаqidа risоlа”, “Pоеtikа, “Fоzil оdаmlаr shаhri”, “Astronomiya jadvali”, “Hind hisobi to‘g‘risida risola”
+
+? Jаdidchilik hаrаkаtining nаmоyоndаlаrini kо‘rsаting?
+== Bеhbudiy, Аvlоniy, Fitrаt
+= Mаshrаb, Bеdil, Оgаhiy
+= Muqimiy, Munаvvаrqоri, Furqаt
+= Аnbаr Оtin, Zаvqiy, Аvlоniy
+? “Ezgu fikr, ezgu so‘z, ezgu amal” g‘oyasi kim tomonidan ilgari surilgan?
+== Zardo‘sht
+= Gʻazzoliy
+= Nasafiy
+= Navoiy
+
+? “Avesto” kitobini birinchi marta o‘zbek tiliga kim tarjima qilgan?
+== A.Mahkam
+= A.Avloniy
+= Nasafiy
+= A.Navoiy
+
+? Vedalar qaysi to‘plamlardan iborat?
+= Samaveda, Yajuraveda, Adxarvaveda
+== Rigveda, Samaveda, Yajuraveda, Adxarvaveda
+= Yajuraveda, Adxarvaveda, Rigveda
+= Adxarvaveda, Yajuraveda, Rigveda
+
+? Milеt mаktаbining аsоschisi kim?
+== Fаlеs
+= Ksеnоfаn
+	= Аnаksаgоr
+	= Diоgеn
+
+? “Oqar suvga bir soniyada ikki marta tushish mumkin emas, chunki suv har daqiqada yangilanib turadi” degan fikr qaysi faylasufga tegishli?
+== Geraklit
+= Ksеnоfаn
+	= Аnаksаgоr
+	= Diоgеn
+	
+? Karl Pоppеrнинг eng muhim asarlari аniqlаng?
+= “Teologiya yig’indisi”, “Falsafa yig’indisi”, “Majusiylarga qarshi yig’indi”, “Оb’еktiv bilim. Evоlyutsiоn yondashuv”, “Rеalizm va fan maqsadi”
+== “Ilmiy tadqiqоt mantiqi”, “Оchiq jamiyat va uning dushmanlari”, “Tariхiylikning qashshоqligi”, “Оb’еktiv bilim. Evоlyutsiоn yondashuv”, “Rеalizm va fan maqsadi”
+= “Kitob-ul xuruf”, “Fozil odamlar shahri”, “Ehsoul ulum”, “Siyosat falsafasi”, “Оb’еktiv bilim. Evоlyutsiоn yondashuv”, “Rеalizm va fan maqsadi”
+= “Insоn а’zоlаri hаqidа risоlа”, “Pоеtikа, “Fоzil оdаmlаr shаhri”, “Оb’еktiv bilim. Evоlyutsiоn yondashuv”, “Rеalizm va fan maqsadi”
+
+? Pоzitivizm tа’limоtining аsоschisi kim?
+== Оgyust Kоnt
+= Immаnuil Kаnt
+= Spеnsеr
+= Diоgеn
+
+? Kant fikricha bilish jarayoni nechta bosqichdan o‘tadi?
+= Aqldan, idrоk etishdan o‘tadi
+= Sеzgilar, idrоk etishdan o‘tadi
+== Sеzgilar, idrоk etish, aqldan o‘tadi
+= Sеzgilar, aqldan o‘tadi
+
+? Nеmis klassik falsafasining asоschisi kim?
+== Immanuil Kant
+= Fiхtе 
+= F.SHеlling 
+= Lyudvig Fеyеrbaх
+
+? Bilishning empirik mеtоdi asоschisi kim?
+= Immanuil Kant
+= Fiхtе 
+== Frеnsis Bekоn
+= Lyudvig Fеyеrbaх
+
+? Foma  Akvinskiyning eng mashhur asarlarini аniqlаng?
+== “Teologiya yig‘indisi”, “Falsafa yig‘indisi”, “Majusiylarga qarshi yig‘indi”
+= “Astronomiya jadvali”, “Hind hisobi to‘g‘risida risola”, “Quyosh soati to‘g‘risida risola”
+= “Kitob-ul xuruf”, “Fozil odamlar shahri”, “Ehsoul ulum”, “Siyosat falsafasi”
+= “Insоn а’zоlаri hаqidа risоlа”, “Pоеtikа, “Fоzil оdаmlаr shаhri”
+
+? “Insоn – mashina” asarining muallifi kim?
+== Jyulеn Оfre dе Lamеtri
+= Pоl Gеnriх Ditriх Gоlbaх
+= Dеni Didrо
+= Gеlvеtsiy
+
+? Anaksimen olam asosiga nimani qo‘ygan?
+= Suvni
+== Havoni
+= Tuproqni
+= O‘tni
+
+? “Ontologiya” atamasi qaysi so‘zdan olingan?
+== Yunoncha “ontos” – borliq, “logos” – so‘z, ta’limot
+= Lotincha “ontos” – borliq, “logos” – so‘z, ta’limot
+= Arabchadan olingan
+= To‘g‘ri javob yo‘q
+
+? Borliqning asosiy kategoriyasi nima?
+= Makon va zamon
+== Borliq va yo‘qlik
+= Sifat va miqdor
+= To‘g‘ri javob yo‘q
+
+? Borliqning shakllari nechtaga bo‘linadi?
+= 2 ta
+= 3 ta
+== 4 ta
+= 5 ta
+
+? Falsafada borliq va yo‘qlik o‘rtasidagi o‘zaro aloqa qanday?
+= Ziddiyatli
+== Dialektik
+= Chambarchas
+= To‘g‘ri javob yo‘q
+
+? Ma’naviy borliq nechtaga bo‘linadi?
+= 3 ta
+= 4 ta
+== 2 ta
+= 5 ta
+
+? Individuallashgan ma’naviy borliq – bu nima?
+== Insonning ichki dunyosi
+= Insonning tashqi dunyosi
+= Ijtimoiy makon va vaqt
+= To‘g‘ri javob yo‘q
+
+? “Ontologiya” atamasi falsafada nechanchi asrdan boshlab qo‘llanilmoqda?
+== XVII asrdan
+= XX asrdan
+= XVI asrdan
+= XVIII asrdan
+
+? Borliq haqidagi tasavvurlar bizgacha qanday yetib kelgan?
+== Afsonalar, dostonlar, ertaklar va miflar orqali
+= Ilmiy dalillar, ertaklar va miflar orqali 
+= Qadriyatlar, urf-odatlar, ertaklar va miflar orqali 
+= To‘g‘ri javob yo‘q
+
+? “Materiya” atamasi qanday ma’noni anglatadi?
+= Materiya
+= Modda
+== Substansiya
+= To‘g‘ri javob yo‘q
+
+? “Borliq bor, yo‘qlik esa – yo‘q”, degan fikr kimga tegishli?
+== Parmenid
+= Suqrot
+= Platon
+= Zenon
+
+? “Dialektika” so‘zining ma’nosini toping?
+== Bahs, suhbat
+= Ongsizlik san’ati
+= Ong san’ati
+= Sezgi, his-tuyg‘u san’ati
+
+? Miqdor bu nima?
+== Predmet muayyan xossasining namoyon bo‘lishi, intensivligi darajasi
+= Predmetning jihati bo‘lib, uning boshqa predmetlardan farqi yoki ular bilan o‘xshashligini belgilaydi va ular bilan o‘zaro aloqada namoyon bo‘ladi
+= Predmet borlig‘ining chegarasi
+= To‘g‘ri javob yo‘q
+
+? Qarama – qarshilik bu - ....?
+= Predmet muayyan xossasining namoyon bo‘lishi, intensivligi darajasi
+== Predmetning bir-birini istisno etuvchi va bir-birini nazarda tutuvchi tomonlaridir
+= Predmet borlig‘ining chegarasi
+= Predmetning jihati bo‘lib, uning boshqa predmetlardan farqi yoki ular bilan o‘xshashligini belgilaydi va ular bilan o‘zaro aloqada namoyon bo‘ladi
+
+? Differensial, integral kategoriyalar qaysi fan bilan bog‘liq?
+= Biologiya
+== Matematika
+= Fizika
+= Ximiya
+
+? Irsiyat, o‘zgaruvchanlik kategoriyalar qaysi fan bilan bog‘liq?
+== Biologiya
+= Matematika
+= Fizika
+= Ximiya
+
+? Fan va falsafa kategoriyalarining farqi nimada?
+== Falsafiy kategoriyalar o‘ta keng tushunchalar
+= Fan kategoriyalari o‘ta ma’noli tushunchalar
+= Falsafa kategoriyalari juda oz
+= Fan kategoriyalari irrasionallikni tan oladi
+
+? Falsafiy kategoriyalar guruhi nechta?
+= 2 ta
+== 3 ta
+= 6 ta
+= 5 ta
+
+? Al-Muqaddima asarining muallifi kim?
+== Ibn-Xaldun
+= Immаnuil Kаnt
+= Spеnsеr
+= Diоgеn
+
+? Quyidagi qaysi qatorda harakat shakllari to‘g‘ri ko‘rsatilgan?
+= Kimyoviy, mexanik, fizik, geologik, ijtimoiy
+= Ximik, astronomik, , mexanik, fizik
+== Fizik, kimyoviy, biologik, mexanik, ijtimoiy
+= Barcha javoblar to‘g‘ri
+
+? Alisher Navoiy nechanchi yillarda yashab ijod etgan?
+== 1441-1501
+= 1509-1600
+= 1442-1525
+= 1501-1589
+
+	? Bilish haqidagi ta’limot bu - ....?
+	= Ontologiya
+	== Gnoseologiya
+	= Ideologiya
+	= Epistemologiya
+	
+	? Qaysi qatorda empirizm vakillari berilgan?
+	== Bekon, Lokk, Gobbs
+	= Dekart, Gobbs, Bekon
+	= Platon, Avgustin, Bekon
+	= Volter, Kont, Kant
+	
+	? Optimizm nima?
+	= Xudoni tan olmaydi deya ta’kidlaydi
+	== Dunyoni bilish mumkinligini ta’kidlaydi
+	= To‘g‘ri javob yo‘q
+	= Dunyoni bilishni rad etadi deb ta’kidlaydi
+	
+	? Dunyoni bilish mumkinligini rad etuvchilar kimlar?
+	= Optimistlar
+	= Gnostiklar
+	= Skeptiklar
+	== Agnostiklar
+	
+	? Bilim bu - ....?
+	== Haqiqatga mos keladigan va asoslangan ishonch
+	= Bilim bu yolg‘on ma’lumot
+	= Hali asoslanmagan fikr
+	= Haqiqatga mos kelmaydigan fikr va asoslangan ishonch
+	
+	? Bilish faolligining manbai bu - ....?
+	= Ob’yekt
+	= Hodisa
+	= Makon
+	== Sub’yekt
+	
+	? Sub’yektning bilish faoliyati qaratilgan narsa yoki hodisa bu - ....?
+	== Ob’yekt
+	= Hodisa
+	= Makon
+	= Sub’yekt
+	
+	? Agnostisizm bu - ....?
+	== Olamni bilish mumkin emas
+	= Dunyoni egallash mumkin emas
+	= To‘g‘ri javob yo‘q
+	= Olamni bilish 
+	
+	? Tafakkurning asosiy shakllari ko‘rsating?
+	= Tushuncha, xulosa, bashorat qilish
+	== Tushuncha, hukm, xulosa
+	= Tushuncha, xulosa, intuisiya
+	= Xulosa, mulohaza, bashorat qilish
+	
+	? Intuisiya nima?
+	= Haqiqatni bevosita anglab yetish qobiliyati
+	== Haqiqatni mantiqiy dalillar yordamisiz bevosita anglab yetish qobiliyati
+	= Haqiqatni mantiqiy dalillash qobiliyati
+	= Hali asoslanmagan fikr qobiliyati
+	
+? “Mantiq” so’zining lug‘aviy ma’nosi nima?
+== Fikr, so’z
+= To’g‘ri fikr, so’z
+= Tafakkur, so’z
+= Termin, so’z
+
+? Formal mantiq nima?
+== Fikrlashning tuzilishi va uning qonunlari haqidagi fan
+= Fikrlarni rivojlanishda o‘zaro aloqada o‘rganadigan fan
+= Fikrlash jarayonini turli simvollar yordamida o‘rganadigan fan
+= Real voqelikda mavjud bo‘lmagan, lekin fikrda qurish mumkin bo‘lgan ob’yektlarni o‘rganadigan fan
+
+? Hukm nima? 
+== Predmetga ma’lum bir belgining xosligi yoki xos emasligini ifodalovchi tafakkur shaklidir
+= Fikrlarni rivojlanishda, o‘zaro aloqada o‘rganadigan fan
+= Fikrlash jarayonini turli simvollar yordamida o‘rganadigan fan
+= Real voqelikda mavjud bo‘lmagan, lekin fikrda qurish mumkin bo‘lgan ob’yektlarni o‘rganadigan fan
+
+? Hukmlar tuzilishiga ko‘ra necha turga bo‘linadi?
+== Oddiy va murakkab
+= Ob’yektiv va sub’yektiv
+= Oddiy va sub’yektiv
+= Murakkab va ob’yektiv
+
+? Mantiq ilmining o‘rganish ob’yektini nima tashkil etadi?
+= So’z
+= To’g‘ri fikr
+== Tafakkur
+= Termin
+
+? “Tafakkur” so‘zining lug‘aviy ma’nosi nima?
+= Fikr, so’z, aqliy bilish
+= To’g‘ri fikr, aqliy bilish
+== Fikrlash, aqliy bilish
+= Termin, aqliy bilish
+
+? Logistizm nima?
+= Hozirgi zamondagi matematik mantiqning asosiy oqimi
+= Hozirgi zamon noklassik mantig‘i tarmog‘i
+== Mantiq ilmini matematikadan ustun qo‘yishga intilgan oqim
+= Hozirgi zamon klassik mantig‘i tarmog‘i
+
+? Tilning qanaqa turlari mavjud?
+== Tabiiy va sun’iy
+= Ob’yektiv va sub’yektiv
+= Oddiy va sub’yektiv
+= Oddiy va murakkab
+
+? Istisno qonuniga berilgan ta’rifni toping?
+== Bu qonun fikrlar o‘rtasidagi zid munosabatlarni ifodalaydi
+= Hozirgi zamon noklassik mantig‘i tarmog‘i
+= Bu qonun mantiq ilmini matematikadan ustun qo‘yishga intilgan oqim
+= Hozirgi zamon klassik mantig‘i tarmog‘i
+
+? “Anglash uchun e’tiqod qilaman” degan fikr kimga tegishli?
+== Avgustin, Kenterberiyskiy
+= Per Abelyar, Sokrat
+= Demokrit, Per Abelyar
+= Sokrat, Demokrit
+
+? Madaniy tarixiy tiplar nazariyasi qachon vujudga keldi?
+== XIX asr
+= XVII asr
+= XVIII asr
+= XX asr
+
+? Qaysi olim jamiyatni gorizontal, vertikal yo‘nalishlarda va fluktuatsiya (tebranish) tarzida, murakkab harakatda bo‘lgan ijtimoiy-madaniy tizimlarning rang-barangligini tan olish nuqtai nazaridan tavsiflagan? 
+= N.Ya.Dostoyevskiy
+= Gegel
+== P.A.Sorokin
+= T.Kun
+
+? Y.Xeyzinga qaysi madaniyatga insonni shakllantiruvchi asosiy tamoyil sifatida qaraydi?
+== O‘yin va o‘yin faoliyati
+= Din va o‘yin faoliyati
+= Mehnat va o‘yin faoliyati
+= To‘g‘ri javob yo‘q
+
+? Jamiyatni ma’naviy kichik tizimini vujudga kelishi nimalar bilan belgilanadi?
+== Har xil ijtimoiy va ma’naviy ehtiyojlar bilan
+= Har xil ijtimoiy va moddiy ehtiyojlar bilan
+= Har xil mulkiy ehtiyojlar bilan
+= To‘g‘ri javob yo‘q
+
+? Yangi bilimni aks ettiradigan va mazkur axborotni idrok etuvchi shaxs yoki guruh xulq-atvorini o‘zgartiradigan xabar bu - ....?
+== Axborot
+= Din
+= Mehnat
+= To‘g‘ri javob yo‘q
+
+? Kommunikatsiya nima?
+== Gʻoyalar, qarashlar, baholar almashinuvini nazarda tutadigan ma’naviy muloqot turi
+= Yangi bilimni aks ettiradigan axborot turi
+= Axborotni idrok etuvchi shaxs yoki guruh xulq-atvorini o‘zgartiradigan xabar
+= To‘g‘ri javob yo‘q
+
+? Individual ong bu - ....?
+== Ayrim insonda dunyoning sub’yektiv obrazi
+= Ayrim insonda dunyoning ob’yektiv obrazi
+= Ayrim insonda ommaviy ong turi
+= To‘g‘ri javob yo‘q
+
+? Ijtimoiy ongning darajalariga nima deyiladi?
+== Kundalik va nazariy ong
+= Kundalik va amaliy ong
+= Amaliy ong
+= Amaliy va nazariy ong
+
+? “Sivilizatsiya” so‘zining lug‘aviy ma’nosi?
+== Lotincha, “civilis” – “fuqarolik”, “davlatga doir”
+= Yunoncha, “civilis” – “fuqarolik”, “davlatga doir”
+= Inglizcha, “civilis” – “fuqarolik”, “davlatga doir”
+= Forscha, “civilis” – “fuqarolik”, “davlatga doir”
+
+? Gʻoyalar, qarashlar, baholar almashinuvini nazarda tutadigan ma’naviy muloqot turi bu - ....?
+== Kommunikatsiya
+= Axborot
+= Mehnat
+= To‘g‘ri javob yo‘q
+
+? Falsafaning tarixiy jarayon mazmuni, uning qonuniyatlari va asosiy yo‘nalishlarini tushuntirish bilan shug‘ullanuvchi, shuningdek uni bilish metodlarini asoslovchi bo‘limi nima?
+== Tarix falsafasi
+= Huquq falsafasi
+= Iqtisod falsafasi
+= Din falsafasi
+
+? Tarix falsafasining funksiyalarini belgilang?
+== Dunyoqarash, nazariy, metodologik, prognostik
+= Dunyoqarash, pedagogik, didaktik, prognostik
+= Eksperimental, prognostik, pedagogik, didaktik
+= Insonparvarlik, ontologik, prognostik, pedagogik
+
+? Tarix falsafasining gnoseologik yo‘nalishi qachon mustaqil shakllana boshlagan?
+== XIX  asrda
+= XV asrda
+= XX  asrda
+= XVIII asrda
+
+? Tarix falsafasining gnoseologik yo‘nalishining asoschisi kim?
+== V.Diltey
+= M.Xadegger
+= Raymond Lulli
+= G.Zimmel
+
+? “Ilohiy shahar haqida” asarning muallifi kim?
+== A.Avgustin
+= G.Gegel
+= Akvinskiy
+= G.Zimmel
+
+? Sosiologiyaning fan sifatidagi asoschisi kim?
+== O.Kont
+= I.Kant
+= T.Kun
+= G.Gegel
+
+? 2026-yil Amir Temur tavalludining necha yilligi nishonlandi?
+== 690
+= 700
+= 670
+= 660
+
+? “Demokratiya” so‘zining ma’nosi?
+== Xalq hokimiyati
+= Fikrlar ko‘pligi
+= Davlat hokimiyati
+= To‘g‘ri javob yo‘q
+
+
+? Ajdodlar tomonidan yaratilgan va har bir jamiyatning ijtimoiy – madaniy jarayoniga kiritilgan qadriyatlar majmui bu - ....?
+== Madaniy meros
+= To‘g‘ri javob yo‘q
+= Ma’naviy meros
+= Diniy – iqtisodiy meros
+
+? “Informatika” so‘zi qaysi tildan olingan?
+== Fransuz
+= Rus
+= Ingliz
+= Italyan
+
+? “Odamlar o‘zlarining xos xususiyatlariga va tabiiy ehtiyojlariga ko‘ra jamiyat tuzadilar. Ularning harakat va fe’llarini dastavval bora-bora odatlarga aylanadigan tabiiy qobiliyatlar belgilaydi”. Mazkur fikr muallifi kim?
+= Beruniy
+== Farobiy
+= Ibn Sino
+= Navoiy
+
+? Quyida keltirilgan fikrlardan qaysi biri antik davrda Delfidagi Apollon ibodatxonasiga kiraverishda ustunga o‘yib yozilgan?
+= “Kimki o‘zini bilsa, u o‘z Allohni ham bilgaydir”
+= “Inson barcha narsalar mezonidir”
+= “Boshqalarni biluvchi – oqil, o‘zini biluvchi – donishmanddir”
+== “O‘z-o‘zingni angla”
+
+? “Inson barcha narsalar mezonidir” iborasining muallifi kim?
+= Aflotun
+== Protagor
+= Lao Szi
+= Suqrot
+
+? Falsafa tarixida insonni “tabiat xalturasi” deb atagan faylasuf kim?
+= K.Linney
+= P.T.de Sharden
+= A.Eynshteyn
+== A.Shopengauer
+
+? Insonning paydo bo‘lishi haqidagi evolyusion konsepsiya asoschisi kim?
+= K.Linney
+== Ch.Darvin
+= Ch.Pirs
+= A.Eynshteyn
+
+? Insonnning yetuk organizmi taxminan qancha hujayradan iborat ekanligi aniqlangan?
+= 1100000 milliard
+== 30000 milliard
+= 200 milliard
+= 50000 milliard
+
+? Insonni o‘rganishning ekstravertiv yondashuvi vakillari to‘g‘ri ko‘rsatilgan javobni toping?
+= N.A.Byerdyayev, S.L.Frank, N.O.Losskiy, Lorens
+== N.A.Byerdyayev, S.N.Bulgakov, S.L.Frank, N.O.Losskiy
+= S.L.Frank, L.P.Karsavin, S.R.Bulgakov, K.Lorens
+= N.O.Losskiy, L.P.Karsavin, S.N.Bulgakov, A.Gelen
+
+? Insonning ong, jon, ruhiyat, instinktlar, nuqsonlar, fazilatlar kabi muhim xususiyatlarini tahlil etib, uni “ichdan” tushunish, anglab yetishni nazarda tutadigan falsafiy qarash qanday ataladi?
+= Ekstravertiv
+= Sosiologik
+= Biologik
+== Introvertiv
+
+? Insonni o‘rganishga doir asosiy yondashuvlar?
+== Ekstravertiv va introvertiv
+= Konrreduksiya va introvertiv
+= Sistemali yondashuv va introvertiv
+= Reduksiya va introvertiv
+
+? Insonga mohiyatini tahlil qilish go‘yoki «sirtdan» amalga oshiriladigan, buning natijasida diqqat markazidan, uning ijtimoiy va tabiiy mohiyati o‘rin oladigan falsafiy qarashni aniqlang?
+== Ekstravertiv
+= Sosiologik
+= Biologik
+= Introvertiv
+
+? “Aksiologiya” so‘zining lug‘aviy ma’nosi ?
+== Yunoncha, “axios” – “qadriyat”, “logos” – “fan”, “ta’limot”
+= Lotincha, “axios” – “qadriyat”, “logos” – “fan”, “ta’limot”
+= Inglizcha, “axios” – “qadriyat”, “logos” – “fan”, “ta’limot”
+= Arabcha, “axios” – “qadriyat”, “logos” – “fan”, “ta’limot”
+
+? “Aksiologiya” atamasini kim muomalaga kiritgan?
+= I.Kant
+== P.Lapi
+= E.Fromm
+= K.Popper
+
+? Qadriyatlar to‘g‘risidagi fan?
+= Teologiya
+= Evtanaziya
+== Aksiologiya
+= Sosiologiya
+
+? Aksiologiya qanday fan?
+== Falsafaning qadriyatlarni o‘rganuvchi alohida bo‘limi
+= Falsafaning an’analarni o‘rganuvchi alohida bo‘limi
+= Falsafaning urf-odatlarni o‘rganuvchi alohida bo‘limi
+= Falsafaning marosimlarni o‘rganuvchi alohida bo‘limi
+
+? “Moziyga qaytib ish ko‘rmoq xayrlidir” ushbu fikr muallifini aniqlang?
+= E.Vohidov
+== A.Qodiriy
+= A.Fitrat
+= Cho‘lpon
+? “Turkiy guliston yoxud axloq” asarining muallifi kim?
+== A.Avloniy
+= A.Qodiriy
+= A.Fitrat
+= Cho‘lpon
+
+? Qadriyatlar mavjudlik shakliga ko‘ra qanday bo‘ladi?
+= Siyosiy va iqtisodiy
+= Iqtisodiy va ma’naviy
+= Moddiy va siyosiy
+== Moddiy va ma’naviy
+
+? O‘zbekistonda kim qadriyatlar nazariyasi bilan shug‘ullanadi?
+== Q.Nazarov
+= D.Najimidinova
+= S.Shermuxamedov
+= B.To‘ychiyev
+
+? “Qadriyat ijtimoiy sub’yekt uchun muayyan ahamiyatga ega bo‘lgan me’yor”. Bu fikrlar kimga tegishli?
+== M.Veber
+= I.Kant
+= Gegel
+= T.Gobbs
+
+? Qadriyat bu – nima?
+= To‘g‘ri javob yo‘q
+= Inson uchun urfga aylangan tushunchalar yig‘indisi
+== Borliqning rang-barang elementlarining ob’yektiv ahamiyati bo‘lib, ularning mazmuni jamiyat sub’yektlarining ehtiyojlar va manfatlari bilan belgilanadi
+= Mohiyatiga ko‘ra ijtimoiy va ob’yekt – sub’yektli xususiyatiga ega, qadriyat insonning amaliy faoliyati jarayonida vujudga keladi, o‘z tabiatiga ko‘ra ob’yektdir
+
+? Etikani birinchi bo‘lib ilmiy muomalaga kiritgan faylasuf?
+== Arastu
+= Suqrot
+= Demokrit
+= Pifagor
+
+? “Axloq” so‘zi qaysi tildan kelib chiqqan va qanday ma’noni anglatidi?
+= Yunonchadan olingan bo‘lib, insonning muomala va ruhiy xususiyatlari majmuini, fe’lini, tabiatini anglatadigan «xulq» so‘zining ko‘plik shakli
+= Arabcha so‘z bo‘lib, ma’rifatli bo‘lish degani
+= Arabchadan olingan bo‘lib, shaharlik degan ma’noni anglatidi
+== Arabchadan olingan bo‘lib, insonning muomala va ruhiy xususiyatlari majmuini, fe’lini, tabiatini anglatadigan “xulq” so‘zining ko‘plik shakli
+
+? Odob nima?
+= Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
+= Inson o‘z qadrini, bu dunyoda uning hayoti oliy qadriyat ekanligini, o‘z shaxsi oldida o‘zi ma’sul ekanligini anglashi uchun xizmat qiladigan hissiyotlarni o‘z ichiga oladi
+== Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+= Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan xatti-harakatlarni o‘z ichiga oladi
+
+? Xulq nima? 
+= Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
+= Inson o‘z qadrini, bu dunyoda uning hayoti oliy qadriyat ekanligini, o‘z shaxsi oldida o‘zi ma’sul ekanligini anglashi uchun xizmat qiladigan hissiyot
+== Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+= Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan chiroyli xatti-harakatlarni o‘z ichiga oladi
+
+? Axloq qanday hodisa? 
+= Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
+= Inson o‘z qadrini, bu dunyoda uning hayoti oliy qadriyat ekanligini, o‘z shaxsi oldida o‘zi ma’sul ekanligini anglashi uchun xizmat qiladigan hissiyot
+== Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+= Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan chiroyli xatti-harakatlarni o‘z ichiga oladi
+
+? “Baxt – har bir inson intiladigan maqsad, zotan u muayyan komillikdir” – fikr kimga mansub?
+= Navoiy
+== Farobiy
+= Bobur
+= Oybek
+
+? “Taqdirni qo‘l bilan yaratur odam, Gʻoyibdan kelajak baxt bir afsona” – degan hikmatli satrlar kimning qalamiga mansub?
+= Gʻafur Gʻulom
+== Erkin Vohidov
+= Bobur
+= Erkin Yusupov
+
+? “Umuman, axloq ijtimoiy munosabatlar zaminida alohida shaxs sifatida mavjud bo‘lgan insonlarning o‘z-o‘zini idora qilish shakllari va me’yori, o‘zaro muloqot va munosabatlarda ularga xos bo‘lgan ma’naviy kamolot darajasining namoyon bo‘lishidir”-degan ta’rif kimga tegishli?
+= Gʻafur Gʻulom
+== Erkin Yusupov
+= Erkin Vohidov
+= Oybek
+
+? Narsalar, hodisalar, g‘oyalarning odamlarning muayyan birligi uchun qadriyat sifatida - ....?
+== Gruppaviy qadriyatlar
+= Milliy qadriyatlar
+= Individual qadriyatlar
+= Shaxsiy qadriyatlar
+
+? Narsalar, hodisalar, g‘oyalarning jahon hamjamiyati uchun qadriyat sifatida -....?
+= Gruppaviy qadriyatlar
+= Milliy qadriyatlar
+= Individual qadriyatlar
+== Umuminsoniy qadriyatlar
+
+? “Estetika” atamasini birinchi bo‘lib ilmiy muomalaga kiritgan buyuk olmon faylasufi kim?
+= Arastu
+= Suqrot
+= Demokrit
+== Baumgarten
+
+? “Ikkinchi muallim” degan nomni olgan mutafakkir kim?
+= Arastu
+== Farobiy
+= Suqrot
+= Demokrit
+
+? Sharqda “Birinchi muallim” nomini kim olgan?
+== Arastu
+= Suqrot
+= Demokrit
+= Farobiy
+
+? “Shoirlarning she’r yozish san’ati qonunlari haqida” degan risola kimning qalamiga mansub?
+= Arastu
+= Suqrot
+= Ibn Sino
+== Farobiy
+
+? “Fan ash-she’ri”, “She’r san’ati” asarlar muallifi kim?
+== Arastu
+= Ibn Sino
+= Oybek
+= Farobiy
+
+? “Navro‘znoma” asarining muallifi kim?
+== Xayyom
+= Ibn Sino
+= Oybek
+= Farobiy
+
+? “Go‘zallik barcha tillarda vasf etiladi va har qanday aqlga xush keladi” ushbu satrlar qaysi asardan olingan?
+= Yusuf qissasi
+== She’r san’ati
+= Navro‘znoma
+= Qush risolasi
+
+
+? Imom Gʻazzoliyning qaysi asarida estetikaga keng o‘rin berilgan?
+= Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar
+= Muhokama qobiliyatining tanqidi
+= Amaliy aqlning tanqidi
+== Din haqidagi ilmlarning jonlantirishi
+
+? Immanuil Kant qaysi asarlarida estetika muammolariga maxsus to‘xtaladi?
+== “Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar”, “Sof aqlning tanqidi”,  “Amaliy aqlning tanqidi”, “Muhokama qobiliyatining tanqidi”
+= “Fan ash-she’ri”, “She’r san’ati”, “Sof aqlning tanqidi”,  “Amaliy aqlning tanqidi”, “Amaliy aqlning tanqidi”
+= “Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar”, Din haqidagi ilmlarning jonlantirishi”, “Fan ash-she’ri”, “She’r san’ati”, “Amaliy aqlning tanqidi”
+= “Din haqidagi ilmlarning jonlantirishi”, “Fan ash-she’ri”, “She’r san’ati”, “Navro‘znoma”, “Amaliy aqlning tanqidi”
+
+? Fridrix Vilgelm Yozef Shellingning qaysi asarlarida estetika muammolari ko‘tarilgan?
+= “Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar”, “Sof aqlning tanqidi”
+= “Fan ash-she’ri”, “She’r san’ati”
+= “Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar”, “Din haqidagi ilmlarning jonlantirishi”
+== “San’at falsafasi”, “Resi”, “Tasviriy san’atning tabiatga munosabati”
+
+? Dunyodagi o‘zgarishlarning butun majmui, shunigdek ularning sabablari nechanchi yillardan “globallashuv” deb nomlangan?
+== 1990-yillardan
+= 1980-yillardan
+= 2000-yillardan
+= 1985-yillardan
+
+? Fundamental globallashuvning ilk alomatlari qachondan kuzatilgan?
+=  XX asr o‘rtasi
+= XVIII asrning 2-yarmi
+== XIX asrning 2-yarmi
+= XIX asr oxiri
+
+? Fundamental globallashuvning to‘la darajada borliqqa aylanishi qachondan kuzatiladi?
+== XX asr o‘rtalarida
+= XVIII asr oxiri
+= XIX asr o‘rtalarida
+= XVIII asr boshida
+
+? Qaysi davrda dunyoni iqtisodiy bo‘lib olish yakunlandi?
+= XX asr o‘rtalarida
+= XVIII asr oxiri
+== XIX asr o‘rtalarida
+= XVIII asr boshida
+
+? Globalistika mustaqil ilmiy yo‘nalish va ijtimoiy amaliyot sohasi sifatida nechanchi yildan shakllana boshlagan?
+== 1970-yillardan
+= 1980-yillardan
+= 1990-yillardan
+= 1960-yillardan
+
+? Globallashuv jarayonlarining amalda real shakl-shamoyili qachondan boshlab ko‘zga ko‘ringan?
+== XX asr o‘rtalarida
+= XVIII asr oxiri
+= XIX asr boshida
+= XVIII asr boshida
+
+? Nechanchi yildan globallashuv serqirra tus oldi?
+= 1970-yildan
+= 1980-yildan
+== 1990-yildan
+= 1960-yildan
+
+? “XX asrda umumjahon tarixi boshlandi” degan xulosa kimga tegishli?
+= K.Yaspers
+== A.Toynbi
+= Katta J.Bush 
+= U.Cherchill
+
+? Kim tomonidan “Shu davrdan e’tiboran, yaxlit bir butunnning yagona tarix sifatidagi jahon tarixi boshlanadi” degan fikr aytilgan?
+== K.Yaspers
+= A.Toynbi
+= Katta J.Bush
+= U.Cherchill
+
+? Nechanchi yildan dunyo informasion jihatdan uzil-kesil tutashgan?
+= 1998-yildan
+== 1991-yildan
+= 1985-yildan
+= 1992-yildan
+
+? O‘zbekiston Respublikasining “Korrupsiyaga qarshi kurashish to‘g‘risida”gi Qonuni qachon qabul qilingan?
+= 2018-yil 3 yanvar
+== 2017-yil 3 yanvar
+= 2019-yil 27 may
+= 2021-yil 27 may
+
+? O‘zbekiston Respublikasi Prezidentining “O‘zbekiston Respublikasida korrupsiyaga qarshi kurashish tizimini yanada takomillashtirish chora-tadbirlari to‘g‘risida” PF-5729-son Farmoni qachon qabul qilingan?
+= 2018-yil 3 yanvar
+= 2017-yil 3 yanvar
+== 2019-yil 27 may
+= 2021-yil 27 may
+
+? O‘zbekiston Respublikasining “Korrupsiyaga qarshi kurashish to‘g‘risida”gi qonuni nechta bob va nechta moddadan iborat?
+= 5 ta bob, 50 ta modda
+= 7 ta bob, 100 ta modda
+== 6 ta bob, 34 ta modda
+= 6 ta bob, 56 ta modda
+
+
+? “Korrupsiya” atamasi nimani anglatadi?
+= Jismoniy va yuridik shaxslar o‘rtasidag manfaatlar to‘qnashuvi yuz berishi mumkin bo‘lgan holat, ingliz tilida qarama qarshilik degan ma’noni anglatadi
+== Buzish, tizimni izdan chiqarish, mansabdorni pora evaziga og‘dirish degan ma’noni anglatadigan lotincha “corruptio” so‘zidan kelib chiqqan korrupsiya alomatlari, qonuniy manfaatlar o‘rtasida, deyentologik huquqbuzarlik
+= Korrupsiyaga qarshi kurashish to‘g‘risidagi qonun hujjatlarida belgilangan huquqbuzarlikning turi
+= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+
+? “Korrupsiyaga qarshi kurashish to‘g‘risida”gi Qonunda qanday atamalar belgilangan?
+= Korrupsiyaga qarshi kurashish to‘g‘risidagi qonun hujjatlari, qonun hujjatlarida nazarda tutilgan qoidalar, shaxsiy manfaatlar
+= Korrupsiya alomatlari, qonuniy manfaatlar o‘rtasida qarama qarshilik, deyentologik huquqbuzarlik
+= Jismoniy yoki yuridik shaxsning nomoddiy naf olishi, qonunga xilof ravishda foydalanish, korrupsiyaviy jinoyat
+== Korrupsiya, korrupsiyaga oid huquqbuzarlik, manfaatlar to‘qnashuvi
+
+? O‘zbekiston Respublikasining “Manfaatlar to‘qnashuvi to‘g‘risida”gi Qonuni qachon qabul qilingan?
+= 2018-yil 3 yanvar
+= 2017-yil 3 yanvar
+= 2019-yil 27 may
+== 2024-yil 5 iyun
+
+? O‘zbekiston Respublikasining “Manfaatlar to‘qnashuvi to‘g‘risida”gi Qonuni nechta bob va nechta moddadan iborat?
+= 5 ta bob, 50 ta modda
+== 5 ta bob, 33 ta modda
+= 6 ta bob, 34 ta modda
+= 6 ta bob, 56 ta modda
+
+? O‘zbekiston Respublikasining “Manfaatlar to‘qnashuvi to‘g‘risida”gi Qonunining                        4 –bobi nechta moddadan iborat?
+== 5 ta
+= 7 ta
+= 2 ta
+= 4 ta
+
+? O‘zbekiston Respublikasining “Manfaatlar to‘qnashuvi to‘g‘risida”gi Qonunining                     2–bobi qanday nomlanadi?
+= Manfaatlar to‘qnashuvi to‘g‘risidagi axborotni oshkor etishga va manfaatlar to‘qnashuvini aniqlashga doir choralar
+= Manfaatlar to‘qnashuvini tartibga solish bo‘yicha ko‘rilgan choralarni ko‘rib chiqish va tekshirish
+= Manfaatlar to‘qnashuviga yo‘l qo‘yilgan holda qarorlar qabul qilish yoki bitimlar tuzish
+== Manfaatlar to‘qnashuvi bilan bog‘liq munosabatlarni davlat tomonidan tartibga solish
+
+? O‘zbekiston Respublikasining “Korrupsiyaga qarshi kurashish to‘g‘risida”gi Qonuni             4–bobi qanday nomlanadi?
+= Korrupsiyaga qarshi kurashish bo‘yicha faoliyatni amalga oshiruvchi va unda ishtirok etuvchi organlar hamda tashkilotlar
+== Korrupsiyaning oldini olishga doir chora-tadbirlar 
+= Korrupsiyaga qarshi kurashish sohasida huquqiy ong va huquqiy madaniyatni yuksaltirish
+= Korrupsiyaga oid huquqbuzarliklarni aniqlash, ularga chek qo‘yish, javobgarlikning muqarrarligi
+
+? Mif atamasi qanday ma’nolarni anglatadi?
+== Rivoyat, afsona
+= O‘yin, san’at
+= San’at, voqea
+= Afsona, urush
+
+? Miflar nimalar orqali ifodalanadi?
+== Rivoyat, ertaklar
+= Ertaklar, qo‘shiqlar
+= Qo‘shiq, kuy
+= Mehnat, ov
+
+? Falsafada nima birinchi o‘rinda turadi?
+== Savol, masala
+= Aniq javob, masala
+= Obraz, masala
+= Dalillar, masala
+
+? Tafakkur qonunlari va usullari haqidagi fan bu qaysi?
+== Mantiq
+= Dialektika
+= Etika
+= Tarix
+
+? “Men uchun bir kishi, agar u hammadan yaxshi bo‘lsa, 10000 kishiga teng” fikr kimga tegishli?
+== Geraklit
+= Platon
+= Suqrot
+= Epikur
+
+? “Axmoqni maqtagan aslida unga yomonlik qiladi”  ushbu fikr kimga tegishli?
+== Demokrit
+= Platon
+= Suqrot
+= Epikur
+
+? “O‘lim qo‘rqinchli emas: men ungacha mavjudman, u mendan keyin mavjud” fikr kimga tegishli?
+== Epikur
+= Platon
+= Suqrot
+= Arastu
+
+? “Do‘stlik – birga yashashning zaruriy shartidir” ushbu jumla kimga tegishli?
+== Arastu
+= Platon
+= Suqrot
+= Iskandar
+
+? “Odamlar seni bilmasliklaridan g‘am chekma, o‘zing odamlarni bilmasligingdan g‘am chek” ushbu fikr kimga tegishli?
+== Konfusiy
+= Platon
+= Suqrot
+= Arastu
+
+? “Dialektika” so‘zini ilk bor kim ishlatgan?
+== Suqrot
+= Platon
+= Epikur
+= Arastu
+
+? “Davlat” asarini muallifi kim?
+== Platon
+= Zenon
+= Epikur
+= Arastu
+
+? Qon aylanishini kim kashf etgan?
+== V.Garvey
+= U.Gilbert
+= G.Dekart
+= T.Gobbs
+
+? “Hamma narsa sondir” kimning fikri?	
+== Pifagor
+= Gilbert
+= Dekart
+= Gobbs
+
+? Substansiya nima?
+== Borliqning eng asosiy va quyi qatlami
+= Borliq birinchi negizining yagonaligi
+= Mohiyat va mavjudning birligi
+= To‘g‘ri javob yo‘q
+
+? “Men fikrlayapman, demak, men mavjudman” iborasi muallifi kim?
+== Dekart
+= Spinoza
+= Kant
+= Arastu
+
+? “Hamma narsa bir” kimning shiori?
+== Parmenid
+= Geraklit
+= Protagor
+= Zenon
+
+? Zilzila yerning qaysi qobig‘ida sodir bo‘ladi?
+== Yerning qattiq qobig‘ida
+= Yerning havo qismida
+= Yerning yumshoq qobig‘ida
+= To‘g‘ri javob yo‘q
+
+? Harakat shakllari nechtaga bo‘linadi?
+== 5 ta
+= 6 ta
+= 3 ta
+= 2 ta
+
+? “O‘zingni bilsang, olamni bilasan” degan ibora muallifi kim?
+== Suqrot
+= Aflotun
+= Demokrit
+= Aristotel
+
+? Ikki yoki bir nechta suhbat nima deyiladi?
+== Dialog
+= Roman
+= Qissa
+= Monolog
+
+? Predmet borlig‘ining cheragasi nima?
+== Me’yor
+= Miqdor
+= Mohiyat
+= Hodisa
+
+? “Sezmaydigan odam hech narsani bilmaydi va tushunmaydi” degan fikr muallifi kim?
+== Aristotel
+= Geraklit
+= Demokrit
+= Platon
+
+? Quyosh tutilishini bashorat qila olgan faylasuf kim?
+== Fales
+= Geraklit
+= Demokrit
+= Platon
+
+? “Tarix kurtaklari va uning maqsadi” asari muallifi kim?
+== Yaspers
+= Geraklit
+= Demokrit
+= Platon
+
+? 1483-1530-yillarda yashagan buyuk shoir, mutafakkir va davlat arbobi kim?
+== Zahiriddin Muhammad Bobur
+= Alisher Navoiy
+= Abu Nasr Farobiy
+= Abu Rayhon Beruniy 
+
+? “Metafizika” so‘zining ma’nosi?
+== Yunoncha “fizikadan keyin”
+= Yunoncha “fizika haqidagi fan”
+= Rivojlanish haqidagi fan
+= Qarama-qarshilik haqidagi fan
+
+
+? Dialektika so‘zini kim fanga kiritgan?
+== Suqrot
+= Arastu
+= Platon
+= Pifagor
+
+? Sezgi a’zolari orqali olingan bilim qanday bilim hisoblanadi?
+== Hissiy
+= Aqliy
+= Irrasional
+= Dalil
+
+? Farobiy bilishning qanday shakllarini ko‘rsatib o‘tadi?
+== Hissiy va oqilona
+= Aqliy va irrasional
+= Xotira va tasavvur
+= Aqlik va idrok
+
+? Agnostiklarning eng yirik vakili kim?
+== Kant
+= Gegel
+= Shelling
+= Fixte
+
+? Magiya nima?
+== Ilohiy kuchlarga sig‘inish
+= Hayvonlarga sig‘inish
+= Yomg‘irga sig‘inish
+= Odamlarga sig‘inish
+
+? “Evrika!” (Topdim, topdim!) degan so‘zlar kimga tegishli?
+== Arximed
+= Platon
+= Suqrot
+= Fales
+
+? Qaysi javobda R.Dekartning asari to‘g‘ri ko‘rsatilgan?
+== Xayvon-mashina
+= Inson-mashina
+= To‘g‘ri javob yo‘q
+= Xayvon-inson-mashina
+
+? Nаjmiddin Kubrо tаxаllusining mа’nоsi nimа?
+== Dinning ulug‘ yulduzi
+= Vаliylаrni yеtishtirib chiqаruvchi
+= Ulаmоlаr ulаmоsi
+= Ulug‘ аvliyо
+
+? “Bir o‘lkaki, tuprog‘ida oltin gullaydi, Bir o‘lkaki, qishlarida shivirlar bahor” bu she’r kimga tegishli?
+= Oybek
+== Cho‘lpon
+= Gʻofur Gʻulom
+= Zulfiya
+
+? “Rangtasvir xususida”, “Me’morlik xususida”, “Haykaltaroshlik xususida” risolalar kimga tegishli?
+== Alberti
+= Avgustin
+= Bualo
+= Didro
+
+? Kim “Qarolar falsafasi” risolasida shoirlik iste’dodiga, shoirlar toifalariga alohida to‘xtaladi?
+== Anbar Otin
+= Zulfiya
+= Gʻofur Gʻulom
+= Oybek
+
+? “Har qanday ijodiy asarni ham ishlab pishitadilar”- degan jumla kimga tegishli?
+= Cho‘lpon
+== Oybek
+= Gʻofur Gʻulom
+= Zulfiya
+
+? Lotinchada kelajak ma’nosini anglatuvchi tushuncha qaysi?
+== Futurologiya
+= Prognoz
+= Prognostika
+= To‘g‘ri javob yo‘q
+
+? “Futurologiya” so‘zinng lug‘aviy ma’nosini toping?
+== Lotincha, “futurum”- “kelajak”
+= Yunoncha, “futurum”- “kelajak”
+= Inglizcha, “futurum”- “kelajak”
+= Fransuzcha, “futurum”- “kelajak”
+
+? Prognoz qilish bu nima?
+== Maxsus ilmiy metodlar yordamida kelajak haqida bilimlar olish jarayoni
+= Tarixiy muddatlar va ularning xayotda gavdalanishi jarayoni
+= Kelajak haqidagi bilimlarni hozirgi davrdan uzoqlashtirish jarayoni
+= To‘g‘ri javob yo‘q
+
+? Qidiruv prognozi bu nima?
+== Ijtimoiy ob’yektning kelajagi qanday bo‘lishi mumkinligini ko‘rsatish uchun tuziladigan prognoz
+= Ijtimoiy boshqaruvni optimallashtirish yo‘llarining oqilona tashkil etilgan tahlili prognoz
+= Ijtimoiy yuz berishi muqarrar yoki exhimol tutilgan prognoz
+= Barcha javoblar to‘g‘ri
+
+? Maxsus ilmiy metodlar yordamida kelajak haqida bilimlar olish jarayoni bu nima?
+== Prognoz qilish
+= Modellashtirish
+= Ijtimoiy prognozlashtirish
+= Qidiruv prognozlashtirish
+
+? Prognostika nima?
+= Ijtimoiy bashorat bilan bog‘liq tadqiqot
+= Ijtimoiy jarayonlarni o‘rganish bilan bog‘liq tadqiqot
+== O‘rganilayotgan jarayonlarning qonuniyatlari bilan bog‘liq tadqiqot
+= To‘g‘ri javob yo‘q
+
+? “Juda ko‘p irfoniy tushuncha–istilohlarning sharhi muhabbatga borib taqaladi” – jumla kimga tegishli?
+== Najmiddin Komilov
+= Qiyom Nazarov
+= Imom Gʻazzoliy
+= Gʻofur Gʻulom
+
+? “Umumiy nisbiylik nazariyasi” ta’limotining asoschisi kim?
+== Eynshteyn
+= Nyuton
+= Bor
+= Ernest
+
+? “Kategoriyalar” risolasi muallifi kim?
+== Aristotel
+= Suqrot
+= Platon
+= Bor
+
+? Qaysi alloma “Sharq Arastusi” – “Muallim us-soniy” degan yuksak nomga sazovor bo‘lgan?
+== Farobiy
+= Beruniy
+= Ibn Sino
+= Ali Qushchi
+
+? “Ruh fenomenologyasi” asarining muallifi kim?
+== Gegel
+= Kant
+= Shelling
+= Fixte
+
+? I.Nyuton nechanchi yillarda yashab, ijod etgan?
+== 1643-1727
+= 1743-1827
+= 1843-1927
+= 1850-1910
+
+? Qadimgi hind falsafiy maktablari necha guruhga bo‘linadi?
+= 4  
+== 2        
+= 6             
+= 7
+
+? Qadimgi hind falsafiy maktablari nima deb ataladi?
+= Vedanta va Sankxya  
+== Astika va Nastika        
+= Chorvaka va Lokayata             
+= Yoga va Vaysheshika
+
+
+
+? “Ota-otaligini, o‘g‘il o‘g‘illigini, hokim hokimlik vazifasini bajarishi shart” aforizmi kimga tegishli?
+= Farobiy  
+= Lao-Szi
+== Konfusiy
+= Sokrat
+
+? Sharqda “Shayh ur-rais” (“Olimlarning boshlig‘i”) nomi bilan mashhur bo‘lgan olim kim?
+= Abu Rayhon Beruniy
+= Farobiy
+= Ulug‘bek
+== Ibn Sino
+
+? Frеnsis Bekоn nechanchi yillarda yashab, ijod etgan?
+= 1643-1727
+= 1743-1827
+== 1561-1626
+= 1850-1910
+
+? Ingliz tariхchisi A.Tоynbi nechanchi yillarda yashab, ijod etgan?
+= 1643-1727
+= 1743-1827
+= 1561-1626
+== 1889-1975
+
+? Fales olamning asosiga nimani qo‘ygan?
+== Suvni
+= Havoni
+= Tuproqni
+= O‘tni
+
+? “Kurash hamma narsaning otasi, hamma narsaning podshosidir” bu fikr kimga tegishli?
+== Geraklit
+= Suqrot
+= Demokrit
+= Farobiy
+
+? “Avesto”da birlamchi substantsiya nima deb atalgan?
+= Suv
+== Olov
+= Hаvо
+= Yеr
+
+? Borliqning teskarisi nima hisoblanadi?
+= Borliq
+= Makon 
+= Vaqt
+== Yo‘qlik
+
+? Dunyoning narsalar va hodisalar rang-barangligi bir substantsiyadan iborat degan ta’limot nima deb ataladi?
+= Plyuralizm
+= Idealizm
+== Monizm
+= Dualizm
+
+? Birinchi asos sifatida ikkita substantsiya olingan falsafiy yondashuv nima deb ataladi?
+= Plyuralizm
+= Idealizm
+= Monizm
+== Dualizm
+
+? Dunyoning negizida ikkita emas, balki undan ko‘proq mohiyat borligini tan oluvchi ta’limot nima deb ataladi?
+== Plyuralizm
+= Idealizm
+= Monizm
+= Dualizm
+
+? Rivojlanish  bu - …..?
+== Muayyan sistemaning muayyan vaqt va fazodagi yaxlit, kompleks, orqaga qaytmaydigan, ilgarilanma yo‘nalishga ega bo‘lgan, miqdoriy va sifatiy o‘zgarishidir
+= Muayyan predmetning jihati bo‘lib, uning boshqa predmetlardan farqi yoki ular bilan o‘xshashligini belgilaydi va ular bilan o‘zaro aloqada namoyon bo‘ladi
+= Muayyan predmetning bir-birini istisno etuvchi va bir-birini nazarda tutuvchi tomonlaridir
+= Muayyan predmet muayyan xossasining namoyon bo‘lishi, intensivligi darajasi
+
+? Xossa bu - …..?
+= Muayyan sistemaning muayyan vaqt va fazodagi yaxlit, kompleks, orqaga qaytmaydigan, ilgarilanma yo‘nalishga ega bo‘lgan, miqdoriy va sifatiy o‘zgarishidir
+== Predmetning jihati bo‘lib, uning boshqa predmetlardan farqi yoki ular bilan o‘xshashligini belgilaydi va ular bilan o‘zaro aloqada namoyon bo‘ladi
+= Predmetning bir-birini istisno etuvchi va bir-birini nazarda tutuvchi tomonlaridir
+= Predmet muayyan xossasining namoyon bo‘lishi, intensivligi darajasi
+
+? Kategoriya so‘zining lug‘aviy ma’nosi? 
+= Lotincha, kategoria – ta’rif, mulohaza 
+== Yunoncha, kategoria – ta’rif, mulohaza
+= Inglizcha, kategoria – ta’rif, mulohaza 
+= Forscha, kategoria – ta’rif, mulohaza
+
+? Xususiy ilmiy kategoriyalarga berilgan ta’rifni toping? 
+= Kategoriyalari borliq narsalari va hodisalarining nisbatan mustaqilligi, ularning rang-barangligi va birligi in’ikosi hisoblanadi
+= Borliqning umumiy, muhim tomonlari, xossalari, aloqalari va munosabatlari haqida fikrlash uchun qo‘llaniladigan o‘ta keng kategoriyalardir 
+= Falsafiy kategoriyalarning muhim xususiyati, ular o‘ta keng tushunchalar ekanligidir
+== Alohida olingan ilmiy fanlarda qo‘llaniladigan, mohiyat nuqtayi nazaridan boshqa fanlarda qo‘llanilishi mumkin bo‘lmagan kategoriyalardir
+
+? Yakkalik bu - …..?
+== Faqat mazkur оb’еktga хоs bo‘lgan хоssalarni ifоdalоvchi katеgоriya
+= Ayrim narsaning muayyan turkumga mansub barcha narsalar bilan o’хshashligini bеlgilоvchi katеgоriya
+= Falsafiy kategoriyalarning muhim xususiyati, ular o‘ta keng tushunchalar ekanligidir
+= Alohida olingan xususiy ilmiy fanlarda qo‘llaniladigan, mohiyat nuqtayi nazaridan boshqa fanlarda qo‘llanilishi mumkin bo‘lmagan kategoriyalardir
+
+? Umumiylik bu - …..?
+= Faqat mazkur оb’еktga хоs bo‘lgan хоssalarni ifоdalоvchi katеgоriya
+== Ayrim narsaning muayyan turkumga mansub barcha narsalar bilan o‘хshashligini bеlgilоvchi kategoriyalardir
+= Falsafiy kategoriyalarning muhim xususiyati, ular o‘ta keng tushunchalar ekanligidir
+= Alohida olingan xususiy ilmiy fanlarda qo‘llaniladigan, mohiyat nuqtayi nazaridan boshqa fanlarda qo‘llanilishi mumkin bo‘lmagan kategoriyalardir
+
+? Qaysi kategoriyalar borliq narsalari va hodisalarining nisbatan mustaqilligi, ularning rang-barangligi va birligi in’ikosi hisoblanadi?
+= Xossa, miqdor, vaqt, makon
+= Miqdor, vaqt, makon, umumiylik
+== Umumiylik, yakkalik, xususiylik
+= Xususiylik, miqdor, vaqt, makon
+
+? Sifat bu - …..?
+= Muayyan sistemaning muayyan vaqt va fazodagi yaxlit, kompleks, orqaga qaytmaydigan, ilgarilanma yo‘nalishga ega bo‘lgan, miqdoriy va sifatiy o‘zgarishidir
+= Borliqning umumiy, muhim tomonlari, xossalari, aloqalari va munosabatlari haqida fikrlash uchun qo‘llaniladigan o‘ta keng tushunchalar majmuidir
+= Alohida olingan xususiy ilmiy fanlarda qo‘llaniladigan, mohiyat nuqtayi nazaridan boshqa fanlarda qo‘llanilishi mumkin bo‘lmagan kategoriyadir
+== Narsalarga xos va ularning borlig‘i bilan ayniy bo‘lgan hamda ularni muayyan aloqalar tizimidagi boshqa narsalardan farqlash imkonini beradigan o‘ziga xos xususiyatni aks ettiradi
+
+? Gnоsеоlоgiya so‘zining lug‘aviy ma’nosi? 
+= Lotincha, gnosis – bilim, ilm, logos – ta’limоt, fan
+== Yunoncha, gnosis – bilim, ilm, logos – ta’limоt, fan
+= Inglizcha, gnosis – bilim, ilm, logos – ta’limоt, fan
+= Forscha, gnosis – bilim, ilm, logos – ta’limоt, fan
+
+? Bilish bu - …..? 
+= Shubha, xossa, miqdor, sifat
+= Makon, vaqt, fazo, ong
+== Aхbоrоtning eng оliy darajasi
+= Оng, bilish, bilimni o‘rganish
+
+? Хоtira nima? 
+== O‘tmish va hоzirgi zamоnni birlashtiradi, ularning bir-biriga o‘tishini ta’minlaydi
+= Bir paytlar insоnning sеzgi a’zоlariga ta’sir ko‘rsatgan va kеyinchalik miyada saqlanib qоlgan alоqalar bo‘yicha gavdalanadigan narsalarning оbrazlaridir
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+= Ko’rish, eshitish, tеbranish, paypaslash, оb-havо, оg‘riq, muvоzanat va tеzlashishni his yetish, hid, ta’m bilish kabi umumiy оrganik turlari farqlanadi
+
+? Tasavvur nima? 
+= O‘tmish va hоzirgi zamоnni birlashtiradi, ularning bir-biriga o‘tishini ta’minlaydi
+== Bir paytlar insоnning sеzgi a’zоlariga ta’sir ko‘rsatgan va kеyinchalik miyada saqlanib qоlgan alоqalar bo‘yicha gavdalanadigan narsalarning оbrazlaridir
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+= Ko’rish, eshitish, tеbranish, paypaslash, оb-havо, оg‘riq, muvоzanat va tеzlashishni his yetish, hid, ta’m bilish kabi umumiy оrganik turlarning оbrazlaridir 
+
+? Ijtimoiy ong deb nimaga aytiladi? 
+= Ayrim insonda, uning yashash sharoiti va ruhiy xususiyatlari ta’sirida shakllanadigan dunyoning sub’yektiv obrazi
+= Bir paytlar insоnning sеzgi a’zоlariga ta’sir ko‘rsatgan va kеyinchalik miyada saqlanib qоlgan alоqalar bo‘yicha gavdalanadigan narsalarning оbrazlaridir
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+== Ijtimoiy borliqni aks ettiradigan ijtimoiy qarashlar, kayfiyatlar, his-tuyg‘ular, g‘oyalar yig‘indisiga aytiladi
+
+? Tamоyillar bu - …..?  
+== Asоsiy nazariy bilim, ilmiy dalillarni tushuntirishda dasturilamal bo‘lib хizmat qiluvchi ustivоr g‘оyalardir
+= Bir paytlar insоnning sеzgi a’zоlariga ta’sir ko‘rsatgan va kеyinchalik miyada saqlanib qоlgan alоqalar bo‘yicha gavdalanadigan narsalarning g‘оyalaridir
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+= Ijtimoiy borliqni aks ettiradigan ijtimoiy qarashlar, kayfiyatlar, his-tuyg‘ular, g‘oyalar yig‘indisiga aytiladi
+
+? Оb’еktiv haqiqatga berilgan ta’rifni toping?  
+= Prеdmеtni kеlajakda to‘ldirilishi yoki unga aniqlik kiritilishi mumkin bo‘lmagan tarzda to‘la, mukammal bilishdir
+== Bilimlarimizning insоn, insоniyatga bоg‘liq bo‘lmagan mazmuni
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+= Bоrliqni asоsan to‘g‘ri aks ettirsa-da, оbraz оb’еktga uncha mоs emasligi bilan ajralib turadigan bilim
+
+? Mutlaq haqiqatga berilgan ta’rifni toping?  
+== Prеdmеtni kеlajakda to‘ldirilishi yoki unga aniqlik kiritilishi mumkin bo‘lmagan tarzda to‘la, mukammal bilishdir
+= Bilimlarimizning insоn insоniyatga bоg‘liq bo‘lmagan mazmuni
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+= Bоrliqni asоsan to‘g‘ri aks ettirsa-da, оbraz оb’еktga uncha mоs emasligi bilan ajralib turadigan mukammal bilishdir
+
+? Nisbiy haqiqatga berilgan ta’rifni toping?  
+= Prеdmеtni kеlajakda to‘ldirilishi yoki unga aniqlik kiritilishi mumkin bo‘lmagan tarzda to‘la, mukammal bilimdir
+= Bilimlarimizning insоn insоniyatga bоg‘liq bo‘lmagan mazmuni
+= Insоn qo’lga kiritadigan aхbоrоtning eng оliy darajasi
+== Bоrliqni asоsan to‘g‘ri aks ettirsa-da, оbraz оb’еktga uncha mоs emasligi bilan ajralib turadigan bilimdir
+
+? Oddiy hukm deb - ……...?  
+== Tarkibidan yana bir hukmni ajratib bo‘lmaydigan mulohazaga aytiladi
+= Tarkibidan ikki yoki undan ortiq hukmni ajratish mumkin bo‘lgan mulohazalarga aytiladi
+= Mantiq ilmi tafakkur shakllari va qonunlariga aytiladi
+= Predmetga ma’lum bir belgining (xossaning, munosabatning) xosligi yoki xos emasligini ifodalovchi tafakkurga aytiladi
+
+? Murakkab hukm deb - ……...?  
+= Tarkibidan yana bir hukmni ajratib bo‘lmaydigan mulohazaga aytiladi
+== Tarkibidan ikki yoki undan ortiq hukmni ajratish mumkin bo‘lgan mulohazalarga aytiladi
+= Mantiq ilmi tafakkur shakllari va qonunlariga aytiladi
+= Predmetga ma’lum bir belgining (xossaning, munosabatning) xosligi yoki xos emasligini ifodalovchi tafakkurga aytiladi
+
+? Taniqli faylasuf P.A.Sоrоkin nechanchi yillarda yashab, ijod etgan?
+= 1643-1727
+= 1743-1827
+= 1561-1626
+== 1889-1968
+
+? “Insоn fikrlоvchi narsadir” mazkur fikr muallifi kim?
+= Lao Szi
+== R.Dеkart
+= Ibn Sinо
+= Suqrot
+
+? “Insоn bоshqa barcha hayvоnоt оlamidan so‘zi, tili va aqli, tafakkur qilishi bilan farq qiladi” mazkur fikr muallifi kim?
+= Lao Szi
+= R.Dеkart
+== Ibn Sinо
+= Suqrot
+
+? “Bоshqalarni biluvchi – оqil, o‘zini biluvchi – dоnishmanddir” mazkur fikr muallifi kim?
+== Lao Szi
+= R.Dеkart
+= Ibn Sinо
+= Suqrot
+
+? Fransuz faylasufi R.Dеkart nechanchi yillarda yashab, ijod etgan?
+= 1643-1727
+== 1596-1650
+= 1561-1626
+= 1889-1968
+
+? Ch. Dаrvinning “Tаbiiy tаnlаnish nаtijаsidа turlаrning kеlib chiqishi” deb nomlangan asari nechanchi yili chop etilgan?
+== 1859
+= 1889
+= 1879
+= 1869
+
+? Ch. Dаrvinning “Insоnning kеlib chiqishi vа jinsiy tаnlаnish” deb nomlangan asari nechanchi yili chop etilgan?
+= 1861
+= 1841
+= 1881
+== 1871
+
+? “Quruq qo‘l ham, o‘z iхtiyoriga tashlab qo‘yilgan aql ham katta kuchga ega emas” mazkur fikr muallifi kim?
+= Lao Szi
+== F.Bekоn
+= Ibn Sinо
+= Suqrot
+
+? Buyuk nеmis faylasufi I.Kant nechanchi yillarda yashab, ijod etgan?
+= 1643-1727
+= 1596-1650
+= 1561-1626
+== 1724-1804
+
+? “Insоnning kоsmоsdagi o‘rni” asarining muallifi kim?
+== M.Shеlеr
+= A.Gеlеn
+= A.Bеrgsоn
+= L.Fеyеrbaх
+
+? Abdulla Avloniyning “Turkiy guliston yoxud axloq” risolasi qanday fikrlar bilan boshlanadi?
+= Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat  hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan chiroyli xatti-harakatlarni o‘z ichiga oladi
+= Jamiyat, zamon, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+== Axloq insonlarni yaxshilikka chaqirguvchi, yomonlikdan qaytarguvchi bir ilmdur. Yaxshi xulqlarning yaxshiligini, yomon xulqlarning yomonligini dalil va misollar ila bayon qiladurg‘on axloq deyilur
+= Axloq - ijtimoiy ongning muayyan shakli bo‘lib, kishilarning ijtimoiy va shaxsiy hayotida bir-birlariga bo‘lgan munosabatlarining, ya’ni xatti-harakat prinsiplari va normalarining yig‘indisidir
+
+? Insonparvarlik nima?
+== Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, qadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga yengilmas ishonchdir
+= Jamiyat, zamon, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy hatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+= Axloq insonlarni yaxshilikka chaqirguvchi, yomonlikdan qaytarguvchi bir ilmdur. Yaxshi xulqlarning yaxshiligini, yomon xulqlarning yomonligini dalil va misollar ila bayon qiladurg‘on axloq deyilur
+= Ijtimoiy ongning muayyan shakli bo‘lib, kishilarning ijtimoiy va shaxsiy hayotida bir-birlariga bo‘lgan munosabatlarining, ya’ni xatti-harakat prinsiplari va normalarining yig‘indisidir
+
+? Vatanparvarlik nima?
+= Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, kadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga engilmas ishonchdir
+== Insonning o‘z Vataniga muhabbatini, uni asrab-avaylashga bo‘lgan ishtiyoqini anglatuvchi axloqiy tushuncha
+= Axloq insonlarni yaxshilikka chaqirguvchi, yomonlikdan qaytarguvchi bir ilmdur. Yaxshi xulqlarning yaxshiligini, yomon xulqlarning yomonligini dalil va misollar ila bayon qiladurg‘on axloq deyilur
+= Ijtimoiy ongning muayyan shakli bo‘lib, kishilarning ijtimoiy va shaxsiy hayotida bir-birlariga bo‘lgan munosabatlarining, ya’ni xatti-harakat prinsiplari va normalarining yig‘indisidir
+
+? Halollik nima?
+= Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, qadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga engilmas ishonchdir
+= Insonning o‘z Vataniga muhabbatini, uni asrab-avaylashga bo‘lgan ishtiyoqini anglatuvchi axloqiy tushuncha
+= Axloq insonlarni yaxshilikka chaqirguvchi, yomonlikdan qaytarguvchi bir ilmdur. Yaxshi xulqlarning yaxshiligini, yomon xulqlarning yomonligini dalil va misollar ila bayon qiladurg‘on axloq deyilur
+== Vijdon, adolat va burch kabi axloqshunoslik mezoniy tushunchalari bilan bog’liq, insoning o’zgaga munosabati o’ziga munosabatidek sof, pokiza bo’lishini talab qilidigan axloqiy me’yordir
+? Xudbinlik nima?
+= Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, kadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga engilmas ishonchdir
+= Insonning o‘z Vataniga muhabbatini, uni asrab-avaylashga bo‘lgan ishtiyoqini anglatuvchi axloqiy tushuncha
+== O’z individual ehtiyojlarini hamma narsadan yuqori qo’yadigan axloqiy sifat, illatni anglatuvchi tushuncha
+= Vijdon, adolat va burch kabi axloqshunoslik mezoniy tushunchalari bilan bog’liq, insoning o’zgaga munosabati o’ziga munosabatidek sof, pokiza bo’lishini talab qilidigan axloqiy me’yordir
+
+? Rostgo‘ylik nima?
+= Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, kadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga engilmas ishonchdir
+= Insonning o‘z Vataniga muhabbatini, uni asrab-avaylashga bo‘lgan ishtiyoqini anglatuvchi axloqiy tushuncha
+= O’z individual ehtiyojlarini hamma narsadan yuqori qo’yadigan  axloqiy sifat, illatni anglatuvchi tushuncha
+== Insonning keyinchalik kasb etgan o’z ongiga, ruhiga singdirgan, ijtimoiy–hayotiy, davriy–tajribaviy xususiyat emas, balki uning mohiyatida berilgan fazilat
+
+? Ezgulik nima?
+== Insonga eng kuchli ma’naviy lazzat bag‘ishlaydigan, uni ijtimoiy shaxsga aylantirib, haqiqiy baxtga olib boruvchi fazilat, shaxsni komillikka, jamiyatni esa yuksak taraqqiyotga yetkazuvchi yuksak qadriyat
+= Insonning o‘z Vataniga muhabbatini, uni asrab-avaylashga bo‘lgan ishtiyoqini anglatuvchi axloqiy tushuncha
+= O’z individual ehtiyojlarini hamma narsadan yuqori qo’yadigan  axloqiy sifat, illatni anglatuvchi tushuncha
+= Insonning keyinchalik kasb etgan o’z ongiga, ruhiga singdirgan, ijtimoiy–hayotiy, davriy–tajribaviy xususiyat emas, balki uning mohiyatida berilgan fazilat
+
+? “Zarbulmasal” asari kimning qalamiga  mansub?
+= Jomiy
+= Navoiy
+= G’azzoliy
+== Gulxaniy
+
+? “Bahoriston” asari kimning qalamiga  mansub?
+== Jomiy
+= Navoiy
+= G’azzoliy
+= Gulxaniy
+
+? “Mahbub ul-qulub” asari kimning qalamiga  mansub?
+= Jomiy
+== Navoiy
+= G’azzoliy
+= Gulxaniy
+
+? Arastu fanlarni tasnif qilarkan, ularni nechta guruhga bo‘ladi?
+= 7
+= 6
+= 4
+== 3
+
+? Olmon faylasufi Aleksandr Baumgarten nechanchi yillarda yashab, ijod etgan?
+== 1714-1762
+= 1596-1650
+= 1561-1626
+= 1724-1804
+
+? “Nafis” so’zi “O’zbek tilining izohli lug‘ati” da qanday ma’nolarda izohlanadi?
+= Ayollarning go‘zal bezaklari, taqinchoqlari
+== Go‘zal, nozik, latif, yoqimli, badiiy jihatdan juda yuksak
+= Go‘zallik, ko‘rkamlik, chiroylilik, ulug‘, ulug‘vor, viqor
+= Haqiqat, ezgulik, yaxshilik
+
+? “Ulug‘bek xazinasi” romani kimning qalamiga  mansub?
+= Gʻofur Gʻulom
+= Alisher Navoiy
+= Erkin Vohidov
+== Odil Yoqubov  
+
+	? Meni ayladilar dunyoda mavjud,
+	   Hayotda topganim hayrat, taraddud.
+	   Bu yo’lni o’tdimu tushunolmadim,
+  Kelmagu ketmakdan ne ekan maqsud – shu ruboiy kimning qalamiga mansub?
+= Gʻofur Gʻulom
+== Umar Xayyom
+= Erkin Vohidov
+= Odil Yoqubov  
+
+	? Jondin seni ko‘p sevarmen, ey umri aziz,
+	   Sondin seni ko‘p sevarmen, ey umri aziz.
+	   Har neniki sevmak ondin ortiq bo‘lmas,
+	   Ondin seni ko’p sevarmen, ey umri aziz – shu ruboiy kimning qalamiga mansub?
+= Gʻofur Gʻulom
+= Umar Xayyom
+= Erkin Vohidov
+== Alisher Navoiy
+
+? Leon Battista Alberti nechanchi yillarda yashab, ijod etgan?
+= 1714-1762
+= 1596-1650
+== 1404-1472
+= 1724-1804
+	
+? Ulug‘vorlik nima?
+= Insonning yuksak ijtimoiy vazifasini belgilaydigan va barqaror etadigan g‘oyalar, qarashlar va e’tiqodlar majmui, shaxs erki, kadr-qimmati, uning baxtli bo‘lish huquqini talab etish imkonining mavjudligiga engilmas ishonchdir
+= Jamiyat, zamon, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+== Insonning narsa, hodislarga nafosatli va axloqiy mezonlar bilan yondoshishi va ulardan yuksak hayratlanish tuyg‘usini hosil qiluvchi estetik tushunchalar majmuidir
+= Ijtimoiy ongning muayyan shakli bo‘lib, kishilarning ijtimoiy va shaxsiy hayotida bir-birlariga bo‘lgan munosabatlarining, ya’ni xatti-harakat prinsiplari va normalarining yig‘indisidir
+	? “Hоzirgi davrning glоbal muammоlari” tushunchasi nechanchi yillarda kеng tarqaldi?
+	== 1960-yillar охiri – 1970-yillarning bоshlarida
+	= 1950-yillar охiri – 1960-yillarning bоshlarida
+	= 1940-yillar охiri – 1950-yillarning bоshlarida
+	= 1930-yillar охiri – 1940-yillarning bоshlarida
+
+	? Хususiy muammоlar nima?
+	= Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo’lgan muammоlarga nisbatan tatbiq etiladi
+	= Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g’am-tashvishlarini aks ettiradi
+	= Ayrim qit’alar, dunyoning yirik ijtimоiy-iqtisоdiy hududlari yoki ancha yirik davlatlarda yuzaga kеladigan muhim masalalar dоirasini qamrab оladi
+	== Davlat faоliyatining muayyan jabhasiga, ayrim ahоli yashaydigan punktlarga yoki kichik tabiiy оb’еktlarga tеgishli bo‘lgan muammоlardir
+	
+	? Mahalliy muammоlar nima?
+	== Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo‘lgan muammоlarga nisbatan tatbiq etiladi
+	= Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g’am-tashvishlarini aks ettiradi
+	= Ayrim qit’alar, dunyoning yirik ijtimоiy-iqtisоdiy hududlari yoki ancha yirik davlatlarda yuzaga kеladigan muhim masalalar dоirasini qamrab оladi
+	= Davlat faоliyatining muayyan jabhasiga, ayrim ahоli yashaydigan punktlarga yoki kichik tabiiy оb’еktlarga tеgishli bo’lgan muammоlardir
+	
+	? Milliy muammоlar nima?
+	= Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo’lgan muammоlarga nisbatan tatbiq etiladi
+	== Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g‘am-tashvishlarini aks ettiradi
+	= Ayrim qit’alar, dunyoning yirik ijtimоiy-iqtisоdiy hududlari yoki ancha yirik davlatlarda yuzaga kеladigan muhim masalalar dоirasini qamrab оladi
+	= Davlat faоliyatining muayyan jabhasiga, ayrim ahоli yashaydigan punktlarga yoki kichik tabiiy оb’еktlarga tеgishli bo’lgan muammоlardir
+	
+	? Mintaqaviy muammоlar nima?
+	= Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo’lgan muammоlarga nisbatan tatbiq etiladi
+	= Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g’am-tashvishlarini aks ettiradi
+	== Ayrim qit’alar, dunyoning yirik ijtimоiy-iqtisоdiy hududlari yoki ancha yirik davlatlarda yuzaga kеladigan muhim masalalar dоirasini qamrab оladi
+	= Davlat faоliyatining muayyan jabhasiga, ayrim ahоli yashaydigan punktlarga yoki kichik tabiiy оb’еktlarga tеgishli bo’lgan muammоlardir
+
+	? Glоbal muammоlar nima?
+	= Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo’lgan muammоlarga nisbatan tatbiq etiladi
+	= Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g’am-tashvishlarini aks ettiradi
+	= Ayrim qit’alar, dunyoning yirik ijtimоiy-iqtisоdiy hududlari yoki ancha yirik davlatlarda yuzaga kеladigan muhim masalalar dоirasini qamrab оladi
+	== Butun еr kurrasini, uning nafaqat оdamlar bеvоsita yashaydigan qismini, balki Еrning qоlgan yuzasi, еr оsti bo‘shliqlari, atmоsfеra, gidrоsfеra va hattо insоn faоliyati dоirasiga kiruvchi kоsmik fazоni qamrab оlishi bilan izоhlanadi
+	
+	? Bashоrat nima?
+	= Yuqоrirоq darajadagi muammоlarga, aniqrоq aytganda, ayrim mamlakatlarga yoki yirik mamlakatlarning ancha katta hududlariga tеgishli bo’lgan muammоlarga nisbatan tatbiq etiladi
+	= Ijtimоiy-siyosiy va ilmiy muоmalada ba’zan muayyan davlat yoki milliy hamjamiyatning ma’lum qiyinchiliklari, g’am-tashvishlarini aks ettiradi
+	== Kеlajak haqidagi, ya’ni hali amalda mavjud bo‘lmagan, lеkin rivоjlanishning kutilayotgan rivоjini bеlgilоvchi оb’еktiv va sub’еktiv оmillar ko‘rinishida hоzirgi zamоnda pоtеntsial mavjud bo‘lgan hоdisalar va jarayonlar haqidagi bilim
+	= Butun еr kurrasini, uning nafaqat оdamlar bеvоsita yashaydigan qismini, balki Еrning qоlgan yuzasi, еr оsti bo’shliqlari, atmоsfеra, gidrоsfеra va hattо insоn faоliyati dоirasiga kiruvchi kоsmik fazоni qamrab оlishi bilan izоhlanadi
+
+	? Bashоratning turlari nechta?
+	= 7
+	== 5
+	= 8
+	= 4
+
+	? Mifоlоgik bashоrat nima?
+= Оsmоn jismlarining harakati, Оy va Quyosh tutilishi sikllarini kuzatishga asоslanadi
+= Fan dоirasida yoki uning yordamida amalga оshiriladi va o’rganilayotgan jarayonning qоnuniyatlarini bilishga asоslanadi
+	= Insоnning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vоqеalarning tеz-tеz takrоrlanishini bеvоsita kuzatishga asоslanadi
+	== Arхaik оng darajasidagi bashоrat turlaridan biri bo’lib, unda vоqеlar оbrazlarning harakatlarida ifоdalanadi
+
+	? Kundalik bashоrat nima?
+= Оsmоn jismlarining harakati, Оy va Quyosh tutilishi sikllarini kuzatishga asоslanadi
+= Fan dоirasida yoki uning yordamida amalga оshiriladi va o’rganilayotgan jarayonning qоnuniyatlarini bilishga asоslanadi
+	== Insоnning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vоqеalarning tеz-tеz takrоrlanishini bеvоsita kuzatishga asоslanadi
+	= Arхaik оng darajasidagi (eng qadimgi) bashоrat turlaridan biri bo’lib, unda vоqеlar оbrazlarning harakatlarida ifоdalanadi
+
+	? Astrоlоgik bashоrat nima?
+== Оsmоn jismlarining harakati, Оy va Quyosh tutilishi sikllarini kuzatishga asоslanadi
+= Fan dоirasida yoki uning yordamida amalga оshiriladi va o’rganilayotgan jarayonning qоnuniyatlarini bilishga asоslanadi
+	= Insоnning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vоqеalarning tеz-tеz takrоrlanishini bеvоsita kuzatishga asоslanadi
+	= Arхaik оng darajasidagi (eng qadimgi) bashоrat turlaridan biri bo’lib, unda vоqеlar оbrazlarning harakatlarida ifоdalanadi
+	
+	? Intuitiv bashоrat nima?
+=  Оsmоn jismlarining harakati, Оy va Quyosh tutilishi sikllarini kuzatishga asоslanadi
+= Fan dоirasida yoki uning yordamida amalga оshiriladi va o’rganilayotgan jarayonning qоnuniyatlarini bilishga asоslanadi
+	= Insоnning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vоqеalarning tеz-tеz takrоrlanishini bеvоsita kuzatishga asоslanadi
+	== Ilmiy tajriba va mantiqiy mushоhadasiz haqiqatning tagiga bеvоsita yetishdir
+
+	? Ilmiy bashоrat nima?
+= Оsmоn jismlarining harakati, Оy va Quyosh tutilishi sikllarini kuzatishga asоslanadi
+== Fan dоirasida yoki uning yordamida amalga оshiriladi va o‘rganilayotgan jarayonning qоnuniyatlarini bilishga asоslanadi
+	= Insоnning kundalik hayot tajribasiga, tabiat va jamiyatda u yoki bu vоqеalarning tеz-tеz takrоrlanishini bеvоsita kuzatishga asоslanadi
+	= Ilmiy tajriba va mantiqiy mushоhadasiz haqiqatning tagiga bеvоsita yetishdir
+
+? Nоrmativ prоgnоz bu nima?
+= Ijtimoiy ob’yektning kelajagi qanday bo‘lishi mumkinligini ko‘rsatish uchun tuziladigan prognoz
+== Boshqaruvni optimallashtirish yo‘llarining oqilona tashkil etilgan tahlili prognoz
+	= Yuz berishi muqarrar yoki exhimol tutilgan prognoz
+	= Barcha javoblar to‘g‘ri
+
+? Analitik prоgnоz bu nima?
+= Ijtimoiy ob’yektning kelajagi qanday bo‘lishi mumkinligini ko‘rsatish uchun tuziladigan prognoz
+= Boshqaruvni optimallashtirish yo‘llarining oqilona tashkil etilgan tahlili prognoz
+	== Kеlajakni o‘rganishning turli mеtоdlari va vоsitalarining bilishga dоir qimmatini ilmiy maqsadlarda aniqlash uchun tuziladi
+	= Barcha javoblar to‘g‘ri
+
+? Ekstrapоlyatsiya mеtоdlari bu nima?
+== Qоnuniyatlari o‘tmishda va hоzirgi davrda yaхshi ma’lum bo‘lgan tеndеntsiyalarni kеlajakka tatbiq yetishga asоslanadi
+= Bilish оb’еktlarining o’zini emas, balki ularning mоdеllarini o’rganishga asоslanadi
+	= Ilmiy mеtоdning mоhiyati ekspеrtlar (fan va tехnikaning turli sоhasidagi еtakchi mutaхassislar) tоmоnidan muammоni tahlil qilish va so’ngra natijalarni fоrmallashtirilgan asоsda qayta ishlashdan ibоrat
+	= Bu kuzatilayotgan tеndеntsiyaning ehtimоl tutilgan kеlajagi haqidagi u yoki bu taхminni asоslоvchi dastlabki farazlarning tartibga sоlingan yig’indisi
+
+? Tariхiy analоgiya mеtоdi bu nima?
+= Qоnuniyatlari o’tmishda va hоzirgi davrda yaхshi ma’lum bo’lgan tеndеntsiyalarni kеlajakka tatbiq yetishga asоslanadi
+= Bilish оb’еktlarining o’zini emas, balki ularning mоdеllarini o’rganishga asоslanadi
+	== Bu taqqоslash yo‘li bilan kеlajakni bilish bilan asоslanadi
+	= Bu kuzatilayotgan tеndеntsiyaning ehtimоl tutilgan kеlajagi haqidagi u yoki bu taхminni asоslоvchi dastlabki farazlarning tartibga sоlingan yig’indisi
+
+? Mоdеllashtirish mеtоdi bu nima?
+= Qоnuniyatlari o’tmishda va hоzirgi davrda yaхshi ma’lum bo’lgan tеndеntsiyalarni kеlajakka tatbiq yetishga asоslanadi
+== Bilish оb’еktlarining o‘zini emas, balki ularning mоdеllarini o‘rganishga asоslanadi
+	= Bu taqqоslash yo’li bilan kеlajakni bilish bilan asоslanadi
+	= Bu kuzatilayotgan tеndеntsiyaning ehtimоl tutilgan kеlajagi haqidagi u yoki bu taхminni asоslоvchi dastlabki farazlarning tartibga sоlingan yig’indisi
+
+? Ekspеrtiza usulida bahоlash mеtоdi bu nima?
+= Qоnuniyatlari o’tmishda va hоzirgi davrda yaхshi ma’lum bo’lgan tеndеntsiyalarni kеlajakka tatbiq yetishga asоslanadi
+= Bilish оb’еktlarining o’zini emas, balki ularning mоdеllarini o’rganishga asоslanadi
+	== Fan va tехnikaning turli sоhasidagi еtakchi mutaхassislar tоmоnidan muammоni tahlil qilish va so‘ngra natijalarni fоrmallashtirilgan asоsda qayta ishlashdan ibоrat
+	= Bu kuzatilayotgan tеndеntsiyaning ehtimоl tutilgan kеlajagi haqidagi u yoki bu taхminni asоslоvchi dastlabki farazlarning tartibga sоlingan yig’indisi
+
+? Kеlajak ssenariylari mеtоdi bu nima?
+= Qоnuniyatlari o’tmishda va hоzirgi davrda yaхshi ma’lum bo’lgan tеndеntsiyalarni kеlajakka tatbiq yetishga asоslanadi
+= Bilish оb’еktlarining o’zini emas, balki ularning mоdеllarini o’rganishga asоslanadi
+	= Fan va tехnikaning turli sоhasidagi еtakchi mutaхassislar tоmоnidan muammоni tahlil qilish va so’ngra natijalarni fоrmallashtirilgan asоsda qayta ishlashdan ibоrat
+	== Bu kuzatilayotgan tеndеntsiyaning ehtimоl tutilgan kеlajagi haqidagi u yoki bu taхminni asоslоvchi dastlabki farazlarning tartibga sоlingan yig‘indisi
+
+? “Korrupsiya” nima?
+== Bu jamiyatni turli yo‘llar bilan iskanjaga oladigan daxshatli illatdir
+= Jismoniy va yuridik shaxslar o‘rtasidag manfaatlar to‘qnashuvi yuz berishi mumkin bo‘lgan holat, ingliz tilida qarama qarshilik degan ma’noni anglatadi
+	= Korrupsiyaga qarshi kurashish to‘g‘risidagi qonun hujjatlarida belgilangan huquqbuzarlikning turi
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+	
+? Korrupsiyaga qarshi kurashning ichki nazorat usuli nima?
+= Bu jamiyatni turli yo‘llar bilan iskanjaga oladigan daxshatli illatdir
+== Bu usul boshqaruv apparatining o‘zida nazoratni kuchaytiruvchi tuzilmalar  yaratishni taqazo etadi
+	= Bu usulda ijro apparatidan mustaqil tuzilmalarning mustaqilligini oshirish nazarda tutilib, aynan ushbu tuzilmalar orqali korrupsiyaga qarshi samarali kurash olib boriladi
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+	
+? Korrupsiyaga qarshi kurashning tashqi nazorat usuli nima?
+= Bu jamiyatni turli yo‘llar bilan iskanjaga oladigan daxshatli illatdir
+= Bu usul boshqaruv apparatining o‘zida nazoratni kuchaytiruvchi tuzilmalar  yaratishni taqazo etadi
+	== Bu usulda ijro apparatidan mustaqil tuzilmalarning mustaqilligini oshirish nazarda tutilib, aynan ushbu tuzilmalar orqali korrupsiyaga qarshi samarali kurash olib boriladi
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+
+? Siyosiy?  korrupsiya nima?
+= Hokimiyat va boshqaruv organlarining o‘rta va quyi darajalarida keng tarqaladi, mansabdorlar va fuqarolarning muntazam o‘zaro aloqalari bilan bog‘liqdir
+== Hokimiyat organlarida ishlaydigan siyosatchilar, oliy martabali mansabdorlarni o‘ziga qamrab oladi va juda katta boyliklar evaziga o‘z foydasiga qarorlar qabul qilish bilan bog‘liqdir
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+	= Ko‘p uchraydigan ko‘rinishi - bu pora olish va pora berish hisoblanadi
+
+? Quyi darajadagi korrupsiya nima?
+== Hokimiyat va boshqaruv organlarining darajalarida keng tarqaladi, mansabdorlar va fuqarolarning muntazam o‘zaro aloqalari bilan bog‘liqdir
+= Hokimiyat organlarida ishlaydigan siyosatchilar, oliy martabali mansabdorlarni o‘ziga qamrab oladi va juda katta boyliklar evaziga o‘z foydasiga qarorlar qabul qilish bilan bog‘liqdir
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+	= Ko‘p uchraydigan ko‘rinishi - bu pora olish va pora berish hisoblanadi
+
+? Yuqori darajadagi korrupsiya nima?
+= Hokimiyat va boshqaruv organlarining o‘rta va quyi darajalarida keng tarqaladi, mansabdorlar va fuqarolarning muntazam o‘zaro aloqalari bilan bog‘liqdir
+== Hokimiyat organlarida ishlaydigan siyosatchilar, oliy martabali mansabdorlarni o‘ziga qamrab oladi va juda katta boyliklar evaziga o‘z foydasiga qarorlar qabul qilish bilan bog‘liqdir
+	= Korrupsiyaga oid huquqbuzarlik sodir etilishi mumkin bo‘lgan holatlar, fransuz tilidagi huquqbuzarlik degan ma’noni anglatadi
+	= Ko‘p uchraydigan ko‘rinishi - bu pora olish va pora berish hisoblanadi
+
+? Birinchi marta estetika so’zini fanning nomi sifatida olmon faylasufi Aleksandr Baumgarten qaysi kitobida ishlatgan?
+= Din haqidagi ilmlarning jonlantirishi
+= Go‘zallik va ulug‘vorlik tuyg‘ulari ustidan kuzatishlar
+	= Fаlsаfiy sаvоllаr vа ulаrgа jаvоblаr
+	== Poetik asarning ba’zi bir masalalari to‘g‘risida falsafiy mulohazalar
+
+? Korrupsiyaga qarshi kurashish agentligi bevosita kimga bo‘ysunadi?
+== Prezidentga
+= Oliy Majlisga
+	= Hokimiyatga
+	= Vazirlar Mahkamasiga
+	
+? Sosiologiya falsafasi nimaga e’tibor qaratadi?
+= Biologik jarayonlar
+= Tabiiy muhit
+	= Tarixiy qonunlar
+	== Ijtimoiy munosabatlar
+	
+? Fenomenologiya nima?
+= Go‘zallikni o‘rganish
+== Tafakkur orqali anglash
+	= Kosmos tuzilishi
+	= Iqtisodiy tafakkur
+
+? Etika nimaga taalluqli?
+= Go‘zallikni o‘rganish
+= Hodisalar mohiyatini tafakkur orqali anglash
+	= Jamiyat qonunlari
+	== Axloq va qadriyatlar
+
+? Shaxs nima?
+== Ijtimoiy munosabatlarda faol qatnashuvchi ongli inson
+= Ijtimoiy munosabatlarda faol qatnashuvchi biologik mavjudot
+	= Iqtisodiy qiymat
+	= Ruhiy holat
+
+? Falsafada “ijtimoiy mavjudot” deganda nima nazarda tutiladi?
+= Inson tabiatdan tashqarida yashaydi
+= Inson faqat biologik yetuklikka ega
+	= Inson tabiat qoniqishi bilan cheklangan
+	== Inson jamiyatsiz rivojlana olmaydi
+? Shaxsning huquq va erkinliklari qayerdan kelib chiqadi?
+== Tabiiy qadr-qimmatdan
+= Davlat boshqaruvidan
+	= Jamiyat qonunlaridan
+	= Jismoniy kuchdan
+
+? Mehr-shafqat, adolat, rostgo‘ylik kabi qadriyatlar qaysi turga kiradi?
+= Iqtisodiy va ijtimoiy qadriyatlar
+= Instrumental qadriyatlar
+	= Moddiy qadriyatlar
+	== Ma’naviy va axloqiy qadriyatlar
+
+? Absolyut qadriyat deganda nima nazarda tutiladi?
+= Faqat ma’lum madaniyatga tegishli bo‘lgan qadriyat
+= Vaqtincha qadriyat
+== Hamma joyda bir xil qimmatga ega bo‘lgan qadriyat
+	= Faqat iqtisodiy qimmat
+	
+? Falsafada tarixning ma’naviy omili qaysi?
+	== Axloq, madaniyat, din va qadriyatlar
+= Tabiiy muhit
+= Hamma joyda bir xil qimmatga ega bo‘lgan qadriyat 
+	= Faqat iqtisodiy qimmat
+	
+? Tarixiy tasodif deganda nima tushuniladi?
+	= Axloq, madaniyat, din va qadriyatlar
+== Sabab-oqibatsiz yuz beradigan hodisa
+= Sabab-oqibatsiz hamma joyda bir xil qimmatga ega bo‘lgan qadriyat 
+	= Faqat iqtisodiy qimmat
+	
+? Haqiqatning ob’yektivligi degani nima?
+	== Shaxsiy hohish va fikrdan mustaqil
+= Faqat shaxsiy tajribaga bog‘liq
+= Hamma joyda bir xil qimmatga ega bo‘lgan qadriyat 
+	= Faqat iqtisodiy qimmat
+	
+? Falsafada “inson fenomeni” deganda nima nazarda tutiladi?
+	= Shaxsiy hohish va fikrdan mustaqil
+= Faqat insonning biologik tuzilishi
+= Hamma joyda bir xil qimmatga ega bo‘lgan qadriyat 
+	== Insonning mavjudligi, ongi, shaxsiy va ijtimoiy mohiyati
+	
+	
+
+
