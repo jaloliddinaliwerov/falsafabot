@@ -709,13 +709,13 @@ ANDIJON – 2026
 ? Odob nima?
 = Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
 = Inson o‘z qadrini, bu dunyoda uning hayoti oliy qadriyat ekanligini, o‘z shaxsi oldida o‘zi ma’sul ekanligini anglashi uchun xizmat qiladigan hissiyotlarni o‘z ichiga oladi
-== Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
-= Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan xatti-harakatlarni o‘z ichiga oladi
+= Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+== Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan xatti-harakatlarni o‘z ichiga oladi
 
 ? Xulq nima? 
-= Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
+== Oila, jamoa, mahalla-ko‘y miqyosida ahamiyatli bo‘lgan, ammo jamiyat va insoniyat hayotiga sezilarli ta’sir ko‘rsatmaydigan yoqimli insoniy xatti-harakatlarning majmui
 = Inson o‘z qadrini, bu dunyoda uning hayoti oliy qadriyat ekanligini, o‘z shaxsi oldida o‘zi ma’sul ekanligini anglashi uchun xizmat qiladigan hissiyot
-== Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
+= Jamiyat, zamon, ba’zan umumbashariy ahamiyatga ega, insoniyat tarixi uchun namuna bo‘la oladigan ijobiy xatti-harakatlar yig‘indisi, insoniy kamolot darajasini belgilovchi ma’naviy hodisa
 = Inson haqida yoqimli taassurot uyg‘otadigan, lekin jamoa, jamiyat va insoniyat hayotida burilish yasaydigan darajada muhim ahamiyatga ega bo‘lmaydigan, milliy urf-odatlarga asoslangan chiroyli xatti-harakatlarni o‘z ichiga oladi
 
 ? Axloq qanday hodisa? 
