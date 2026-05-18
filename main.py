@@ -15,6 +15,8 @@ DB_PATH = "bot_db.sqlite"
 active_tests = {}
 # Shaxsiy chatlarda taymerni muddatidan oldin uyg'otish uchun hodisalar lug'ati
 private_chat_events = {}
+# JORIdiy bo'lim (sessiya) natijalarini vaqtinchalik saqlash uchun lug'at
+session_scores = {}
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
@@ -128,9 +130,9 @@ async def stop_test_cmd(message: types.Message):
     chat_id = message.chat.id
     if active_tests.get(chat_id):
         active_tests[chat_id] = False
-        # Agar shaxsiy chatda taymer kutib turgan bo'lsa, uni ham uyg'otib yuboramiz
         if chat_id in private_chat_events:
             private_chat_events[chat_id].set()
+        session_scores.pop(chat_id, None)  # To'xtatilganda vaqtinchalik xotirani tozalash
         await message.answer("🛑 <b>Test jarayoni darhol to'xtatildi!</b>")
     else:
         await message.answer("⚠️ Hozircha faol test jarayoni yo'q.")
@@ -146,7 +148,7 @@ async def show_leaderboard(message: types.Message):
         await message.answer("📭 Hali hech kim test ishlagani yo'q.")
         return
 
-    text = "<b>🏆 Reyting:</b>\n\n"
+    text = "<b>🏆 Umumiy Reyting (Barcha testlar bo'yicha):</b>\n\n"
     for i, (name, score) in enumerate(users, 1):
         text += f"{i}. {name} — {score} ball\n"
         
@@ -155,24 +157,26 @@ async def show_leaderboard(message: types.Message):
 # --- 4. TEST YUBORISH JARAYONI (FON REJIMIDA) ---
 async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
     active_tests[chat_id] = True 
+    session_scores[chat_id] = {}  # Yangi bo'lim uchun ballar hisobini noldan boshlaymiz
     
     async with aiosqlite.connect(DB_PATH) as db:
         for i, q in enumerate(chunk):
             if not active_tests.get(chat_id):
+                session_scores.pop(chat_id, None)
                 return
                 
             if len(q['options']) < 2:
                 continue
             
             try:
-                # Poll yuborish
                 msg = await bot.send_poll(
                     chat_id=chat_id,
                     question=q['question'],
                     options=q['options'],
                     type='quiz',
                     correct_option_id=q['correct_idx'],
-                    is_anonymous=False
+                    is_anonymous=False,
+                    open_period=30
                 )
                 await db.execute("INSERT OR REPLACE INTO active_polls (poll_id, correct_option_id, chat_id) VALUES (?, ?, ?)", 
                                  (msg.poll.id, q['correct_idx'], chat_id))
@@ -183,43 +187,58 @@ async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
 
             # --- INTERVAL / KUTISH MANTIQI ---
             if chat_type == "private":
-                # Shaxsiy chat uchun aqlli taymer (User javob bersa darhol keyingisiga o'tadi)
                 event = asyncio.Event()
                 private_chat_events[chat_id] = event
                 try:
-                    # 30 soniya kutadi, agar event.set() bo'lsa kutish darhol to'xtaydi
                     await asyncio.wait_for(event.wait(), timeout=30.0)
                 except asyncio.TimeoutError:
-                    pass  # Vaqt tugasa shunchaki keyingi qatorga o'tadi
+                    pass  
                 finally:
                     private_chat_events.pop(chat_id, None)
 
-                # Kutish tugagach test to'xtatilganini tekshirish
                 if not active_tests.get(chat_id):
                     try:
                         await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
                     except:
                         pass
+                    session_scores.pop(chat_id, None)
                     return
             else:
-                # Guruhlar uchun eski mantiq (30 soniya to'liq kutish shart)
                 for _ in range(30):
                     if not active_tests.get(chat_id):
                         try:
                             await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
                         except:
                             pass
+                        session_scores.pop(chat_id, None)
                         return
                     await asyncio.sleep(1)
             
-            # Vaqt tugagach yoki user javob bergach, poll'ni yopamiz
             try:
                 await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
             except Exception as e:
-                logging.error(f"Poll yopishda xatolik: {e}")
+                pass
                 
+    # --- BO'LIM YAKUNLANGANDA NATIJALARNI CHIQARISH ---
     if active_tests.get(chat_id):
-        await bot.send_message(chat_id, "✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!\n\nNatijalarni ko'rish uchun /leaderboard buyrug'ini bosing.")
+        # Ushbu bo'lim ballarini olamiz va xotiradan o'chiramiz
+        current_results = session_scores.pop(chat_id, None)
+        
+        results_text = ""
+        if current_results:
+            # Ballar bo'yicha kamayish tartibida saralash
+            sorted_results = sorted(current_results.values(), key=lambda x: x['score'], reverse=True)
+            results_text = "\n📊 <b>Ushbu bo'lim natijalari:</b>\n\n"
+            for idx, res in enumerate(sorted_results, 1):
+                results_text += f"{idx}. {res['name']} — {res['score']} ta to'g'ri javob\n"
+        else:
+            results_text = "\n📊 Ushbu bo'limda hech kim to'g'ri javob bermadi."
+
+        await bot.send_message(
+            chat_id, 
+            f"✅ Tanlangan bo'limdagi barcha savollar yuborib bo'lindi!\n{results_text}\n"
+            f"ℹ️ <i>Umumiy reytingni ko'rish uchun /leaderboard buyrug'ini bosing.</i>"
+        )
         active_tests.pop(chat_id, None)
 
 @dp.callback_query(F.data.startswith("start_test_"))
@@ -241,12 +260,11 @@ async def handle_start_test(call: types.CallbackQuery):
     await call.message.edit_text(
         f"🚀 <b>{chunk_index + 1}-bo'lim boshlandi!</b>\n"
         f"Jami: {len(chunk)} ta savol.\n\n"
-        f"<i>⏳ Har bir savol guruhda 30 soniya kutadi, shaxsiy chatda esa javob berishingiz bilan keyingisiga o'tadi.</i>\n"
+        f"<i>⏳ Har bir savolda 30 soniyalik taymer ishlaydi. Shaxsiy chatda javob bersangiz darhol keyingisiga o'tadi.</i>\n"
         f"<i>🛑 To'xtatish uchun /stop buyrug'ini bering.</i>"
     )
     await call.answer()
     
-    # send_test_chunk funksiyasiga chat_type parametrini ham uzatamiz
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk, call.message.chat.type))
 
 # --- 5. JAVOBLARNI TEKSHIRISH VA BALL BERISH ---
@@ -269,6 +287,7 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
         if row:
             correct_option, chat_id = row
             if selected_option == correct_option:
+                # 1. Ma'lumotlar bazasidagi UMUMIY reytingni yangilash
                 await db.execute("""
                     INSERT INTO scores (user_id, chat_id, full_name, score) 
                     VALUES (?, ?, ?, 1)
@@ -276,9 +295,13 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
                     DO UPDATE SET score = score + 1, full_name = excluded.full_name
                 """, (user_id, chat_id, full_name))
                 await db.commit()
+                
+                # 2. Faqat USHBU bo'lim uchun ballni vaqtinchalik xotiraga qo'shish
+                if chat_id in session_scores:
+                    if user_id not in session_scores[chat_id]:
+                        session_scores[chat_id][user_id] = {"name": full_name, "score": 0}
+                    session_scores[chat_id][user_id]["score"] += 1
             
-            # --- SHAXSIY CHATDA TAYMERNI TOGRI TO'XTATISH ---
-            # Agar ushbu chat_id uchun faol kutish rejimi bo'lsa, uni uyg'otamiz (keyingi savolga o'tkazamiz)
             if chat_id in private_chat_events:
                 private_chat_events[chat_id].set()
 
