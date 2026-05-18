@@ -13,6 +13,8 @@ DB_PATH = "bot_db.sqlite"
 
 # Faol testlarni nazorat qilish
 active_tests = {}
+# Shaxsiy chatlarda taymerni muddatidan oldin uyg'otish uchun hodisalar lug'ati
+private_chat_events = {}
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
@@ -126,6 +128,9 @@ async def stop_test_cmd(message: types.Message):
     chat_id = message.chat.id
     if active_tests.get(chat_id):
         active_tests[chat_id] = False
+        # Agar shaxsiy chatda taymer kutib turgan bo'lsa, uni ham uyg'otib yuboramiz
+        if chat_id in private_chat_events:
+            private_chat_events[chat_id].set()
         await message.answer("🛑 <b>Test jarayoni darhol to'xtatildi!</b>")
     else:
         await message.answer("⚠️ Hozircha faol test jarayoni yo'q.")
@@ -148,7 +153,7 @@ async def show_leaderboard(message: types.Message):
     await message.answer(text)
 
 # --- 4. TEST YUBORISH JARAYONI (FON REJIMIDA) ---
-async def send_test_chunk(chat_id: int, chunk: list):
+async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
     active_tests[chat_id] = True 
     
     async with aiosqlite.connect(DB_PATH) as db:
@@ -176,18 +181,38 @@ async def send_test_chunk(chat_id: int, chunk: list):
                 logging.error(f"Poll yuborishda xatolik: {e}")
                 continue
 
-            # Har bir savol uchun 30 soniya kutish
-            for _ in range(30):
+            # --- INTERVAL / KUTISH MANTIQI ---
+            if chat_type == "private":
+                # Shaxsiy chat uchun aqlli taymer (User javob bersa darhol keyingisiga o'tadi)
+                event = asyncio.Event()
+                private_chat_events[chat_id] = event
+                try:
+                    # 30 soniya kutadi, agar event.set() bo'lsa kutish darhol to'xtaydi
+                    await asyncio.wait_for(event.wait(), timeout=30.0)
+                except asyncio.TimeoutError:
+                    pass  # Vaqt tugasa shunchaki keyingi qatorga o'tadi
+                finally:
+                    private_chat_events.pop(chat_id, None)
+
+                # Kutish tugagach test to'xtatilganini tekshirish
                 if not active_tests.get(chat_id):
-                    # /stop bosilganda oxirgi ochiq qolgan pollni ham yopib qoyamiz
                     try:
                         await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
                     except:
                         pass
                     return
-                await asyncio.sleep(1)
+            else:
+                # Guruhlar uchun eski mantiq (30 soniya to'liq kutish shart)
+                for _ in range(30):
+                    if not active_tests.get(chat_id):
+                        try:
+                            await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
+                        except:
+                            pass
+                        return
+                    await asyncio.sleep(1)
             
-            # 30 soniya o'tgach, poll'ni yopamiz (javob bera olmaydigan qilamiz)
+            # Vaqt tugagach yoki user javob bergach, poll'ni yopamiz
             try:
                 await bot.stop_poll(chat_id=chat_id, message_id=msg.message_id)
             except Exception as e:
@@ -216,12 +241,13 @@ async def handle_start_test(call: types.CallbackQuery):
     await call.message.edit_text(
         f"🚀 <b>{chunk_index + 1}-bo'lim boshlandi!</b>\n"
         f"Jami: {len(chunk)} ta savol.\n\n"
-        f"<i>⏳ Har bir savol 30 soniya interval bilan yuboriladi va vaqt o'tgach yopiladi.</i>\n"
+        f"<i>⏳ Har bir savol guruhda 30 soniya kutadi, shaxsiy chatda esa javob berishingiz bilan keyingisiga o'tadi.</i>\n"
         f"<i>🛑 To'xtatish uchun /stop buyrug'ini bering.</i>"
     )
     await call.answer()
     
-    asyncio.create_task(send_test_chunk(call.message.chat.id, chunk))
+    # send_test_chunk funksiyasiga chat_type parametrini ham uzatamiz
+    asyncio.create_task(send_test_chunk(call.message.chat.id, chunk, call.message.chat.type))
 
 # --- 5. JAVOBLARNI TEKSHIRISH VA BALL BERISH ---
 @dp.poll_answer()
@@ -232,6 +258,8 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
     if poll_answer.user.last_name:
         full_name += f" {poll_answer.user.last_name}"
     
+    if not poll_answer.option_ids:
+        return
     selected_option = poll_answer.option_ids[0]
 
     async with aiosqlite.connect(DB_PATH) as db:
@@ -248,6 +276,11 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
                     DO UPDATE SET score = score + 1, full_name = excluded.full_name
                 """, (user_id, chat_id, full_name))
                 await db.commit()
+            
+            # --- SHAXSIY CHATDA TAYMERNI TOGRI TO'XTATISH ---
+            # Agar ushbu chat_id uchun faol kutish rejimi bo'lsa, uni uyg'otamiz (keyingi savolga o'tkazamiz)
+            if chat_id in private_chat_events:
+                private_chat_events[chat_id].set()
 
 async def main():
     logging.basicConfig(level=logging.INFO)
