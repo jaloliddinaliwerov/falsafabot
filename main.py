@@ -23,12 +23,8 @@ dp = Dispatcher()
 
 # --- 1. AQLLI PARSER (HAR XIL RAQAMLAR VA '#' BELGISI BILAN ISHLASH) ---
 def process_raw_text(content: str) -> dict:
-    """
-    Matnni # Fan_Nomi bo'yicha ajratadi va har xil raqamlangan savollarni tozalaydi.
-    Natija: {'Fan_Nomi': [{'question': '...', 'options': [...], 'correct_idx': 0}, ...]}
-    """
     subjects = {}
-    current_subject = "Falsafa"  # Agar boshida # berilmagan bo'lsa, standart nom [cite: 1]
+    current_subject = "Falsafa"  # Boshida fani yozilmagan bo'lsa standart nom
     questions = []
     current_q = None
     
@@ -49,27 +45,26 @@ def process_raw_text(content: str) -> dict:
                 subjects[current_subject].extend(questions)
                 questions = []
             
-            # Fan nomini tozalash va saqlash
             current_subject = line[1:].strip().replace(" ", "_")
             current_subject = re.sub(r'[\\/*?:"<>|]', "", current_subject)
             if not current_subject:
                 current_subject = "Umumiy"
             continue
             
-        # 2. Tizim formati (? Savol) [cite: 16]
+        # 2. Tizim formati (? Savol)
         if line.startswith('?'):
             if current_q and len(current_q['options']) >= 2:
                 questions.append(current_q)
             current_q = {'question': line[1:].strip()[:300], 'options': [], 'correct_idx': 0}
             continue
             
-        # 3. To'g'ri javob belgisi (== Javob) [cite: 16]
+        # 3. To'g'ri javob belgisi (== Javob)
         if line.startswith('==') and current_q:
             current_q['correct_idx'] = len(current_q['options'])
             current_q['options'].append(line[2:].strip()[:100])
             continue
             
-        # 4. Oddiy javob belgisi (= Javob) [cite: 16]
+        # 4. Oddiy javob belgisi (= Javob)
         if line.startswith('=') and current_q:
             current_q['options'].append(line[1:].strip()[:100])
             continue
@@ -92,8 +87,8 @@ def process_raw_text(content: str) -> dict:
             current_q = {'question': question_match.group(1).strip()[:300], 'options': [], 'correct_idx': 0}
             continue
             
-        # 7. Shunchaki matn davomi bo'lsa (Raqamsiz va belgisiz qatorlar)
-        if len(line) > 5 and not any(w in line.upper() for w in ["VAZIRLIGI", "INSTITUTI", "KAFEDRASI", "TESTLAR", "ANDIJON"]): [cite: 1]
+        # 7. Shunchaki matn davomi bo'lsa
+        if len(line) > 5 and not any(w in line.upper() for w in ["VAZIRLIGI", "INSTITUTI", "KAFEDRASI", "TESTLAR"]):
             if current_q and len(current_q['options']) == 0:
                 current_q['question'] = (current_q['question'] + " " + line)[:300]
             else:
@@ -115,10 +110,9 @@ def process_raw_text(content: str) -> dict:
 async def init_db():
     os.makedirs(SUBJECTS_DIR, exist_ok=True)
     
-    # questions.txt fayli mavjud bo'lsa, uni o'qib, # belgilari bo'yicha fanlarga ajratamiz
-    if os.path.exists("questions.txt"): [cite: 16]
+    if os.path.exists("questions.txt"):
         try:
-            with open("questions.txt", "r", encoding="utf-8") as f: [cite: 16]
+            with open("questions.txt", "r", encoding="utf-8") as f:
                 content = f.read()
             
             parsed_subjects = process_raw_text(content)
@@ -126,20 +120,20 @@ async def init_db():
                 filepath = os.path.join(SUBJECTS_DIR, f"{sub_name}.txt")
                 with open(filepath, "w", encoding="utf-8") as sf:
                     for q in qs:
-                        sf.write(f"? {q['question']}\n") [cite: 16]
-                        for idx, opt in enumerate(q['options']): [cite: 16]
-                            prefix = "==" if idx == q['correct_idx'] else "=" [cite: 16]
-                            sf.write(f"{prefix} {opt}\n") [cite: 16]
+                        sf.write(f"? {q['question']}\n")
+                        for idx, opt in enumerate(q['options']):
+                            prefix = "==" if idx == q['correct_idx'] else "="
+                            sf.write(f"{prefix} {opt}\n")
                         sf.write("\n")
             logging.info("✅ questions.txt muvaffaqiyatli fanlarga ajratildi!")
         except Exception as e:
             logging.error(f"❌ questions.txt o'qishda xatolik: {e}")
 
-    db_dir = os.path.dirname(DB_PATH) [cite: 15]
-    if db_dir and not os.path.exists(db_dir): [cite: 15]
-        os.makedirs(db_dir, exist_ok=True) [cite: 15]
+    db_dir = os.path.dirname(DB_PATH)
+    if db_dir and not os.path.exists(db_dir):
+        os.makedirs(db_dir, exist_ok=True)
 
-    async with aiosqlite.connect(DB_PATH) as db: [cite: 15]
+    async with aiosqlite.connect(DB_PATH) as db:
         await db.execute("""
             CREATE TABLE IF NOT EXISTS scores (
                 user_id INTEGER,
@@ -148,15 +142,15 @@ async def init_db():
                 score INTEGER DEFAULT 0,
                 PRIMARY KEY (user_id, chat_id)
             )
-        """) [cite: 15]
+        """)
         await db.execute("""
             CREATE TABLE IF NOT EXISTS active_polls (
                 poll_id TEXT PRIMARY KEY,
                 correct_option_id INTEGER,
                 chat_id INTEGER
             )
-        """) [cite: 15]
-        await db.commit() [cite: 15]
+        """)
+        await db.commit()
 
 def get_all_subjects():
     if not os.path.exists(SUBJECTS_DIR):
@@ -171,48 +165,49 @@ def parse_subject_questions(subject_name):
     
     questions = []
     current_q = None
-    with open(filepath, 'r', encoding='utf-8') as f: [cite: 16]
-        for line in f: [cite: 16]
-            line = line.strip() [cite: 16]
-            if not line: continue [cite: 16]
-            if line.startswith('?'): [cite: 16]
-                if current_q: questions.append(current_q) [cite: 16]
-                current_q = {'question': line[1:].strip(), 'options': [], 'correct_idx': 0} [cite: 16]
-            elif line.startswith('=='): [cite: 16]
-                current_q['correct_idx'] = len(current_q['options']) [cite: 16]
-                current_q['options'].append(line[2:].strip()) [cite: 16]
-            elif line.startswith('='): [cite: 16]
-                current_q['options'].append(line[1:].strip()) [cite: 16]
-    if current_q: questions.append(current_q) [cite: 16]
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line: continue
+            if line.startswith('?'):
+                if current_q: questions.append(current_q)
+                current_q = {'question': line[1:].strip(), 'options': [], 'correct_idx': 0}
+            elif line.startswith('=='):
+                if current_q:
+                    current_q['correct_idx'] = len(current_q['options'])
+                    current_q['options'].append(line[2:].strip())
+            elif line.startswith('='):
+                if current_q:
+                    current_q['options'].append(line[1:].strip())
+    if current_q: questions.append(current_q)
     return questions
 
-def chunk_questions(questions, size=30): [cite: 16]
-    return [questions[i:i + size] for i in range(0, len(questions), size)] [cite: 16]
+def chunk_questions(questions, size=30):
+    return [questions[i:i + size] for i in range(0, len(questions), size)]
 
 # --- 3. BUYRUQLAR VA MENYU (HANDLERS) ---
-@dp.message(CommandStart()) [cite: 17]
-async def start_cmd(message: types.Message): [cite: 17]
-    await message.answer("👋 Assalomu alaykum!\n\nMen tartibsiz raqamlangan testlarni ham o'qiy oladigan aqlli botman.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
+@dp.message(CommandStart())
+async def start_cmd(message: types.Message):
+    await message.answer("👋 Assalomu alaykum!\n\nTuzatilgan va yangilangan aqlli test botiga xush kelibsiz.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
 
-@dp.message(Command("help")) [cite: 17]
-async def help_cmd(message: types.Message): [cite: 17]
-    text = ( [cite: 17]
-        "<b>🤖 Bot buyruqlari:</b>\n\n" [cite: 18]
+@dp.message(Command("help"))
+async def help_cmd(message: types.Message):
+    text = (
+        "<b>🤖 Bot buyruqlari:</b>\n\n"
         "🔸 /test - Fanlar ro'yxatini ko'rish va testni boshlash\n"
         "🔸 /leaderboard - Umumiy reytingni ko'rish\n"
-        "🔸 /stop - Faol testni to'xtatish\n\n"
-        "📎 <b>Eslatma:</b> <code>questions.txt</code> faylida fan nomini belgilash uchun boshiga <code># Matematika</code> kabi yozishingiz mumkin."
+        "🔸 /stop - Faol testni to'xtatish"
     )
-    await message.answer(text) [cite: 18]
+    await message.answer(text)
 
 @dp.message(Command("test"))
 async def send_subjects_menu(message: types.Message):
     subjects = get_all_subjects()
     if not subjects:
-        await message.answer("⚠️ Tizimda hali biron bir fan topilmadi! questions.txt faylini tekshiring.")
+        await message.answer("⚠️ Tizimda hali biron bir fan topilmadi!")
         return
     
-    builder = InlineKeyboardBuilder() [cite: 15]
+    builder = InlineKeyboardBuilder()
     for sub in subjects:
         builder.button(text=f"📚 {sub.replace('_', ' ')}", callback_data=f"sub_{sub}")
     builder.adjust(2)
@@ -228,7 +223,7 @@ async def handle_subject_selection(call: types.CallbackQuery):
         return
         
     chunks = chunk_questions(questions, 30)
-    builder = InlineKeyboardBuilder() [cite: 15]
+    builder = InlineKeyboardBuilder()
     for i, chunk in enumerate(chunks):
         start_num = (i * 30) + 1
         end_num = start_num + len(chunk) - 1
@@ -245,13 +240,13 @@ async def handle_subject_selection(call: types.CallbackQuery):
 @dp.callback_query(F.data == "back_to_subs")
 async def back_to_subs(call: types.CallbackQuery):
     subjects = get_all_subjects()
-    builder = InlineKeyboardBuilder() [cite: 15]
+    builder = InlineKeyboardBuilder()
     for sub in subjects:
         builder.button(text=f"📚 {sub.replace('_', ' ')}", callback_data=f"sub_{sub}")
     builder.adjust(2)
     await call.message.edit_text("🔍 <b>Qaysi fandan test topshirmoqchisiz?</b>", reply_markup=builder.as_markup())
 
-# --- 4. TEST JARAONI VA SAVOLLARNI YUBORISH ---
+# --- 4. TEST JARAYONI (XATOLIK TUZATILGAN JOYI) ---
 @dp.callback_query(F.data.startswith("run_"))
 async def handle_run_test(call: types.CallbackQuery):
     if active_tests.get(call.message.chat.id):
@@ -271,13 +266,16 @@ async def handle_run_test(call: types.CallbackQuery):
         
     chunk = chunks[chunk_index]
     await call.message.edit_text(f"🚀 <b>{subject_name.replace('_', ' ')}: {chunk_index + 1}-bo'lim boshlandi!</b>\nSavollar soni: {len(chunk)} ta.")
+    
+    # Bu yerda chat turi ham uzatiladi
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk, call.message.chat.type))
 
-async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
+# chat_type parametriga standart qiymat berildi (Xatolik butkul yo'qoldi)
+async def send_test_chunk(chat_id: int, chunk: list, chat_type: str = "group"):
     active_tests[chat_id] = True 
     session_scores[chat_id] = {}
     
-    async with aiosqlite.connect(DB_PATH) as db: [cite: 15]
+    async with aiosqlite.connect(DB_PATH) as db:
         for q in chunk:
             if not active_tests.get(chat_id):
                 session_scores.pop(chat_id, None)
@@ -291,12 +289,11 @@ async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
                 )
                 await db.execute("INSERT OR REPLACE INTO active_polls (poll_id, correct_option_id, chat_id) VALUES (?, ?, ?)", 
                                  (msg.poll.id, q['correct_idx'], chat_id))
-                await db.commit() [cite: 15]
+                await db.commit()
             except Exception as e:
                 logging.error(f"Poll yuborishda xatolik: {e}")
                 continue
 
-            # Shaxsiy chat va Guruh chatlari uchun taymer boshqaruvi
             if chat_type == "private":
                 event = asyncio.Event()
                 private_chat_events[chat_id] = event
@@ -322,7 +319,7 @@ async def send_test_chunk(chat_id: int, chunk: list, chat_type: str):
         else:
             results_text = "\n📊 Afsuski, hech kim to'g'ri javob bermadi."
 
-        await bot.send_message(chat_id, f"✅ Bo'lim yakunlandi!\n{results_text}\nℹ️ Umumiy reyting: /leaderboard")
+        await bot.send_message(chat_id, f"✅ Bo'lim yakunlandi!\n{results_text}\nℹ️ /leaderboard")
         active_tests.pop(chat_id, None)
 
 @dp.message(Command("stop"))
@@ -339,7 +336,7 @@ async def stop_test_cmd(message: types.Message):
 @dp.message(Command("leaderboard"))
 async def show_leaderboard(message: types.Message):
     chat_id = message.chat.id
-    async with aiosqlite.connect(DB_PATH) as db: [cite: 15]
+    async with aiosqlite.connect(DB_PATH) as db:
         async with db.execute("SELECT full_name, score FROM scores WHERE chat_id = ? ORDER BY score DESC LIMIT 15", (chat_id,)) as cursor:
             users = await cursor.fetchall()
     if not users:
@@ -350,7 +347,7 @@ async def show_leaderboard(message: types.Message):
         text += f"{i}. {name} — {score} ball\n"
     await message.answer(text)
 
-# --- 5. JAVOBLARNI TEKSHIRISH ---
+# --- 5. JAVOBLARNY TEKSHIRISH ---
 @dp.poll_answer()
 async def handle_poll_answer(poll_answer: types.PollAnswer):
     poll_id = poll_answer.poll_id
@@ -360,7 +357,7 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
     if not poll_answer.option_ids: return
     selected_option = poll_answer.option_ids[0]
 
-    async with aiosqlite.connect(DB_PATH) as db: [cite: 15]
+    async with aiosqlite.connect(DB_PATH) as db:
         async with db.execute("SELECT correct_option_id, chat_id FROM active_polls WHERE poll_id = ?", (poll_id,)) as cursor:
             row = await cursor.fetchone()
         if row:
@@ -370,7 +367,7 @@ async def handle_poll_answer(poll_answer: types.PollAnswer):
                     INSERT INTO scores (user_id, chat_id, full_name, score) VALUES (?, ?, ?, 1)
                     ON CONFLICT(user_id, chat_id) DO UPDATE SET score = score + 1, full_name = excluded.full_name
                 """, (user_id, chat_id, full_name))
-                await db.commit() [cite: 15]
+                await db.commit()
                 
                 if chat_id in session_scores:
                     if user_id not in session_scores[chat_id]:
