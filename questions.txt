@@ -1843,5 +1843,742 @@ ANDIJON – 2026
 	== Insonning mavjudligi, ongi, shaxsiy va ijtimoiy mohiyati
 	
 	
+14-MAVZU. MILLIY IQTISODIYOT VA UNING MAKROIQTISODIY O‘LCHAMLARI. YALPI ICHKI MAHSULOT VA UNING HARAKAT SHAKLLARI
+1. Makroiqtisodiyot  - bu …
++A) butun milliy va jahon iqtisodiyoti.
+B) iqtisodiyotning davlat sektori;
+C) iqtisodiyotning kooperativ sektori;
+D) xalq xo‘jaligi darajasidagi iqtisodiyot;
+2. Yalpi milliy mahsulot tushunchasi:
++A) mamlakat miqyosida bir yil davomida ishlab chiqarilgan pirovard mahsulot va ko‘rsatilgan hizmatlarning bozor narxida hisoblangan hajmi
+B) yangidan vujudga keltirilgan qiymat;
+C) oraliq mahsulotlar qiymati;
+D) yil davomida moddiy ishlab chiqarish sohalarida yaratilgan barcha mahsulotlar qiymati;
+3. Pirovard mahsulot tushunchasi:
++A) tayyor bo‘lgan, sotilgan yoki sotiladigan tovar va hizmatlarning bozor narxidagi hajmi;
+B) qayta ishlanadigan mahsulot;
+C) sotish maqsadida harid qilinadigan tovarlar;
+D) ishlov beriladigan mahsulot;
+4. Quyidagi tengliklardan qaysi biri to‘g‘ri.
++A) YAMM - amortizasiya = SMM;
+B) YAMM - sof eksport = SMM;
+C) YAMM - egri soliqlar = SMM;
+D) YAMM - joriy moddiy xarajatlar = SMM;
+5. Quyidagi tengliklardan qaysi biri to‘g‘ri.
++A) SMM - egri soliqlar = milliy daromad;
+B) SMM - amortizasiya = milliy daromad;
+C) SMM - ish haqi milliy = daromad;
+D) SMM to‘g‘ri soliqlar = milliy daromad;
+6. Nominal YAMM qanday usul bilan real YAMMga aylantiriladi.
++A) nominal YAMM narx indeksi;
+B) nominal YAMM real YaMMiga taqqoslab;
+C) nominal YAMM / joriy narxlar;
+D) nominal YAMM / doimiy narxlar;
+7. Nominal YAMM nima.
++A) YAMMining joriy narxlarda hisoblanishi;
+B) ishlab berish, qayta ishlash va qayta sotish maqsadlarida sotib olingan mahsulotlar;
+C) YAMMning ishlab chiqarish, taqsimlash va undan foydalanishning rasmiy hisob-kitoblardan yashirin qism;
+D) ulgurji va chakana narxlarda hisoblangan YAMM;
+8. Narx indeksi qanday hisoblanadi.
++A) iste’mol tovarlarining joriy yildagi narxini bazis yildagi iste’mol tovarlari narxiga taqqoslash orqali;
+B) nominal YAMM hajmini real YAMM hajmiga ko‘paytmasi olinadi;
+C) YAMMdan yillik amortizasiya summasining ayirmasi;
+D) YAMMdan sof eksport ayirmasi;
+9. Makroiqtisodiy ko‘rsatkichlar
++A) YAMM, SMM, MD, ishsizlik, inflyasiya, bandlik
+B) YAMM, SMM, ishsizlik, inflyasiya, bandlik
+C) YAMM, SMM, MD, ishsizlik, inflyasiya
+D) YAMM, SMM, MD, ishsizlik, bandlik	
+10. YAMM ni hisoblash usullari
++A) daromadlar bo‘yicha, harajatlar bo‘yicha, qo‘shilgan qiymat bo‘yicha
+B) daromadlar bo‘yicha, harajatlar bo‘yicha 
+C) harajatlar bo‘yicha, qo‘shilgan qiymat bo‘yicha
+D) nominal YAMM / doimiy narxlar va qo‘shilgan qiymat bo‘yicha
+
+15-MAVZU. YALPI TALAB VA YALPI TAKLIF
+1. Quyidagi qaysi iqtisodiy ko‘rsatkich YAMM hajmiga kirmaydi.
++A) import tovarlar;
+B) eksport tovarlar;
+C) amortizasiya ajratmasi;
+D) SMM;
+2. Quyidagilardan qaysi biri yalpi talab tarkibiga kirmaydi.
++A) barcha aholi jamg‘armalari;
+B) davlat sarflari;
+C) investision sarflar;
+D) iste’molchilik sarflari;
+3. Yalpi taklif egri chiziqining qaysi kesmasida ishlab chiqarish hajmi o‘zgarmaydi.
++A) tik kesmada;
+B) oraliq va yotiq kesmada;
+C) oraliq kesmada;
+D) yotiq kesmada;
+4. Qaysi omil aholi iste’moli va pul jamg‘armalari darajasini belgilaydi.
++A) shaxsiy daromad;
+B) soliqlar darajasi;
+C) foiz stavkasi;
+D) milliy daromad;
+5. Shaxsiy daromad 65000 so‘m bo‘lib, uning 52000 so‘mi iste’molga ketsa, iste’molga o‘rtacha moyillik necha foizni tashkil etadi.
++A) 80%;
+B) 100%;
+C) 85%;
+D) 90%;
+6. 65000 so‘m shahsiy daromaddan 13000 so‘mi jamg‘arma sifatida ishlatilsa, jamg‘armaga o‘rtacha moyillik necha foizni tashkil etadi.
++A) 20%;
+B) 100%;
+C) 50%;
+D) 25%;
+7. Yalpi talab bu 
++A) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga talabning umumiy hajmi 
+B) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga talabning umumiy hajmi
+C) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
+D) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
+8. Yalpi taklif bu 
++A) mamlakatda muayyan vaqtda ishlab chiqarilib, narxlarning muayyan darajasida sotishga tayyor tovarlar va xizmatlar hajmi
+B) ijtimoiy nafliligi bo‘yicha yalpi talabga mos tovarlar
+C) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
+D) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
+9. Yalpi talab hajmiga narxdan tashqari ta’sir etuvchi omillar
++A) iste’molchi sarflari o‘zgarishi, investision sarflar, davlat sarflari, sof eksportdagi o‘zgarishlar
+B) iste’molchi sarflari o‘zgarishi, davlat sarflari, sof eksportdagi o‘zgarishlar
+C) iste’molchi sarflari o‘zgarishi, investision sarflar, sof eksportdagi o‘zgarishlar
+D) iste’molchi sarflari o‘zgarishi, investision sarflar, davlat sarflari
+10. Yalpi taklif hajmiga narxdan tashqari ta’sir etuvchi omillar
+A) resurslar narxini o‘zgarishi, saramadorlikni o‘zgarishi, huquqiy me’yorlar o‘zgarishi
+B) iste’molchi sarflari o‘zgarishi, davlat sarflari, sof eksportdagi o‘zgarishlar
+C) iste’molchi sarflari o‘zgarishi, investision sarflar, sof eksportdagi o‘zgarishlar
+D) saramadorlikni o‘zgarishi, huquqiy me’yorlar o‘zgarishi
+
+16-MAVZU. ISTE’MOL VA JAMG‘ARMA, INVESTITSIYALAR
+1. Jamg‘arish normasi qanday aniqlanadi.
++A) jamgarish fondining butun milliy daromad hajmiga nisbatining foizdagi ifodasi;
+B) shahsiy daromadning iste’mol darajasiga nisbatining foizdagi ifodasi;
+C) milliy daromad o‘sgan hismining investision sarflar summasiga nisbatining foizdagi ifodasi;
+D) aholi umumiy daromadlarining tirikchilik ne’matlari va hizmatlar uchun ishlatiladigan qismi;
+2. Respublikamiz iqtisodiyotiga chet el investisiyalarini olib kirilishi uchun qanday siyosat olib borilmoqda.
++A) cheklovlarni qisqartirish va ochiq eshiklar siyosati;
+B) tabaqalashgan boj olish siyosati;
+C) aholining ishonchli sug‘urta bilan himoyalangan siyosat;
+D) soliq sohasida chegaralangan imtiyozlar siyosati;
+3. Jamiyatning jahon sivilizasiyasiga keng ko‘lamda integraciyalashuvi iqtisodiyotimizga investisiyalar olib kirish uchun qanday huquqiy asoslar yaratilgan.
+A) soliq sohasida ham imkoniyatlar berilganligi va chet el sarmoyalari ishonchli sug‘urta bilan himoyalanganligi;
++B) horijiy investorlarga qonuniy faoliyat natijasida olingan foydaning hammasi hech bir cheklovsiz chet el valyutasida chet elga o‘tkazishning kafolatlanishi;
+C) davlat mulkini hususiylashtirish jarayonida, erkin qatnashish huquqining cheklanmaganligi;
+D) O‘zbekiston Respublikasida horijiy investisiyalarning ijtimoiylashtirilishi;
+4.  Emitent kim.
++A) kapitalni jalb qilish maqsadida qimmatli qog‘ozlarni muomalaga chiqargan shahs;
+B) aksiyalar bilan oldi-sotdi qiluvchilar;
+C) qimmatli qog‘ozlar bozorining ishtirokchisi;
+D) veksellarni qayta rasmiylashtiruvchi shahs;
+5. Innovatsiya - ...
++A) iqtisodiyotga yangi tehnika-tehnologiyalarni ishlab chiqarish uchun mablag‘larni yo‘naltirishi;
+B) eksport uchun mablag‘larni yo‘naltirish;
+C) kredit berish;
+D) xalq xo‘jaligi tovarlari importini kuchaytirish;
+6. Pirovard mahsulot tushunchasi:
++A) tayyor bo‘lgan, sotilgan yoki sotiladigan tovar va hizmatlarning bozor narxidagi hajmi;
+B) qayta ishlanadigan mahsulot;
+C) sotish maqsadida harid qilinadigan tovarlar;
+D) ishlov beriladigan mahsulot;
+7.Iste’mol bu:
++A) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
+B) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
+C) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+8. Unumli iste’mol bu:
++A) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
+B) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
+C) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+9. Shaxsiy iste’mol bu:
++A) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
+B) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
+C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+10. Iste’molchilik sarflari bu:
++A) Aholi daromadlarining tirikchilik ne’matlari va xizmatlar uchun ishlatiladigan qismi;
+B) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
+C) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+
+17-MAVZU. IQTISODIY TARAQQIYOT, IQTISODIY O`SISH VA MILLIY BOYLIK
+1. Ekstensiv iqtisodiy o‘sishga qanday erishiladi.
++A) ishlab chiqarish omillari miqdorining ko‘payishi tufayli
+B) sifat jihatdan ishlab chiqarish omillarini takomillashtirish;
+C) korxonada ishchi kuchiga yuqori darajada ish haqi to‘lash
+D) talab va taklifning muvozanatlashuvidan
+2. Intensiv iqtisodiy o‘sishga qanday erishiladi.
+A) ishchi kuchi malakasini oshirish.
++B) sifat jihatdan ishlab chiqarish omillarini takomillashtirish, ishlab chiqarish samaradorligini oshirish, yangidan foydalanish.
+C) korxonada ishlab chiqarish vositalaridan unumli foydalanish.
+D) yangi yerlarni ochish.
+3.  Milliy boylik nima.
++A) barcha davrlarda yaratilgan va jamg‘arilgan moddiy va ma’naviy boyliklar hamda foydalanishga jalb qilingan tabiat boyliklari;
+B) ashyoviy buyum ko‘rinishiga ega bo‘lmagan nomoddiy qimmatliklardan va insoniyatning intellektual salohiyati natijalaridan iborat;
+C) yalpi ijtimoiy mahsulotning yangidan hosil qilingan va uning qiymatda ifodalanadigan qismidir;
+D) faqat tabiat resurslari majmuining qiymat shaklidir;
+4. Ekologik muammolarning kelib chihishidagi tub sabablar asosan nimalardan iborat.
++A) mamlakatda ITT va demografik omilga, atrof-muhitga to‘ralarcha munosabati;
+B) demografik omil, oziq-ovqat va ichimlik suvining tanhisligidir;
+C) respublikada ilmiy-tehnika taraqqiyoti, qurollanish poygasidan;
+D) mustamlakachilik siyosatidan;
+5. Tabiat resurslarining kamayib ketishiga qanday sabablar mavjud.
++A) respublikada ITT va demografik omilga, atrof-muhitga to‘ralarcha munosabat;
+B) demografik omil, oziq-ovqat va ichimlik suvining tanqisligi;
+C) mamlakatda ilmiy-tehnika taraqqiyoti, qurollanish poygasi;
+D) mustamlakachilik siyosati;
+6. Quyidagi qaysi bir holat «pinhoniy» bozorga hos.
++A) qurol, narkotik moddalar oldi-sottisi, valyuta bilan noqonyniy shug‘ullanish, 
+B) narkotik moddalar bilan oldi-sotdi qilish;
+C) valyuta bilan chayqovchilik qilish;
+D) qurol bilan savdo qilish;
+7. Quyidagi nisbatlardan qaysi biri inflyatsion farqni ifodalaydi.
++A) SMM<yalpi sarflar;
+B) SMM=yalpi sarflar;
+C) SMM >yalpi sarflar;
+D) SMM< yalpi talab;
+8. Quyidagi nisbatlardan qaysi biri retsession farqni ifodalaydi.
++A) SMM>yalpi sarflar;
+B) SMM<yalpi taklif;
+C) SMM>yalpi taklif;
+D) SMM<yalpi talab;
+9. Iqtisodiy taraqqiyot nima?
++A) Iqtisodiyotni ma’lum bir tomonga ya’ni pastdan yuqoriga, oddiydan murakkablikka qarab to`lqinsimon harakat;
+B) YaIMni aholi jon boshiga ko`payishi;
+C) Qo`shimcha mahsulot miqdorini ko`payishi;
+D)Fan texnika va texnologiyalar tarqqiyoti.
+10. Iqtisodiy o`sishning yangi klassik nazariyalari asoschilari:
++A) A.Marshall, L.Valras va M.Fridma;
+B) A.Smitt, D.Rikardo, V.Petti;
+C) F.Kene, A.Monkretyen, D.Kens;
+D) R.Xarrod, Y.Domar,
+
+18-MAVZU. MILLIY IQTISODIYOTNING MUVOZANATI VA MUTANOSIB RIVOJLANISHI
+1.Iqtisodiyotni yaxlit tizim sifatida samarali amal qilishi nimaga bog’liq
++A) uning tarkibiy qismlari o’rtasidagi muvozanatlik va mutanosiblikka 
+B) aholini o’sib boruvchi talabini qondirishga 
+C) narxlarni barqaror darajasiga
+D) ijtimoiy himoyaga
+2.Iqtisodiy muvozanat nima 
++A) bir-biri bilan o’zaro bog’liqlikda va ta’sirda amal qiladigan iqtisodiy jarayon, hodisalarning qarama-qarshi tomonlarini teng kelishi
+B) tabiat, jamiyat va iqtisodni tomonlarini teng kelishi
+C) iqtisodiy o’sish va bandlikni bir-biriga mosligi
+D) davlat xaridi va investitsion sarflar qiymati
+3.Qamrab olish darajasiga ko’ra muvozanat turlari
++A) umumiy va xususiy
+B) makroiqtisodiy va dinamik
+C) mikroiqtisodiy va statik
+D) qisqa muddatli va uzoq muddatli
+4.Iqtisodiy muvozanatni ta’minlashda qanday balanslardan foydalaniladi
++A) moddiy, qiymat va ishchi kuchi
+B) moddiy va pul
+C) natural va qiymat
+D) ishchi kuchi va pul
+5.Tarmoqlararo mutanosiblik bu-…
++A) sanoatning undirish va qayta ishlash o’rtasidagi; qishloq xo’jaligida dehqonchilik va chorvachilik o’rtasidagi mutanosiblik
+B) ishchi kuchi va ishlab chiqarish vositalari o’rtasidagi mutanosiblik
+C) hududlararo ijtimoiy infratuzilma ob’ektlari o’rtasida mutanosiblik
+D) qishloq xo’jaligi va transport o’rtasidagi mutanosiblik
+6.Ishlab chiqarish ichidagi mutanosiblik
++A) ishchi kuchi va ishlab chiqarish vositalari o’rtasidagi mutanosiblik
+B) iste’mol va jamg’arma o’rtasidagi mutanosiblik
+C) qishloq xo’jaligi va transport o’rtasidagi mutanosiblik
+D) aholi daromadlari va harajatlari o’rtasidagi mutanosiblik 
+7. Umum iqtisodiy mutanosiblik bu:
++A) Istemol fondi va jamg`arma fondi o`rtasidagi tovar-xizmatlar massasi bilan pul massasi o`rtasidagi mutanosiblik;
+B) Sano’atning undirish va qayta ishlash o`rtasidagi, qishloq ho`jaligida dehqonchilik va chorvachilik o`rtasidagi mutanosiblik;
+C) Hududlararo ijtimoiy infra tuzilma obyektlari o`rtasidagi mutanosiblik;
+D) Qishloq ho`jaligi va tgransport o`rtasidagi mutanosiblik.
+8. Tarmoqlararo balans bu:
++A) Kengaytirilgan takror ishlab chiqrish jarayonini ifodolovchi iqtisodiy-matematik model;
+B) Ma’lum davr davomida muayyan mamlakatdagi pul tushumlari bilan chet mamlakatlarga barcha pul to`lovlari o`rrtasidagi tenglikni ifodolovchi ko`rsatkichlar tizimi;
+C) Mavjud ishchi kuchi resurslari va ulardan foydalanishning tenglikni ifodolovchi ko`rsatkichlar tizimi;
+D) Zaruriy mahsulotni pul ko`rinishini olgan asosiy qismi, harakatini aks ettiruvchi ko`rsatkichlar tizimi.
+9. To`lov balansi bu:
++A) Ma’lum davr davomida muayyan mamlakatdagi pul tushumlari bilan chet mamlakatlarga barcha pul to`lovlari o`rrtasidagi tenglikni ifodolovchi ko`rsatkichlar tizimi;
+B) Mavjud ishchi kuchi resurslari va ulardan foydalanishning tenglikni ifodolovchi ko`rsatkichlar tizimi;
+C) Zaruriy mahsulotni pul ko`rinishini olgan asosiy qismi, harakatini aks ettiruvchi ko`rsatkichlar tizimi;
+D) Kengaytirilgan takror ishlab chiqrish jarayonini ifodolovchi iqtisodiy-matematik model;
+10. Ishchi kuchi resurslari balansi bu:
+A) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish
++B) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
+C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+
+19-MAVZU. IQTISODIYOTNING SIKLLILIGI VA MAKROIQTISODIY BEQARORLIK
+1. Sikl qanday fazani o‘z ichiga oladi.
++A) pasayish, turg‘unlik, jonlanish, yuksalish.
+B) abadiylik, tabiiylik, suniylik.
+C) tirilish, o‘sish, pasayish.
+D) inqiroz, yuksalish, o‘sish, pasayish.
+2. Stagnatsiya - bu ...
++A) barcha iqtisodiyotdagi tang holat;
+B) halqaro bitim;
+C) mamlakatdagi keskin vaziyat;
+D) narxlar o‘sishi;
+3. Agrar inqirozlarning asosiy hususiyatlari nimalarda namoyon bo‘ladi.
++A) asosan siklli harakterga ega bo‘lmaslikda va nisbatan uzoq davom etishida
+B) narxlarning pasayishi, daromadlar va foydaning kamayishida;
+C) mahsulotlarning nisbiy ishlab chiqarilishida;
+D) respublikada ishsizlikning o‘sishida;
+4.  Iqtisodiy sikldan iqtisodiyotning qaysi sohalari ko‘proq yo‘qotishga uchraydi.
+A) iqtisodiyotning qishloq xojaligi va xizmat ko‘rsatish sohasi;
++B) uzoq muddatli foydalaniladigan iste’molchilik tovarlari ishlab chiqaruvchi sanoat tarmoqlari, investitsion tovar ishlab chikaruvchi sanoat tarmoklari;
+C) mamlakatda investision tarmoqlari;
+D) qisqa muddatli foydalaniladigan iste’molchilik tovarlari ishlab chiqaruvchi tarmoqlari;
+5. Iqtisodiy inqirozlarning asosiy mazmuni nimada namoyon bo‘ladi.
++A) ishlab chiqarilgan tovarlar massasining to‘lovga qobil talabidan oshib ketishi yoki kam bo‘lishida
+B) mamlakat iqtisodiyotida ishsizlikning o‘sishida;
+C) respublikada narxlarning o‘sishida;
+D) tovarlar ishlab chiqarishning kamayishida;
+6. Iqtisodiy sikl qanday harakatni ifodalaydi.
++A) bir iqtisodiy inqirozidan ikkinchisi boshlanguncha takrorlanib turadigan harakati
+B) iqtisodiyotnnig yuqorilab boruvchi chiziq shaklidagi harakati;
+C) iqtisodiyotning yopiq doira shaklidagi harakati;
+D) iqtisodiyotda ishlab chiqarish o‘sish sur’atlarining o‘zgarishi;
+7. Iqtisodiy siklning inqiroz fazasida:
++A) Iqtisodiy ko`rsatkichlik keskin pasaydi;	
+B) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi;
+C) Ishlab chiqarish darajasi dekin asta o`sadi, bandlik darajasi ortadi;
+D) Ish haqi oshadi, iste’mol tovarlariga talab ortadi
+8. Iqtisodiy sikl tu`g`unlik fazasida:
++A) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi;
+B) Iqtisodiy ko`rsatkichlik keskin pasaydi;
+C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
+D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+9. Iqtisodiy siklning jonlanish fazasida:
++A) Ishlab chiqarish darajasi dekin asta o`sadi, bandlik darajasi ortadi;
+B) Ish haqi oshadi, iste’mol tovarlariga talab ortad
+C) ) Iqtisodiy ko`rsatkichlik keskin pasaydi;	
+D) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi
+10. Iqtisodiy sikllarni tahlil qiluvchibazaiyalar bu:
++A) Eksternal va internal nazariyalar
+B) Keynschilik va merkantilizm
+C) Fiziokratlar va merkantilizm
+D) Deterministlar va monetaristlar
+
+20-MAVZU. ISHCHI KUCHI, UNING BANDLIGI VA ISHSIZLIK
+1. Ishsizlik deganda...
+A) ish qilmay yurgan aholi.
+B) mehnatga layoqatsiz insonlar.
+C) malakaga ega bo‘lib ish qidirayotgan aholi tushuniladi
++D) o‘ziga ish topolmasdan, mehnat rezervi armiyasiga aylangan aholining iqtisodiy faol qismi tushuniladi;
+2. Friksion ishsizlik deganda:
++A) ish joylarini o‘zgartirish tufayli ishdan bo‘shab qolib malakasiga mos ish qidirayotgan va ish o‘rinlari bo‘shashini kutayotgan ishsizlar tushuniladi;
+B) mamlakatda iqtisodiy siklning inqiroz fazasi bilan bog‘liq ravishda vujudga keladigan ishsizlik tushuniladi;
+C) hududda iste’molchilik talabi va taklifi tehnologiyadagi turli hududlarda, ishchi kuchining talab va taklif nomuvofiqligi natijasida vujudga kelgan ishsizlik tushuniladi
+D) layoqati bo‘la turib ishlashni hohlamaydigan ishsizlar tushuniladi;
+3. Ishsizlik darajasi (ID) qanday aniqlanadi.
++A) ID=IS/IKx100;
+B) ID=(ISxIK)x100;
+C) ID=IK/ISx100;
+D) ID=(IS-IK)x100;
+4. Ishchi kuchi 12,5 mln. kishini, ishsizlar 1,3 mln. kishini tashkil qilsa, ishsizlik darajasi necha foizni tashkil qiladi.
++A) 10,4%;
+B) 13,8%;
+C) 11,2%;
+D) 9,6%;
+5. Artur Ouken qonuniga binoan ishsizlik darajasining 1 foizga oshishi YAMMning necha foizga kamayishiga olib keladi
++A) 2,5 %;
+B) 1,0 %;
+C) 1,5 %;
+D) 0,5 %;
+6. Ishsizlikning tabiiy darajasi 4% ni, haqiqiy darajasi 9,3 %ni tashkil qilsa, Ouken qonuni bo‘yicha YAMMning orqada qolishi necha foizni tashkil qiladi.
++A) 13,25;
+B) 5,3 %;
+C) 13,3 %;
+D) 4,3 %;
+7. Ishchi kuchining miqdori bu:
++A) Mamlakat aholisining mehnatga layoqatli bo`lgan qismi, ya’ni ishchi kuchi resurslari;
+B) Ish kuchi reasurslarining potensial qismi;
+C) Ishlayotgan fuqarolar soni;
+D) Mehnat resurslarining faol qismi.
+8. Ishchi kuchining sifati bu:
++A) Ishchi kuchi tarkibini zamon talablari jihatidan ijtimopoiy ishlab chiqarish ehtiyojlariga muvofiqligi darajasi;
+B) Ish kuchi reasurslarining potensial qismi;
+C) Ishlayotgan fuqarolar soni;
+D) Mehnat resurslarining faol qismi.
+9. Nufus qonuni:
++A) Aholini o`sib borishi qonuni;
+B) Aholini tabiiy o`sishi;
+C) Hayot kechirish davomiyligini o`sishi;
+D) Tu`gilishni optimallashuvi.
+10. Ishchi kuchi migratsiyasi turlari:
++A) Tugal, tebranuvchi, mavsumiy, tasodifli
+B) Tebranuvchi, to`lqinsimon, tasodifli
+C) Rejali, tasodifiy, davriy, to`lqinsinmon;
+D) Xalqaro, hududiy, ichki.
+
+21-MAVZU. MOLIYA TIZIMI VA MOLIYAVIY SIYOSAT
+1. Moliyaviy munosabatlarning mohiyati qaysi bandda to‘la yoritilgan.
++A) moliya harakati, ya’ni uning shakllanishi, taqsimlanishi va ishlatilishi jarayonida vujudga keladigan munosabatlar
+B) faqat davlat tashkilotlari va muassasalari pul mablag‘larining ishlatilishi bilan bog‘liq bo‘lgan munosabatlar;
+C) faqat aholi keng qatlamlari qo‘lidagi pul mablag‘larining ishlatilishi bilan bog‘liq bo‘lgan munosabatlar;
+D) chet ellik jismoniy va huquqiy shahslar pul mablag‘larining harakati bilan bog‘liq bo‘lgan munosabatlar;
+2. Moliyaviy munosabatlarning subyektlari:
++A) muassasalar, tashkilotlar, jismoniy va huquqiy shaxslar, aholining keng qatlamlari.
+B) davlat yerlari.
+C) chet ellik jismoniy va huquqiy mehmonlar.
+D) ishchi kuchi sinflari.
+3. Soliqlar tushunchasining mazmuni qaysi bandda to‘g‘ri ko‘rsatilgan.
+A) soliqlar iqtisodiy tushuncha sifatida sof daromadning bir qismini ixtiyoriy ravishda budjetga jalb qilishning shakli bo‘lib, moliyaviy munosabatlarning tarkibiy qismini tashkil etadi
+B) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy shahslar daromadining bir hismini ravishda budjetga jalb etish shaklidir;
++C) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy shahslar daromadining bir hismini majburiy ravishda byudjetga jalb etish shaklidir;
+D) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy va jismoniy shahslar daromadlarining bir hismini ihtiyoriy ravishda byudjetga jalb etish shaklidir;
+4. Devalvatsiya – bu ...
++A) boshqa mamlakatlar valyutasiga nisbatan milliy yoki xalqaro pul birligi kursining pasayishi;
+B) davlat pul birligi qadrining oshish;
+C) qadrsizlanish
+D) fuqarolarning bir yil davomidagi yalpi daromadidan olinadigan majburiy to‘lov;
+5. Deflyator - ...
+A) inflyatsiya sur’atini ko‘rsatuvchi umumiy ko‘rsatkichi
+B) pul qadrining tushib ketish;
+C) sof foyda;
+D) pulning qadrini oshirish uchun muomaladagi qog‘oz pullar va banknotlar miqdorini kamaytirish;
+6. Moliyaviy munosabatlarning subyektlari:
++A) muassasalar, davlat tashkilotlari, chet ellik jismoni va huquqiy shaxslar, aholining keng qatlamlari.
+B) yer, suv, dala va tog‘lar.
+C) chet ellik mehmonlar.
+D) aholi keng qatlami;
+7. Moliyaning mohiyati:
++A) Pul mablag`laridan foydalanish va uning harakatini tartibga solish bilan bog`liq munosabatlar tizimi;
+B) Vaqtincha pul mablag`larini harakatga keltirish bilan bo`gliq munosabaatlar tizimidir;
+C) Soff daromadni bir qismini byudjetga jalb qilish;
+D) Iqtisodiyotni turli darajalardagi pul fondlari.
+8. Moliya munosabatlari obyekti bu:
++A) Iqtisodiyotni turli darajalarda tarkib topuvchi va harakat qiluvchi pul mablag`lari fondlari;
+B) Vaqtincha pul mablag`larini harakatga keltirish bilan bo`gliq munosabaatlar tizimidir;
+C) Soff daromadni bir qismini byudjetga jalb qilish;
+D) Pul mablag`laridan foydalanish va uning harakatini tartibga solish bilan bog`liq munosabatlar tizimi;
+9. Davlat byudjeti bu:
++A) Davlat daromadlari va harajatlari, ularni qoplash manba’alari yillik rejasidir;
+B) Davlat daromadlarining yillik rejasidir;
+C) Davlat harajatlarining yillik rejasidir;
+D) Davlatning barcha mol-mulki.
+10. Davlat krediti bu:
++A) Davlat qarz oluvchi yoki kreditor sifatida yuzaga chiqadigan barcha moliyaviy-iqtisodiy munosabatlar yig`indisidir;
+B) Davlatning mamlakat ichidagi zayomlari;
+C) Davlatning horijiy davlatlardan qarzi;
+D) Davlatning halqaro moliyaviy tashkilotlardan qarzi.
+11. Progressiv soliqlar:
++A) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi o`sib boruvchi soliqlar;
+B) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi pasayib boruvchi soliqlar;
+C) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi o`zgarishsiz qoluvchi soliqlar;
+D) Yuqori daromadli shaxslardan qo`shimcha undiriluvchi soliqlar.
+
+22-MAVZU. PUL – KREDIT TIZIMI, BANKLAR VA ULARNING BOZOR IQTISODIYOTIDAGI ROLI
+1. Naqd pul muomalasi nima bilan ta’minlanadi?
++A) metall tangalar va bank biletlari;
+B) cheklar;
+C) veksellar va akkreditivlar;
+D) to‘lov talablari;
+2. Devalvatsiya – bu …
++A) boshqa mamlakatlar valyutasiga nisbatan milliy yoki xalqaro pul birligi kursining pasayishi;
+B) pul birligi qadrining oshishi;
+C) inflyatsiya;
+D) fuqarolarning bir yil davomidagi yalpi daromadidan olinadigan majburiy to‘lov;
+3.Mamlakat pul tizimining muhim tarkibiy qismlari bu-…
++A) milliy pul birligi, qog’oz tanga va kredit pullar; pul emissiyasi; pul muomalasini tartibga soluvchi davlat idoralari
+B) milliy pul birligi, qog’oz tanga va kredit pullar; 
+C) pul emissiyasi; pul muomalasini tartibga soluvchi davlat idoralari
+D) pul muomalasini tartibga soluvchi davlat idoralari
+4.Muomala uchun zarur pul miqdoriga ta’sir etuvchi omillar
++A) muayyan davrda sotilishi va sotib olinishi kerak bo’lgan tovarlar summasi, pul aylanish tezligi, kreditning rivojlanganlik darajasi
+B) puldan to’lov vositasi sifatida foydalanish va pul aylanish tezligi
+C) pul emissiyasi holati
+D) kreditning rivojlanganlik darajasi
+5.Pul bozori bu 
++A) mamlakatdagi pul miqdori foiz stavkalarining turli darajalarida pul mablag’lariga bo’lgan talab va taklifning nisbatini ifodalovchi mexanizm
+B) qimmatli qog’ozlar bozori
+C) fond birjasi
+D) bozordagi pul agregatlari
+6.Inflyatsiya bu-…
++A) pul muomalasi qonunlari buzilishi bilan bog’liq qog’oz pullarning qadrsizlanishi
+B) pul emissiyasini ko’payib ketishi
+C) mamlakatga chet el valyutasini kirib kelishi
+D) tovarlar bozoridagi narx indeksini pasayishi
+7.Kredit turlari:
++A) bank, iste’mol, tijorat, ipoteka, davlat va xalqaro kreditlar
+B) bank krediti, lizing, faktoring
+C) bank krediti va xalqaro kredit
+D) bank krediti va ipoteka krediti
+8. Pul muomilasi bu:
++A) Pulning o`z vazifalarini bajarish jarayonida to`xtovsiz harakatlanishi;
+B) Sotuvchi va oluvchini pul almashuvi;
+C) Pul emissiyasi;
+D) Naqd pulsiz hisob kitoblar.
+9. Qog`oz pullar inflyatsiyaga uchraganda nimaga nisbatan qadrsizlanadi?
++A) oltinga, tovarlarga va bardoshli chet-el vakyutalariga nisbatan;
+B) Bardoshli chet-el valyutalariga nisbatan;
+C) Tovarlar narxini oshishiga nisbatan;
+D) Tilla buyumlar narxini oshishiga nisbatan.
+10. Markaziy bank qanday vazifalarni bajaradi:
++A) Boshqa banklar majburiy zahiralarini saqlaydi, davlatning monetar siyosatini amalga oshiradi, milliy valyutani muomilaga chiqaradi;
+B) Mamlakatda omonat ishlarini tashkil etadi, aholiga kredit beradi;
+C) Obligatsiyalar chiqaradi;
+D) Ko`chnas mulk hisobiga uzoq muddatli kredit beradi, milliy valyutani muomilaga chiqaradi.
+
+23-MAVZU. BOZOR IQTISODIYOTINI TARTIBGA SOLISHDA DAVLATNING ROLI
+1. Davlatning iqtisodiyotni tartibga solishdagi rolini oshirishni yoqlovchi nazariya - bu:
++A) Keynscha nazariya;
+B) Smitning «Tinch qo‘yish» nazariyasi;
+C) Monetaristik nazariya;
+D) Marjinalistik nazariya;
+2. Aholini davlat tomonidan ijtimoiy himoyalashni yaxshilash masalasi respublikada qanday muhim vazifalarni hal etishga bog‘liq deb bilasiz?
++A) davlat mablag‘lari bilan bir qatorda mehnat jamoalari, jamoat va hayriya tashkilotlari, jamg‘armalarning mablag‘larini kengroq jalb etish;
+B) yangi pul birligini chiqarish;
+C) odamlarning kuch va qobiliyatlarini jamlash;
+D) ishlab chiqarishni barqarorlashtirish;
+3. Absorbatsiya nima?
++A) yalpi ichki mahsulotning mazkur mamlakatdagi uy xo‘jaliklar, korxonalar va davlatga realizatsiya qilinadigan qismi;
+B) eksportdan olingan daromadning import sarflaridan ortiqcha qismi;
+C) import to‘lovlarining eksportdan olingan daromaddan ortiqcha qismi;
+D) pulning qadrsizlanishi.
+4. O‘zbekiston tashqi umumiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda?
++A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
+B) faqat milliy manfaatlar asosida ish yuritish;
+C) sinfiy va umuinsoniy manfaatlarga asoslanish;
+D) faqat umuminsoniy manfaatlarni inobatga olish;
+5. Subventsiya nima?
++A) davlat tomonidan berilgan moliyaviy yordam turi;
+B) qimmatli qog‘oz turi;
+C) xalqaro shartnoma;
+D) xarajatlarni qoplash uchun moliyaviy yordam;
+6.”Ish bilan bandlik, foiz va pulning umumiy nazariyasi” kitobining muallifi
++A) D.M.Keyns
+B) A.Smit
+C) A.Monkret’en
+D) F.Kene
+7. Bozor iqtisodiyotini “Tinch qo`yish” nazariyasi kimga tegishli?
++A) A.Smit;
+B) D-M-Keyns;
+C) A.Marshall;
+D) A.Monkretyen.
+8. Iqtisodiyotni davlat tomonidan tartubga solish bu:
++A) Davlatning jamiyat a’zolari ehtiyojlarini qondirish darajasini oshirish uchun cheklangan iqtisodiy resurslardan samarali foydalanishni ta’minlovchi faoliyati.
+B) Davlatni yuridik qonunlar orqali iqtisodiyotga ta’siri;
+C) Ishlab chiqarishni yiriklashtirish;
+D) Iqtisodiy subyektlar faoliyati nazorati.
+9. Davlatni bozor iqtisodiyotini huquqiy asosini ta’mionlash funksiyasi bu:
++A) Xususiy mulkchilik mavqeini ta’minlash, bozor subyektlari o`rtasidagi munosabatlarni tartiblovchi qonunlarni ishlab chiqish;
+B) hususiy korxona xaqidagi qonunlarni ishlab chiqish;
+C) Hususiylashtirish jarayoni;
+D) Raqobatni himoya qilish
+10. Davlatni milliy iqtisodiyotni tartibga solishdagi bevosita usullari:
++A) Narx va ish haqini “Muzlatib qo`yish”, ish bilan bandlik hizmatini tashkil etish;
+B) Hisob stavkasini tartibga solish;
+C) Moliya-kredit muassasalarining markaziy bankdagi minimal zahiralarini o`rnatish;
+D) Davlatning obligatsiyalarini chiqarish.
+
+24-MAVZU. AHOLI DAROMADLARI VA DAVLATNING IJTIMOIY SIYOSATI
+1. Aholi, oila farovonligi darajasi tushunchasi
++A) odamlarning munosib turmush kechirishi
+B) aholining bir xil darajada daromad olishi
+C) daromadlarining minimal iste’mol byudjetidan yuqori bo‘lishi
+D) aholining yetarli darajada farovon yashashi
+2. Quyidagilardan qaysi biri aholi daromadlari tarkibiga kirmaydi?
++A) soliqlar;
+B) davlat sug‘urtasi bo‘yicha to‘lovlar;
+C) mehnat haqi hisobiga olinadigan va uy xo‘jaliklarining o‘z iste’molchilari uchun ishlab chiqargan mahsulotlari;
+D) foiz, dividend, renta;
+3. Aholini davlat tomonidan ijtimoiy himoyalashni yaxshilash masalasi respublikada qanday muhim vazifalarni hal etishga bog‘liq deb bilasiz?
++A) davlat mablag‘lari bilan bir qatorda mehnat jamoalari, jamoat va hayriya tashkilotlari, jamg‘armalarning mablag‘larini kengroq jalb etish;
+B) yangi pul birligini chiqarish;
+C) odamlarning kuch va qobiliyatlarini jamlash;
+D) ishlab chiqarishni barqarorlashtirish;
+4.Aholi turmush darajasini aniqlasshda BMT tomonidan tavsiya etilgan ko’rsatkichlar nechta guruhdan iborat
++A) 12
+B) 9
+C) 6
+D) 10
+5.Turmush tarzi-…
++A) kishilarning milliy va jahon hamjamiyatidagi hayot faoliyati aks ettiriluvchi ijtimoiy iqtisodiy kategoriyadir
+B) iste’molchi byudjetining xarid quvvati 
+C) moddiy ta’minlanganlik darajasi
+D) ijtimoiy hayotta ishtirok etish
+6.Aholi daromadlari bu-…
++A) ma’lum vaqt oralig’ida olingan pul va natural shakldagi daromadlari
+B) aholining nominal ish haqi
+C) aholining real ish haqi
+D) aholining tadbirkorlikdan olgan daromadi
+7. Iste’molchi byudjetining qanday turlari bor?
++A) Yuqori, o`rtacha va minimal;
+B) Nafaqahorlar va yuqori ta’minlanganlar byudjeti;
+C) Boylar va qashshoqlar byudjeti;
+D) Yuqori ta’minlanganlar va minimal ta’minlanganlar byudjeti.
+8. Aholi daromadlarini qanday ko`rinishkari bor?
++A) Pul va natural;
+B) Ish haqi va tadbirkorlik foydasi;
+C) Ish haqi va tadbirkorlik foydasi, stipendiya;
+D) Uy xo`jaliklarini o`z iste’moli uchun ishlab chiqargan mahsulotlari..
+9. Aholining nominal pul daromadlari bu:
++A) Aholi tomonidan ma’lum vaqt oralig`ida olingan daromadlarni pul ko`rinishidagi miqdori;
+B) Ishlab chiqarish omillari hisobiga olinadigan daromadlar;
+C) Moliya kredit tizimi orqali olinadigan daromadlar;
+D) To`lovlar va imtiyozlar
+10. Kambag`allik bu:
++A) Hayot uchun muhim bo`lgan birlamchi ehtiyojlarini qondira olmaydigan, ishga layoqatli, yetarli daromadga ega bo`lmagan ijtimoiy guruhning iqtisodiy holati;
+B) Daromadlarni umuman yo`qligi, ishga layoqatning mavjudligi;
+C) Trikchilik minimumidan past daromadga ega bo`lganlar;
+D) Daydi, boshpanasiz shaxslar.
+
+25-MAVZU. JAHON XO’JALIGI VA UNING EVOLUTSIYASI
+1. O‘zbekiston tashqi umumiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda?
++A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
+B) faqat milliy manfaatlar asosida ish yuritish;
+C) sinfiy va umuinsoniy manfaatlarga asoslanish;
+D) faqat umuminsoniy manfaatlarni inobatga olish;
+2. O‘zbekiston jahon hamjamiyati bilan hamkorlik qilganda nimalarga amal qiladi?
++A) hech bir davlat bilan yaqinlashish hisobiga boshqasidan uzoqlashmaslikka;
+B) ichki ishlarga aralashmaslikka;
+C) o‘z mahsulotlarini ko‘proq eksport qilishga;
+D) integratsiyani chuqurlashtirishga;
+3. Jahon mamlakatlarining qaysi birida qishloq xo‘jaligida dotatsiya berilmaydi?
++A) qishloq xo‘jaligiga butun dunyoda dotatsiya berish mavjuddir.
+B) Lotin-Amerika mamlakatlarida;
+C) Yevropa mamlakatlarida;
+D) Osiyo mamlakatlarida;
+4. O‘zbekiston tashqi siyosiy va tashqi iqtisodiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda 
++A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
+B) faqat milliy manfaatlar asosida ish yuritish;
+C) sinfiy va umuinsoniy manfaatlarga asoslanish;
+D) faqat umuminsoniy manfaatlarni inobatga olish;
+5.   2022-yilda O‘zbekistonning tashqi savdo aylanmasi … 
++A) 40 100,2 AQSh dollarini tashkil etdi;
+B) 32 299,3 AQSh dollarini tashkil etdi;
+C) 31 299,3 AQSh dollarini tashkil etdi;
+D) 38 299,3 AQSh dollarini tashkil etdi;
+6.Xalqaro iqtisodiy munosabatlar shakllari
++A) tovar va xizmatlar xalqaro savdosi, kapital va chet el investitsiyalari harakati, ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
+B) tovar va xizmatlar xalqaro savdosi, kapital va chet el investitsiyalari harakati, 
+C) ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
+D) kapital va chet el investitsiyalari harakati, ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
+7. Jahon xo`jaligi bu:
++A) Xalqaro mehnat taqsimoti asosida savdo ishlab chiqarish moliyaviy ilmiy-texnikaviy aloqalar asosidagi mamalakatlar xo’jaliklari umumiy tizimi;
+B) Barcha mamalakatlar eksport va import munosabatlari;
+C) O’zaro manfaatdorlikka asoslangan munosabatlar; 
+D) Davlatlarning umumiy valyuta ittifoqi; 
+8. Jahon xo’jaligi subyektlari. 
++A) Mamlakatlar, TMK, xalqaro tashkilotlar;
+B) Milliy iqtisodiyot chegarasidan tashqaridagi subyektlar;
+C) Xalqaro tashkilotlar;
+D) Jahon banki va xalqaro savdo tashkiloti; 
+9. Jahon xo’jaligi tarkibi: 
++A) Tovar va xizmatlar jahon bozori, kapital va ishchi kuchi, xalqaro valyuta kredit-moliya tizimi;
+B) Tovar va xizmatlar jahon bozori;
+C) Kapital va ishchi kuchi jahon bozori; 
+D) Xalqaro valyuta kredit tizimi;
+10. Globallashuv yo’nalishlari: 
++A) Mulkchilik munosabatlari globallashuvi, kooperatsiya va mehnat taqsinmotining yuqori darajasi,  yangi xo’jalik shakllari;
+B) AQSh, Yaponiya, Xitoy kabi yirik mamalakatlarning dunyo iqtisodiyotiga ta’sirini oshishi;
+C) Turli hududlarda integratsion guruhlarni shakllanishi;
+D) Boy va qashshoq mamalakatlar o’rtasidagi farqlar;
+
+26-MAVZU. XALQARO IQTISODIY INTEGRATSIYA VA O’ZBEKISTONNING JAHON HAMJAMIYATIGA KIRIB BORISHI
+1.Xalqaro iqtisodiy integratsiya bu
++A) mamlakatlar iqtisodiy aloqalarini barqarorlashib, chuqurlashib rivojlanishi
+B) erkin savdo hududlarini amal qilishi
+C) hududiy yaqin mamlakatlarning o’zaro aloqalari
+D) davlatlarning siyosiy kelishuvi
+2.Erkin savdo hududlari bu…
++A) qatnashuvchi mamlakatlar o’rtasida savdo cheklashlari bekor qilinishi
+B) yagona tashqi savdo tariflari amal qiluvchi hududlar
+C) yagona pul birligi amal qiluvchi hudud
+D) boj to’lovlari bekor qilinadigan hudud
+3.Bojxona ittifoqi bu…
++A) erkin savdo hududlari, yagona tashqi savdo ta’riflari va uchinchi mamlakatga nisbatan yagona tashqi savdo siyosatini yurgizish
+B) boj to’lovlari bekor qilinadigan hudud
+C) yagona pul birligi amal qiladigan hudud
+D) davlatlarning siyosiy kelishuvi
+4.To’lov ittifoqi bu…
++A) milliy valyutalarning o’zaro erkin almashinuvini va hisob-kitobda yagona pul birligini amal qilishi
+B) yagona tashqi savdo siyosatini yuritish ittifoqi
+C) yagona boj siyosatini o’tkaziladigan hudud
+D) umumiy bozor
+5.O’zbekiston SHHT ga qachon a’zo bo’lgan
++A) 2001 yil
+B) 2000 yil
+C) 1992 yil
+D) 2007 yil
+6.O’zbekiston respublikasi tashqi iqtisodiy siyosatini amalga oshirish tamoyillari
++A) teng huquqlilik, ikki tomonlama va ko’p tomonlama shartnoma munosabatlarida o’zaro manfaatli aloqalar o’rnatish
+B) moslashuvchan integratsiya tamoyillari
+C) qat’iy bir tomonlama integratsiya tamoyillari
+D) xalqaro iqtisodiy ittifoqlarga a’zo bo’lish tamoyillari
+7. Dunyodagi asosiy integratsion guruhlar:
++A) Yevropa ittifoqi, Erkin savdo to’g’risidagi Shimnoliy Amerika bitim (NAFTA) va Janubiy Sharqiy Osiyo mamalakatlari assotsiatsiasi (ACEAN);
+B) Atom energiyasi bo’yicha Yevropa hamjamiyati;
+C) NAFTA va ACEAN;
+D) NAFTA va Yevropa iqtisodiy hamjamiyati;
+8. Shimnoliy Amerika bitim (NAFTA)tarkibiga qaysi davlatlar kiradi?
++A) AQSh, Kanada, Meksika;
+B) AQSh, Kanada, Braziliya;
+C) Kuba, AQSh, Meksika;
+D) AQSh, Kuba, Braziliya;
+9. O’zbekistonning global strategik integratsion vazifasi bu:
++A) Mamlakatdagi barcha xo’jalik subyektlarini tashqi bozor bilan o’zaro aloqasini ta’minlash shart-sharotilarini yaratish;
+B) Xalqaro savdo tashkilotiga a’zo bo’lish;
+C) eksport salohiyatini yuksaltirish; 
+D) eksport imkoniyatlarifa to’laroq foydalanish;
+10. Xalqaro savdo siyosati shakllari:
++A) Proteksionizm va fritrederlik;
+B) Tovarlar importini cheklash va yuqori boj to’lovlarini belgilash; 
+C) Tovarlarni ma’lum turlari bilan savdo qilishga davlat monopoliyasini o’rnatish;
+D) Eksportni qo’llab-quvvatlash;
+
+27-MAVZU. JAHON BOZORI. XALQARO VALYUTA VA KREDIT MUNOSABATLAR
+1.Xalqaro savdodagi muhim nazariyalar
++A) mutlaq ustunlik va qiyosiy ustunlik nazariyalari
+B) ishlab chiqarish omillari nisbati nazariyalari
+C) ishchi kuchi malakasi modeli nazariyalari
+D) muqobil harajatlar nazariyalari
+2.Xalqaro savdo bu-…
++A) mamlakatlar xo’jaliklari o’rtasidagi tovar va xizmatlarni ayirboshlash jarayonidagi munosabatlar majmui
+B) mamlakatlarning tashqi savdo aylanmasi
+C) mamlakat mahsulotini boshqa mamlakatga sotish
+D) mamlakat mahsulotini boshqa mamlakat mahsulotiga almashtirish
+3.Export bu-…
++A) mamlakatda ishlab chiqarilgan tovar va xizmatlarni chet ellik mijozlarga mamlakat tashqarisiga chiqarib sotish
+B) mamlakat mahsulotini boshqa mamlakat mahsulotiga almashtirish
+C) chet elga sotish mumkin bo’lgan tovarlar yarmarkasi
+D) chet elga sotish mumkin bo’lgan tovarlar assortimenti
+4.Tovarlarni export tarkibi:
++A) qayta ishlovchi sanoat mahsulotlari, oziq-ovqat, xomashyo va yoqilg’i
+B) oziq-ovqat, xomashyo va yoqilg’i
+C) qayta ishlovchi sanoat mahsulotlari
+D) qayta ishlovchi sanoat mahsulotlari, oziq-ovqat
+5.Tashqi savdo aylanmasi bu…
++A) tovarlar exporti va importi summasi
+B) tovarlar va kapitalni exporti summasi
+C) tovarlar va xizmatlar exporti summasi
+D) mamlakatni jahon bozorida sotishi mumkin bo’lgan tovarlari summasi
+6.Jahon valyuta tizimi rivojlanishi bosqichlari-bu…
++A) oltin standart, oltin-devizli, suzib yuruvchi valyuta kurslari
+B) oltin standart va boshqariladigan tizim
+C) xalqaro valyuta bozori va oltin bozori
+D) BRETTON-VUDS va Yamayka tizimi
+7. Eksport salohiyati bu:
++A) Mazkur mamlakat tomonidan ishlab chiqariladigan mahsulotni o’z iqtisodiy manfaatlariga putur yetkazmagan holda jahon bozorida sotish imkoniyati; 
+B) O’z tovarlari va boshqa mamlakatlardan olingan tovarlarni sotish borasidagi bitimlar;
+C) Chetga tovar sotishni ko’paytirish;
+D) Chetdan sotib olayotgan tovarlarni o’z mamlakatida ishlab chiqarish imkoniyati;
+8. Erkin savdo yo’lidagi to’siqlar bu:
++A) Boj to’lovlari, import kvotalari, tarifsiz to’siqlar va eksportni ixtiyorish cheklash;
+B) Aksizlar, mahsulot sifatiga standartlar;
+C) Chet-el firmalarini ayrim mamlakatga eksportni ixtiyoriy cheklash;
+D) Litsenziyalash tizimi, ma’muriy to’siqlar;
+9. Valyuta bu:
++A) Mamlakatlar pu birligi;
+B) Euro;
+C) Dollar
+D) Euro, dollar, rubl.
+10. XVF qanday vazifalarni bajaradi?
++A) A’zo mamlakatlarni valyuta kursi va to`lov balansini tartibga soladi, kredit ajaratadi, tashqi qarzlarni nazorat qiladi;
+B) Rrivojlanayotgan mamlakatlarga uzoq muddatli kredit beradi;
+C) Rivojlanayotgan mamlakatlarga past foizli kredit beradi;
+D) Xususiy sektorga davlat kafolatisiz kredit beradi.
+
+
+
+
+
 
 
