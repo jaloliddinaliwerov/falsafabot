@@ -1,5 +1,6 @@
 import os
 import re
+import random  # Tasodifiy aralashtirish uchun kutubxona
 import asyncio
 import logging
 import aiosqlite
@@ -188,7 +189,7 @@ def chunk_questions(questions, size=30):
 # --- 3. BUYRUQLAR VA MENYU (HANDLERS) ---
 @dp.message(CommandStart())
 async def start_cmd(message: types.Message):
-    await message.answer("👋 Assalomu alaykum!\n\nTuzatilgan va yangilangan aqlli test botiga xush kelibsiz.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
+    await message.answer("👋 Assalomu alaykum!\n\nJavoblari har safar aralashib chiqadigan aqlli test botiga xush kelibsiz.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
 
 @dp.message(Command("help"))
 async def help_cmd(message: types.Message):
@@ -246,7 +247,7 @@ async def back_to_subs(call: types.CallbackQuery):
     builder.adjust(2)
     await call.message.edit_text("🔍 <b>Qaysi fandan test topshirmoqchisiz?</b>", reply_markup=builder.as_markup())
 
-# --- 4. TEST JARAYONI (XATOLIK TUZATILGAN JOYI) ---
+# --- 4. TEST JARAYONI VA SAVOLLARNI JOYLARINI ALMASHTIRIB YUBORISH ---
 @dp.callback_query(F.data.startswith("run_"))
 async def handle_run_test(call: types.CallbackQuery):
     if active_tests.get(call.message.chat.id):
@@ -265,12 +266,10 @@ async def handle_run_test(call: types.CallbackQuery):
         return
         
     chunk = chunks[chunk_index]
-    await call.message.edit_text(f"🚀 <b>{subject_name.replace('_', ' ')}: {chunk_index + 1}-bo'lim boshlandi!</b>\nSavollar soni: {len(chunk)} ta.")
+    await call.message.edit_text(f"🚀 <b>{subject_name.replace('_', ' ')}: {chunk_index + 1}-bo'lim boshlandi!</b>\nSavollar soni: {len(chunk)} ta.\n💡 <i>Eslatma: Savol javoblari har bir guruh uchun tasodifiy aralashtirildi!</i>")
     
-    # Bu yerda chat turi ham uzatiladi
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk, call.message.chat.type))
 
-# chat_type parametriga standart qiymat berildi (Xatolik butkul yo'qoldi)
 async def send_test_chunk(chat_id: int, chunk: list, chat_type: str = "group"):
     active_tests[chat_id] = True 
     session_scores[chat_id] = {}
@@ -282,13 +281,30 @@ async def send_test_chunk(chat_id: int, chunk: list, chat_type: str = "group"):
                 return
             if len(q['options']) < 2: continue
             
+            # 👇 --- JAVOBLAR JOYINI ALMASHTIRISH (SHUFFLE) ---
+            # Variantlarni eski indekslari bilan bog'lab ro'yxat qilamiz
+            indexed_options = list(enumerate(q['options']))
+            # Tasodifiy tartibda aralashtiramiz
+            random.shuffle(indexed_options)
+            
+            # Aralashgan matnlarni ajratib olamiz
+            shuffled_options = [opt for idx, opt in indexed_options]
+            # To'g'ri javob yangi ro'yxatning qaysi indeksiga tushib qolganini aniqlaymiz
+            correct_idx = next(i for i, (idx, opt) in enumerate(indexed_options) if idx == q['correct_idx'])
+            # 👆 -----------------------------------------------
+
             try:
                 msg = await bot.send_poll(
-                    chat_id=chat_id, question=q['question'], options=q['options'],
-                    type='quiz', correct_option_id=q['correct_idx'], is_anonymous=False, open_period=30
+                    chat_id=chat_id, 
+                    question=q['question'], 
+                    options=shuffled_options,  # Aralashgan javoblar ro'yxati
+                    type='quiz', 
+                    correct_option_id=correct_idx,  # Yangilangan to'g'ri javob indeksi
+                    is_anonymous=False, 
+                    open_period=30
                 )
                 await db.execute("INSERT OR REPLACE INTO active_polls (poll_id, correct_option_id, chat_id) VALUES (?, ?, ?)", 
-                                 (msg.poll.id, q['correct_idx'], chat_id))
+                                 (msg.poll.id, correct_idx, chat_id))
                 await db.commit()
             except Exception as e:
                 logging.error(f"Poll yuborishda xatolik: {e}")
@@ -340,14 +356,14 @@ async def show_leaderboard(message: types.Message):
         async with db.execute("SELECT full_name, score FROM scores WHERE chat_id = ? ORDER BY score DESC LIMIT 15", (chat_id,)) as cursor:
             users = await cursor.fetchall()
     if not users:
-        await message.answer("📭 Ushbu guruhda hali reyting shakllanmagan.")
+        await message.answer("📭 Guruhda hali reyting shakllanmagan.")
         return
     text = "<b>🏆 Umumiy Reyting (Top 15):</b>\n\n"
     for i, (name, score) in enumerate(users, 1):
         text += f"{i}. {name} — {score} ball\n"
     await message.answer(text)
 
-# --- 5. JAVOBLARNY TEKSHIRISH ---
+# --- 5. JAVOBLARNI TEKSHIRISH ---
 @dp.poll_answer()
 async def handle_poll_answer(poll_answer: types.PollAnswer):
     poll_id = poll_answer.poll_id
