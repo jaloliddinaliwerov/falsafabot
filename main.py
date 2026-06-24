@@ -1,6 +1,6 @@
 import os
 import re
-import random  # Tasodifiy aralashtirish uchun kutubxona
+import random
 import asyncio
 import logging
 import aiosqlite
@@ -22,21 +22,46 @@ session_scores = {}
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
-# --- 1. AQLLI PARSER (HAR XIL RAQAMLAR VA '#' BELGISI BILAN ISHLASH) ---
+# --- 1. YANGILANGAN VA TOʻGʻRILANGAN PARSER TIZIMI ---
 def process_raw_text(content: str) -> dict:
+    """
+    Matnni aniq format bo'yicha tahlil qiladi:
+    ++++ dan keyingi qator -> Savol matni
+    ==== dan keyingi qator -> Variant matni
+    Agar variant matni # bilan boshlansa -> Bu to'g'ri javob
+    # Fan_Nomi -> Fan nomi (faqat variant kutish holatida bo'lmaganda)
+    """
     subjects = {}
-    current_subject = "Falsafa"  # Boshida fani yozilmagan bo'lsa standart nom
+    current_subject = "Falsafa"  # Standart fan nomi
     questions = []
     current_q = None
+    
+    expecting_question_text = False
+    expecting_option_text = False
     
     lines = content.split('\n')
     for line in lines:
         line = line.strip()
         if not line:
+            continue  # Bo'sh qatorlarni tashlab ketamiz
+            
+        # 1. Savol boshlanishi signali (++++)
+        if line.startswith('++++'):
+            if current_q and len(current_q['options']) >= 2:
+                questions.append(current_q)
+            current_q = {'question': '', 'options': [], 'correct_idx': 0}
+            expecting_question_text = True
+            expecting_option_text = False
             continue
             
-        # 1. Yangi fan aniqlash (# Fan nomi)
-        if line.startswith('/'):
+        # 2. Variant boshlanishi signali (====)
+        if line.startswith('===='):
+            expecting_question_text = False
+            expecting_option_text = True
+            continue
+            
+        # 3. Fan nomini aniqlash (# Fan Nomi) - faqat variant matni kutilmayotgan holatda
+        if line.startswith('#') and not expecting_option_text:
             if current_q and len(current_q['options']) >= 2:
                 questions.append(current_q)
                 current_q = None
@@ -50,53 +75,31 @@ def process_raw_text(content: str) -> dict:
             current_subject = re.sub(r'[\\/*?:"<>|]', "", current_subject)
             if not current_subject:
                 current_subject = "Umumiy"
+            
+            expecting_question_text = False
+            expecting_option_text = False
             continue
             
-        # 2. Tizim formati (? Savol)
-        if line.startswith('+'):
-            if current_q and len(current_q['options']) >= 2:
-                questions.append(current_q)
-            current_q = {'question': line[1:].strip()[:300], 'options': [], 'correct_idx': 0}
+        # 4. Savol matnini o'qib olish
+        if expecting_question_text and current_q:
+            current_q['question'] = line[:300]
+            expecting_question_text = False
             continue
             
-        # 3. To'g'ri javob belgisi (== Javob)
-        if line.startswith('#') and current_q:
-            current_q['correct_idx'] = len(current_q['options'])
-            current_q['options'].append(line[2:].strip()[:100])
-            continue
-            
-        # 4. Oddiy javob belgisi (= Javob)
-        if line.startswith('====') and current_q:
-            current_q['options'].append(line[1:].strip()[:100])
-            continue
-            
-        # 5. Standart variantlar formati (A, B, C, D) va to'g'ri javobni (* yoki +) aniqlash
-        option_match = re.match(r'^([\*\+==]*)\s*([A-Da-d])[\.\)\s]+(.*)', line)
-        if option_match and current_q:
-            is_correct = bool(option_match.group(1)) or '*' in line[:3] or '+' in line[:3]
-            option_text = option_match.group(3).strip()[:100]
-            if is_correct:
+        # 5. Variant matnini o'qib olish (To'g'ri va noto'g'riligini tekshirish)
+        if expecting_option_text and current_q:
+            if line.startswith('#'):
+                # Agar javob # bilan boshlansa, uni to'g'ri javob indeksi qilib belgilaymiz
                 current_q['correct_idx'] = len(current_q['options'])
-            current_q['options'].append(option_text)
-            continue
-            
-        # 6. Har xil va tartibsiz kelgan savol raqamlari (Masalan: 1., 354., 410), 12) va hokazo)
-        question_match = re.match(r'^\d+[\.\)\s]+(.*)', line)
-        if question_match:
-            if current_q and len(current_q['options']) >= 2:
-                questions.append(current_q)
-            current_q = {'question': question_match.group(1).strip()[:300], 'options': [], 'correct_idx': 0}
-            continue
-            
-        # 7. Shunchaki matn davomi bo'lsa
-        if len(line) > 5 and not any(w in line.upper() for w in ["VAZIRLIGI", "INSTITUTI", "KAFEDRASI", "TESTLAR"]):
-            if current_q and len(current_q['options']) == 0:
-                current_q['question'] = (current_q['question'] + " " + line)[:300]
+                option_text = line[1:].strip()  # # belgisini olib tashlaymiz (toza matn qoladi)
             else:
-                if current_q and len(current_q['options']) >= 2:
-                    questions.append(current_q)
-                current_q = {'question': line[:300], 'options': [], 'correct_idx': 0}
+                option_text = line
                 
+            current_q['options'].append(option_text[:100])
+            expecting_option_text = False
+            continue
+
+    # Oxirgi savolni ham saqlab qo'yamiz
     if current_q and len(current_q['options']) >= 2:
         questions.append(current_q)
         
@@ -107,7 +110,7 @@ def process_raw_text(content: str) -> dict:
         
     return subjects
 
-# --- 2. MA'LUMOTLAR BAZASI VA FANLARNI SINKRONIZATSIYA QILISH ---
+# --- 2. MA'LUMOTLAR BAZASI VA FAILLAR BILAN ISHLASH ---
 async def init_db():
     os.makedirs(SUBJECTS_DIR, exist_ok=True)
     
@@ -121,12 +124,15 @@ async def init_db():
                 filepath = os.path.join(SUBJECTS_DIR, f"{sub_name}.txt")
                 with open(filepath, "w", encoding="utf-8") as sf:
                     for q in qs:
-                        sf.write(f"? {q['question']}\n")
+                        sf.write("++++\n")
+                        sf.write(f"{q['question']}\n\n")
                         for idx, opt in enumerate(q['options']):
-                            prefix = "==" if idx == q['correct_idx'] else "="
-                            sf.write(f"{prefix} {opt}\n")
-                        sf.write("\n")
-            logging.info("✅ questions.txt muvaffaqiyatli fanlarga ajratildi!")
+                            sf.write("====\n")
+                            if idx == q['correct_idx']:
+                                sf.write(f"# {opt}\n\n")
+                            else:
+                                sf.write(f"{opt}\n\n")
+            logging.info("✅ questions.txt aniq formatda muvaffaqiyatli saqlandi!")
         except Exception as e:
             logging.error(f"❌ questions.txt o'qishda xatolik: {e}")
 
@@ -163,25 +169,14 @@ def parse_subject_questions(subject_name):
     filepath = os.path.join(SUBJECTS_DIR, f"{subject_name}.txt")
     if not os.path.exists(filepath):
         return []
-    
-    questions = []
-    current_q = None
     with open(filepath, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line: continue
-            if line.startswith('?'):
-                if current_q: questions.append(current_q)
-                current_q = {'question': line[1:].strip(), 'options': [], 'correct_idx': 0}
-            elif line.startswith('=='):
-                if current_q:
-                    current_q['correct_idx'] = len(current_q['options'])
-                    current_q['options'].append(line[2:].strip())
-            elif line.startswith('='):
-                if current_q:
-                    current_q['options'].append(line[1:].strip())
-    if current_q: questions.append(current_q)
-    return questions
+        content = f.read()
+    
+    parsed = process_raw_text(content)
+    all_qs = []
+    for qs in parsed.values():
+        all_qs.extend(qs)
+    return all_qs
 
 def chunk_questions(questions, size=30):
     return [questions[i:i + size] for i in range(0, len(questions), size)]
@@ -189,7 +184,7 @@ def chunk_questions(questions, size=30):
 # --- 3. BUYRUQLAR VA MENYU (HANDLERS) ---
 @dp.message(CommandStart())
 async def start_cmd(message: types.Message):
-    await message.answer("👋 Assalomu alaykum!\n\nJavoblari har safar aralashib chiqadigan aqlli test botiga xush kelibsiz.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
+    await message.answer("👋 Assalomu alaykum!\n\nTo'g'rilangan chiziqli formatdagi test botiga xush kelibsiz.\n👉 Testni boshlash uchun /test buyrug'ini bosing.")
 
 @dp.message(Command("help"))
 async def help_cmd(message: types.Message):
@@ -205,7 +200,7 @@ async def help_cmd(message: types.Message):
 async def send_subjects_menu(message: types.Message):
     subjects = get_all_subjects()
     if not subjects:
-        await message.answer("⚠️ Tizimda hali biron bir fan topilmadi!")
+        await message.answer("⚠️ Tizimda hali biron bir fan topilmadi! questions.txt faylini tekshiring.")
         return
     
     builder = InlineKeyboardBuilder()
@@ -247,7 +242,7 @@ async def back_to_subs(call: types.CallbackQuery):
     builder.adjust(2)
     await call.message.edit_text("🔍 <b>Qaysi fandan test topshirmoqchisiz?</b>", reply_markup=builder.as_markup())
 
-# --- 4. TEST JARAYONI VA SAVOLLARNI JOYLARINI ALMASHTIRIB YUBORISH ---
+# --- 4. TEST JARAYONI VA RANDOM SHUFFLE ---
 @dp.callback_query(F.data.startswith("run_"))
 async def handle_run_test(call: types.CallbackQuery):
     if active_tests.get(call.message.chat.id):
@@ -266,7 +261,7 @@ async def handle_run_test(call: types.CallbackQuery):
         return
         
     chunk = chunks[chunk_index]
-    await call.message.edit_text(f"🚀 <b>{subject_name.replace('_', ' ')}: {chunk_index + 1}-bo'lim boshlandi!</b>\nSavollar soni: {len(chunk)} ta.\n💡 <i>Eslatma: Savol javoblari har bir guruh uchun tasodifiy aralashtirildi!</i>")
+    await call.message.edit_text(f"🚀 <b>{subject_name.replace('_', ' ')}: {chunk_index + 1}-bo'lim boshlandi!</b>\nSavollar soni: {len(chunk)} ta.\n💡 <i>Javob variantlari o'rni tasodifiy almashtirildi!</i>")
     
     asyncio.create_task(send_test_chunk(call.message.chat.id, chunk, call.message.chat.type))
 
@@ -281,27 +276,17 @@ async def send_test_chunk(chat_id: int, chunk: list, chat_type: str = "group"):
                 return
             if len(q['options']) < 2: continue
             
-            # 👇 --- JAVOBLAR JOYINI ALMASHTIRISH (SHUFFLE) ---
-            # Variantlarni eski indekslari bilan bog'lab ro'yxat qilamiz
+            # Variantlarni joyini almashtirib yuborish (Shuffle)
             indexed_options = list(enumerate(q['options']))
-            # Tasodifiy tartibda aralashtiramiz
             random.shuffle(indexed_options)
             
-            # Aralashgan matnlarni ajratib olamiz
             shuffled_options = [opt for idx, opt in indexed_options]
-            # To'g'ri javob yangi ro'yxatning qaysi indeksiga tushib qolganini aniqlaymiz
             correct_idx = next(i for i, (idx, opt) in enumerate(indexed_options) if idx == q['correct_idx'])
-            # 👆 -----------------------------------------------
 
             try:
                 msg = await bot.send_poll(
-                    chat_id=chat_id, 
-                    question=q['question'], 
-                    options=shuffled_options,  # Aralashgan javoblar ro'yxati
-                    type='quiz', 
-                    correct_option_id=correct_idx,  # Yangilangan to'g'ri javob indeksi
-                    is_anonymous=False, 
-                    open_period=30
+                    chat_id=chat_id, question=q['question'], options=shuffled_options,
+                    type='quiz', correct_option_id=correct_idx, is_anonymous=False, open_period=30
                 )
                 await db.execute("INSERT OR REPLACE INTO active_polls (poll_id, correct_option_id, chat_id) VALUES (?, ?, ?)", 
                                  (msg.poll.id, correct_idx, chat_id))
