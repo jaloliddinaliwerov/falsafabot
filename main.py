@@ -36,7 +36,7 @@ def process_raw_text(content: str) -> dict:
             continue
             
         # 1. Yangi fan aniqlash (# Fan nomi)
-        if line.startswith('#'):
+        if line.startswith('/'):
             if current_q and len(current_q['options']) >= 2:
                 questions.append(current_q)
                 current_q = None
@@ -53,7 +53,7 @@ def process_raw_text(content: str) -> dict:
             continue
             
         # 2. Tizim formati (? Savol)
-        if line.startswith('?'):
+        if line.startswith('+'):
             if current_q and len(current_q['options']) >= 2:
                 questions.append(current_q)
             current_q = {'question': line[1:].strip()[:300], 'options': [], 'correct_idx': 0}
@@ -66,7 +66,7 @@ def process_raw_text(content: str) -> dict:
             continue
             
         # 4. Oddiy javob belgisi (= Javob)
-        if line.startswith('=') and current_q:
+        if line.startswith('====') and current_q:
             current_q['options'].append(line[1:].strip()[:100])
             continue
             
