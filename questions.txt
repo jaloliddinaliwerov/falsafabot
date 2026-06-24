@@ -1,744 +1,6104 @@
+++++
+“Yur, tog'larga ketamiz” asaridagi Saroytosh qishlog'i jami boʻlib necha xoʻjalikdan iborat?
+====
+Oʻn
+====
+#toʻqqiz
+====
+sakkiz
+====
+yetti
+++++
+ “Yur, tog'larga ketamiz” asarida bola kuchukbolani qayerdan topib oladi?
+====
+Choʻldan
+====
+#Bostirmadan
+====
+Koʻchadan
+====
+Hovlidan 
+++++
+“Yur, tog'larga ketamiz” asarida Saroytosh qishlog'i oʻquvchilarining qirraburun, novchadan kelgan, siyrak qoshli oʻqituvchisi kim?
+====
+Nurali 
+====
+Tojiboy aka 
+====
+#Egamberdi aka
+====
+Qodir 
+++++
+ “Yur, tog'larga ketamiz” asarida kim bolaga “Itga mehribonlik qil, uyam senga mehr qoʻyadi!”, deya nasihat qiladi?
+====
+Shoberdi 
+====
+Tojiboy aka 
+====
+#Egamberdi aka
+====
+Qodir podachi
+++++
+“Yur, tog'larga ketamiz” asarida kuchukbolaga qanday ism qoʻyishadi?
+====
+Olapar 
+====
+Boʻri
+====
+#Qoraboy
+====
+Qorakoʻz
+++++
+“Yur, tog'larga ketamiz” asarida kim bolalarga mehribonlik qilar, qaynatilgan sutning betini olib, cho'pqaymoq qilib berar va bola borki, uni erkalatar edi?
+====
+Tojiboy akaning ayoli
+====
+#Oygul kampir
+====
+Oydin kampir
+====
+Bolaning onasi
+++++
+ “Yur, tog'larga ketamiz” asarida kim Yetimtogʻ tomondagi Mingchuqur qishlogʻida yashaydi?
+====
+Polvon 
+====
+Tojiboy aka 
+====
+#Egamberdi aka
+====
+Qodir podachi
+++++
+“Yur, tog'larga ketamiz” asarida Qoraboyni qayerga badargʻa qilishadi?
+====
+Choʻlga
+====
+Togʻga
+====
+#“Hayvonot bogʻi”ga
+====
+Sahroga 
+++++
+-  Bobo, nega egilib yurasiz? Nimani izlaysiz? 
+- Yoshligimni bolam... Ushbu jumlalar qaysi asarga epigraf qilib olingan?
+====
+#“Yur, tog'larga ketamiz”
+====
+“Oʻn sakkizga kirmagan kim bor”
+====
+“Hind sayyohi”
+====
+“Maymun yetaklagan odam”
+++++
+“Turkiy Guliston yoxud axloq” asarida riyozatga qanday ta’rif beriladi? 
+====
+#savob ishlarni qilub, gunoh ishlardan saqlanmoq
+====
+botir va yurakli bo’lmak
+====
+ustiga yuklangan ibodat va xizmatlarni harakat birla ado qilmak
+====
+boshimizga kelgan balo va qazolarga chidamli bo’lmak
+++++
+“Turkiy Guliston yoxud axloq” asarida kim «Dunyoda eng haqiqiy, to’g’ri o’lchov nafs o’lchovidurki, bu mezonda zarra nuqson yo’qdur», degan?
+====
+Ibn Sino
+====
+#Iskandar
+====
+Aflotun 
+====
+Rumiy 
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilishicha, nafsimizni gunoh va buzuq ishlardan saqlamoq nima deyiladi?
+====
+#Iffat
+====
+Hayo
+====
+Sabr
+====
+Riyozat
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilgan «Man dushmanim bo’lg’on bir odamga adovat qilmayman. Zeroki, maning adovatim dushmanimning xusumatini ziyoda qiladur. Man adovatga qarshi do’stlik ila muqobala qilub xusumatni muvaddatga aylandurub, dushman kishilarni o’zumga el qilaman», adovat haqidagi mazkur fikrlar kimga tegishli?
+====
+Rumiy
+====
+Ibn Sino
+====
+Aflotun
+====
+#Suqrot hakim
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilishicha, Rasuli akram nabiyyi muhtaram sallollohu alayhi vasallam afandimiz qaysi illatdan saqlanishga buyurib, u zinodan ham yomonroq ekanini ta’kidlaydi?
+====
+#Gʻiybat
+====
+Gʻazab
+====
+Munofiqlik
+====
+Oʻgʻirlik
+++++
+“Turkiy Guliston yoxud axloq” asarining qaysi qismida Payg’ambarimizning: «Al kazzobu lo ummati» – yolg’onchi mening ummatimdan emasdur, – deganlari berilgan?
+====
+Adolat
+====
+Hasad
+====
+Zulm
+====
+#Kizb
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilgan yaxshi xulqlar berilgan qatorni belgilang.
+====
+#Fatonat, diyonat, g’ayrat, hayo
+====
+Sadoqat, muhabbat, jaholat, afv
+====
+Viqor, xavf, g’azab, adolat
+====
+Sabr, ilm, iffat, rahovat
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilgan Suqrot hakimning gʻazab haqida bildirgan fikrlarini toping.
+====
+ “G’azab va shiddat vujud iqlimining dahshatli bir ofatidur”
+====
+ “Qilich va nayza ila hosil bo’lmagan ko’p ishlar yumshoqlik va muloyimlik ila hosil bo’lur”
+====
+ “G’azab g’azab qilinuvchidan ko’proq g’azab qiluvchig’a zarar qilur” 
+====
+#”G’azabning avvali junun, oxiri nadomatdur”
+++++
+“Turkiy Guliston yoxud axloq” asarida dangasa va yalqovlikni nima derlar?
+====
+#Atolat
+====
+Fatonat
+====
+Xasosat
+====
+Raxovat
+++++
+“Turkiy Guliston yoxud axloq” asarida keltirilishicha, namimat deb nimaga aytiladi?
+====
+#So’z yurutmak, chaqimchilik
+====
+Tanparvarlik, g’ayratsizlik
+====
+Xudbin, mutakkabir, manmanlik
+====
+Birovga xusumat va dushmanlik qilmak
+++++
+Aytsam — o‘ldirurlar, 
+Aytmasam — o‘lam... („Oshiq G‘arib va Shahsaiam” dostonidan) Ushbu parcha qaysi asarga epigraf qilib olingan?
+====
+Anoyining jaydari olmasi
+====
+#Atoiyning tugʻilgan yili
+====
+Shovqin
+====
+Bayramdan boshqa kunlar
+++++
+“Atoiyning tugʻilgan yili” asarida qaysi obraz umrni huda-behuda qisqartirmaslik lozim, degan aqidaga amal qiladi?
+====
+Madhiddin
+====
+Rahmatilla
+====
+Meliboyev
+====
+#Maxsumov
+++++
+“Atoiyning tugʻilgan yili” asarida qaysi qahramon qayerda, kimga, qaysi sharoitda bo‘lmasin—hamisha qo‘lini ko‘ksiga qo‘ygancha, «Rahmat, rahmat», deb yo iljayib, yo ishshayib, yo tirjayib turaveradi?
+====
+#Madhiddin
+====
+Rahmatilla
+====
+Javliboy
+====
+Shodibek
+++++
+“Atoiyning tugʻilgan yili” asarida Asqarga «Andnshani tupurib tashlab, rahmatli bobongnzdek nuqul qalampir chaynab yurasiz-a, jiyan», deya istehzoli iljaygan qahramonni belgilang.
+====
+Ammasi
+====
+#Togʻasi
+====
+Javliboy
+====
+Amakisi
+++++
+“Atoiyning tugʻilgan yili” asarida boshqalardan bir pog‘ona o‘tkazibroq kiyinadigan, doim yaltirab yuradigan, qo‘lidan gul tushmaydigan, har ishga hammadan oldin yetishga oshiqayotgandek taassurot uyg‘otadigan obraz?
+====
+#Akbarova
+====
+Matluba
+====
+Sabohat
+====
+Raxshona
+++++
+“Atoiyning tugʻilgan yili” asarida Asqarning yangasi qayerda ishlardi?
+====
+Kasalxonada
+====
+Maktabda
+====
+Kutubxonada
+====
+#Muzeyda
+++++
+“Atoiyning tugʻilgan yili” asarida Asqar qaysi fandan qolib ketgani uchun ta’tilni kutubxonada o’tkazadi?
+====
+#Adabiyot tarixi
+====
+Fransuz tili
+====
+Psixologiya
+====
+Tarix 
+++++
+“Atoiyning tugʻilgan yili” asarida kim Asqarga «Andishasizligingni tashla, jon bolam, bu odat hech kimga yaxshilik keltirmagan. Shartakining kosasi oqarmaydi. Domlalaringga qattiq gapirma», deya oʻgit berardi?
+====
+Otasi
+====
+#Onasi
+====
+Togʻasi
+====
+Xolasi
+++++
+“Atoiyning tugʻilgan yili” asarida Asqar kimga “Darslikda bor gaplarni koʻchirib oʻtirishga odatlanmaganman”, deya sarkashlik qilgan?
+====
+#Ziyoxon Ahmadxonovga
+====
+Dilora Joʻrayevnaga
+====
+Diyor Fozilovichga
+====
+Rahmatillaga
+++++
+“Atoiyning tugʻilgan yili” asarida qaysi qahramonga “dars payti hamma uning ogʻzidan chiqayotgan soʻzlarga emas, husniga mahliyo boʻlib oʻtiradigan, doim toʻqson yashar kampirdek qovogʻini osiltirib yuradigan”, deya ta’rif berilgan?
+====
+Adabiyot muallimi - Ziyoxon Ahmadxonovga
+====
+#Fransuz tili muallimi - Dilora Joʻrayevnaga
+====
+Falsafa fani muallimi - Diyor Fozilovichga
+====
+Kursboshi – Rahmatillaga
+++++
+“Atoiyning tugʻilgan yili” asarida kim Asqarga podsho va dono vazir haqidagi mashhur rivoyatni aytib bergan?
+====
+Dilora Joʻrayevna
+====
+Ahmadxonov 
+====
+Akasi
+====
+#Ubaydullayev
+++++
+“Atoiyning tugʻilgan yili” asarida Asqar Ubaydullayev bilan qachon yaqin bo’lib qolgan edi?
+====
+Kutubxonada uchrashib qolganda
+====
+Darsda birga oʻtirganda
+====
+#Paxta terimiga chiqqanda
+====
+Amaliyotga chiqqanda
+++++
+ “Anoyining jaydari olmasi” asarida Ramazon nimani “uch tiyinlik” deb ataydi?
+====
+Taksini
+====
+#Tramvayni
+====
+Restoranni
+====
+Suratxonani
+++++
+“Anoyining jaydari olmasi” asarida …… ayblangan Haydarov Ramazon bir yilga ozodlikdan mahrum etildi. Nuqtalar o’rnidagi so’zni belgilang.
+====
+O’g’irlikda
+====
+Tovlamachilikda
+====
+#Chayqovchilikda
+====
+Pichoqbozlikda
+++++
+“Anoyining jaydari olmasi” asarida qaysi qahramon “kalla tarvuzdek, qorin — tarvuzcha, barra -  korsonning o‘zi, sergo‘shtlikdan ko‘zlar ko‘rinmaydi, tilla tishlar doim tomoshaga irshayib turadi”, deya tariflangan?
+====
+Esonberdiev 
+====
+Ramazon
+====
+Ashur kal
+====
+#Tosh
+++++
+ “Anoyining jaydari olmasi” asari qahramoni Ramazon kimga uylanadi?
+====
+Malikaga
+====
+#Tog’asining qiziga
+====
+Amakisining qiziga
+====
+Ammasining qiziga
+++++
+ “Anoyining jaydari olmasi” asarida kimni Chexovning “Yovuz niyatli kishi” hikoyasidagi Denisga o’xshatishadi? 
+====
+Esonberdievni 
+====
+#Ramazonni
+====
+Ashur kalni
+====
+Shodi garang
+++++
+“Anoyining jaydari olmasi” asarida Ramazonning qamalganiga besh oy bo‘ldi. Bu besh oy ichida jo’rasi undan nechta xat oldi? 
+====
+#3 ta
+====
+4 ta 
+====
+5 ta
+====
+6 ta
+++++
+“Anoyining jaydari olmasi” asarida “Haydarov, bugun men sizga “a’lo” baho qo‘yaman, shuncha yil maktabda o‘qib armon bilan ketmang-da”, deya Ramazonga chindan ham “besh” qo‘ygan muallimni belgilang. 
+====
+Adabiyot muallimi
+====
+#Matematika muallimi
+====
+Fizika muallimi
+====
+Tarix muallimi
+++++
+“Anoyining jaydari olmasi” asarida “Tosh, kallakesar Tosh qo‘rqdi! Umrida chumchuqqa ozor bermagan nimjongina ……dan qo‘rqib qochdi!” Nuqtalar o’rnini kerakli ism bilan to’ldiring.
+====
+#Ramazon
+====
+Ashur kal
+====
+Shodi garang
+====
+Yozuvchi 
+++++
+“Anoyining jaydari olmasi” asarida Ramazon har yili shaharga – jo’rasinikiga nima maqsadda keladi?
+====
+Olma sotish uchun
+====
+#O‘qishga kirmoqchi bo‘lib
+====
+Onasidan xabar olgani
+====
+Do’stiga yordam berish uchun
+++++
+“Anoyining jaydari olmasi” asarida keltirilishicha, “Undan tirnoq — farzand qolmadi, mol-dunyo qolmadi — «Chantrimore» qoldi, «Kalamakatore» qoldi”. Yuqorida qaysi qahramon nazarda tutilgan?
+====
+Ramazon
+====
+Ashur kal
+====
+#Shodi garang
+====
+Esonberdiyev
+++++
+Sirojiddin Sayyidning “Axborot qiroli ” she’ri kimga bag’ishlangan?
+====
+#Jurnalist Abdulla Po’latovga
+====
+Shukur Xolmirzayevga
+====
+Bolalarga
+====
+Farhod A’zamga
+++++
+Sirojiddin Sayyid “Da’vat” she’rida qaysi ijodkorlarni tilga oladi?
+====
+Qodiriy, Cho’lpon
+====
+#Usmon Nosir, Qodiriy
+====
+Usmon Nosir, Cho’lpon
+====
+A.Oripov, E.Vohidov
+++++
+Sirojiddin Sayyid “Niyat” she’rida oshiqlar to’yi kuni sovgʻaga nimani keltirmoqchi bo’ladi?
+====
+Atirgullar dastasini
+====
+Ota-onasini
+====
+#Goʻzal sharsharani
+====
+Do’stlarini
+++++
+Sirojiddin Sayyid “Nuqtai nazar” she’rida she’riyatni nimaga o’xshatadi?
+====
+Rang-barang gullarga
+====
+Chechakka 
+====
+#Ruh va ko’ngillarning kir sovuniga
+====
+Ruh va ko’ngillarning iforiga
+++++
+Sirojiddin Sayyidning Alisher Navoiy gʻazaliga bogʻlagan muxammasini belgilang.
+====
+ “Bahor ayyomidur…”
+====
+#“Zulfing ochilib…”
+====
+ “Loladek yuz birla…”
+====
+ “Ulug’ bobong Navoiyning…”
+++++
+Sirojiddin Sayyid “Ustozlar yodi” she’rida kimlarni yodga oladi?
+====
+Abdulla aka, Ozod domla,
+====
+Erkin aka, Said Ahmad.
+====
+Qodiriy domla, Shuhrat aka, Oʻtkir aka.
+====
+#To’ra Sulaymon, Shukur aka, Ozod domla.
+++++
+Sirojiddin Sayyid “Aql” she’rida yer ayollari nimani yesa aqllari koʻpayishini ta’kidlaydi?
+====
+#Bulbulning jigarini
+====
+Erining miyyasini
+====
+Qo’y go’shtini
+====
+Tovuq tuxumini
+++++
+Sirojiddin Sayyid “Alloma bilan suhbat” she’rida: kim bilan suhbat qursang, asta sekin Najmiddin Kubroga ham yetasan, deya ta’kidlaydi?
+====
+Abdulla Oripov
+====
+#Najmiddin Komil
+====
+Yassaviy
+====
+Navoiy
+++++
+Sirojiddin Sayyid “Umr” she’rida umrni avval nimaga o’xshatadi?
+====
+Kamon, yoyga
+====
+Tillosi bor boyga
+====
+Oyga
+====
+#Shoʻx, oʻynoqi toyga
+++++
+Bir qushga uch yuz yil xoʻp umr berding,
+Onamning koʻziga tola nur bergin, ushbu parcha kimning qaysi she’ridan olingan?
+====
+E.Vohidov “Shoirlik”
+====
+S.Sayyid “Umr”
+====
+A.Oripov “Tilak”
+====
+#S.Sayyid “Tavallo”
+++++
+E.Vohidovning “Ona tilim o‘lmaydi” she’rida qaysi asarlar tilga olingan?
+====
+#“Faust” va “Xamsa”
+====
+ “Faust” va “Hikmatlar”
+====
+ “Xamsa” va “Muxtasar”
+====
+ “Devoni lug’otut turk” va “Telba”
+++++
+Doʻst bilan obod uying, 
+Gar boʻlsa u vayrona ham, 
+Do’st qadam qoʻymas esa, 
+Vayronadir koshona ham. Ushbu she’riy parcha qaysi shoirga tegishli?
+====
+A.Oripov
+====
+#E.Vohidov
+====
+Sh.Rahmon
+====
+M.Toir
+++++
+Navoiyning “El netib topgʻay menikim…” gʻazaliga muxammas bogʻlagan shoirni belgilang.
+====
+S.Sayyid
+====
+Sh.Rahmon
+====
+M.Toir
+====
+#E.Vohidov
+++++
+“Sizga Rus tojini kiydirgan qismat,
+Bizga Hind taxtini koʻrmish munosib…” ushbu she’riy parcha kimning qaysi she’ridan olingan?
+====
+S.Sayyid “”
+====
+A.Oripov “Bobur”
+====
+E.Vohidov “Kel, ey Bobur, Vatanga” 
+====
+#E.Vohidov “Kelajakka maktub”
+++++
+E.Vohidovning “Hozirgi yoshlar” she’rida oqsaqol tunlari jam bo’lib qaysi kitobni oʻqishganini xotirlaydi?
+====
+ “Xamsa”
+====
+ “Huvaydo”
+====
+ “Oʻtgan kunlar”
+====
+#“Chordarvesh”
+++++
+Oʻzbek Navoiyni oʻqimay qoʻysa, 
+Aldangani, alla boʻlgani shudir.
+…… aziz bo’lib, bilgich xor bo’lsa,
+Paytavaning salla bo’lgani shudir. Nuqtalar oʻrnida tushirib qoldirilgan soʻzni toping.
+====
+Nodon
+====
+Yurgʻich
+====
+#Yulgʻich
+====
+Olgʻich 
+++++
+Sogʻinganda izlab bir nishon,
+Qabring tomon men olaman yoʻl.
+Keltirarding menga bir zamon,
+Endi har chogʻ men eltaman gul. Zulfiyaning mazkur misralari kimning qaysi she’riga epigraf qilib olingan?
+====
+A.Oripov “Baxtni kutmasman”
+====
+Sh.Rahmon “Baxt”
+====
+M.Toir “Sadoqat”
+====
+#E.Vohidov “Vafo”
+++++
+Ovora boʻlmang, ey, hassos shoirlar,
+Ayol tasviriga ojiz erur she’r.
+Chunki yor zulfining bir tolasiga
+Tashbih topa olmay oʻtgan Alisher. Ushbu she’riy parcha kimning qalamiga mansub?
+====
+#E.Vohidov 
+====
+A.Oripov 
+====
+H.Olimjon
+====
+M.Yusuf
+++++
+Tarixing bitmakka, xalqim, 
+Mingta ………..  kerak.
+Chunki bir bor chekkan ohing
+Mingta doston, oʻzbegim. Nuqtalar oʻrnini to’ldiring.
+====
+Qodiriy
+====
+#Firdavsiy
+====
+Fuzuliy
+====
+Ali Yazdiy
+++++
+O’n sakkizga kirmagan kim bor,
+Bogʻingdan gul termagan kim bor… misralari muallifini belgilang.
+====
+M.Yusuf
+====
+A.Oripov
+====
+#E.Vohidov
+====
+Zulfiya
+++++
+“Men nechu sevaman O’zbekistonni?” she’rida qaysi shoir tilga olinadi?
+====
+Hamza
+====
+Cho’lpon
+====
+#Furqat
+====
+Fitrat
+++++
+Bеmaqsad uchib yurgan burgut haqidagi she’r muallifini toping.
+====
+M.Yusuf “Burgut”
+====
+#A.Oripov “Burgut”
+====
+E.Vohidov “Burgut”
+====
+Zulfiya “Maqsad”
+++++
+Sassiq koʻlmakdagi tilla baliqcha haqidagi she’r muallifini toping.
+====
+M.Yusuf
+====
+#A.Oripov
+====
+E.Vohidov
+====
+S.Sayyid
+++++
+Uydan kеtganimga oʻn yil boʻlibdi, 
+Oʻn yil qishlogʻimdan yuribman uzoq. 
+Mеn yurgan yoʻllarda oʻtlar unibdi, 
+Koʻmilib boʻlibdi mеn kеzgan soʻqmoq. Mazkur parcha kimning qaysi she’ridan olingan?
+====
+#A.Oripov “Xotirot”
+====
+E.Vohidov “Xotirot”
+====
+A.Oripov “Kuz shamollari”
+====
+E.Vohidov “Qishlogʻim”
+++++
+Qaysi she’rda ikkinchi jahon urushida eridan yosh bеva qolgan, umrini farzandiga bagʻishlagani holda sadoqat bilan yashagan ayol haqida soʻz boradi?
+====
+H.Xudoyberdiyeva “Dorilomon kunlar keladi”
+====
+A.Oripov “Koʻzlarim yo’lingda”
+====
+Oydin Hojiyeva “Oʻzbek ayoli”
+====
+#A.Oripov “Ayol”
+++++
+Qaydadir yurtini eslab ingrayotgan “nay” obrazi qaysi she’rda uchraydi?
+====
+#A.Oripov “Bahor”
+====
+Sh.Rahmon “Oʻlim birlashtirar begonalarni”
+====
+O.Matjon “Eshigingdan oʻtaman”
+====
+E.Vohidov “Qalb shunday ummonki…”
+++++
+A.Oripovning “Kuz xayollari” she’rida do’stini xayolan quchib, uni qayerda kutushini aytadi?
+====
+#Xazon davrasida
+====
+Daraxtlar soyasida
+====
+Doʻstlar davrasida
+====
+Oila davrasida
+++++
+A.Oripovning “Ona tilimga” shе’rida “bulbul” va “toʻti” obrazlari qanday ma’nolarda qoʻllangan?
+====
+ “bulbul” – oshiq,  “toʻti” – raqib
+====
+#“bulbul” – talantli ijodkor, “toʻti” – taqlidchi
+====
+ “bulbul” – oshiq,  “toʻti” – mashuqa
+====
+ “bulbul” – xushovoz xonanda,  “toʻti” – sozanda
+++++
+A.Oripovning “Pahlavon Mahmud qabri qoshida” she’rida: “Bir nomard qoshida ojiz qolganda” kimdan madad so’raganini ta’kidlaydi?
+====
+Xudodan
+====
+Doʻstidan
+====
+Yoridan
+====
+#Pahlavon Mahmuddan
+++++
+“Munojot”ni tinglab… she’ri qaysi misra bilan yakunlanadi?
+====
+Nahotki dunyoda shuncha gʻam bordir!
+====
+Sen ona emassan, jallodsan, dunyo!..
+====
+#Qanday chiday olgan ekan odamzod!
+====
+Sen beshik emassan, dorsan, tabiat!
+++++
+Mahmud Toirning “Kel, yashaylik Vatan uchun, Vatan uchun”, misrasi bilan yakunlanuvchi she’rni toping.
+====
+ “Xush tilak”
+====
+#“Ibrat”
+====
+ “Yurtim timsoli”
+====
+ “Hech kimdan kam emasmiz”
+++++
+Men tug‘ilib o‘sgan yurt, 
+Tuprog‘i tillodandir. 
+Jamoli jannat monand, 
+Ziynati ziyodandir. Misralari bilan boshlanuvchi “Men tug‘ilib o‘sgan yurt” she’ri muallifini belgilang.
+====
+#Mahmud Toir
+====
+A.Oripov
+====
+E.Vohidov
+====
+Sh.Rahmon
+++++
+Mahmud Toir “E’tirof” she’rida yot elda osmon bo‘lgandan, Vatan tuprog‘ida nima bo‘lgan yaxshi, deydi?
+====
+Qul 
+====
+#Kul
+====
+Yer 
+====
+Gul
+++++
+Mahmud Toirning qaysi she’ri “Osmon uzoq, yer qattiq” misrasi bilan boshlanadi?
+====
+ “Yer qattiq…”
+====
+#“Osmon uzoq”
+====
+ “Saboq”
+====
+ “Umid”
+++++
+Bu dunyo ham asli yoronlar, 
+Yolg‘onlaru hasratdan tolg‘on. 
+Bir so‘z aytar dardi bor jonlar, 
+Muhabbatdan boshqasi yolg‘on, misralari muallifini toping.
+====
+#Mahmud Toir
+====
+S.Sayyid
+====
+M.Yusuf
+====
+Sh.Rahmon
+++++
+Mahmud Toir “Rayhon isi keladi” she’rida kimdan rayhon isi kelishini aytadi?
+====
+Onasidan
+====
+Yoridan 
+====
+#Nabirasidan 
+====
+Qizidan
+++++
+“She’rlarimga umr soʻrayman” she’rining muallifi berilgan qatorni toping?
+====
+S.Sayyid
+====
+E.Vohidov
+====
+Sh.Rahmon
+====
+#Mahmud Toir
+++++
+Mahmud Toir “Yo‘q, siz o‘lmagansiz” she’rida qaysi ijodkorlarni tilga oladi?
+====
+Navoiy va Bobur
+====
+Qodiriy va Choʻlpon
+====
+#Erkin Vohid va Abdulla Orif
+====
+Zulfiya va Saida
+++++
+Mahmud Toir “Boshlab boradi” she’rida go‘zallikni istagan inson nimaga koʻz tashlab boradi, deydi?
+====
+#Ko‘ngilga
+====
+Gulga
+====
+Boʻstonga
+====
+Yerga 
+++++
+Mahmud Toirning qaysi she’ri  Muhammad Yusuf xotirasiga bagʻishlangan?
+====
+Barkamol avlod
+====
+Yoʻl
+====
+Orzularim
+====
+#Sensiz
+++++
+“Zarbulmasal” nechanchi yilda alohida kitob shaklida nashr etilgan?
+====
+#1951-yil
+====
+1958-yil
+====
+1960-yil
+====
+1961-yil
+++++
+Otaboy Amin, Safarboy bog‘bon, Xolboqi misgar kabi obrazlar qaysi asarda uchraydi?
+====
+“Husn va Dil”
+====
+“Rohati dil”
+====
+“Miftoh ul adl”
+====
+#“Zarbulmasal”
+++++
+Gulxaniyning «Zarbulmasal» asarida tilga olingan “Kayqubod otliq podsholikdan qolg’an eski bir shahriston” hozirgi qaysi xududga to’g’ri keladi?
+====
+#Farg’ona viloyatidagi Kubo (Quva) qishlog’i. 
+====
+Quvasoy shahri. 
+====
+Xurosondagi Kaykubod viloyati. 
+====
+O’ratepadagi qadimgi «Shahriston» xarobalari. 
+++++
+“Zarbulmasal”da Gunashbonu bilan Kulonkir nikohini qaysi timsol oʻqiydi?
+====
+Turumtoy 
+====
+Koʻrqush
+====
+#Bulbul            
+====
+Hudhud
+++++
+“Zarbulmasal”dagi “Toshbaqa bilan chayon” hikoyasi kim tomonidan aytilgan?
+====
+Turumtoy          
+====
+Koʻrqush                 
+====
+Hudhud  
+====
+#Bozonda
+++++
+“Zarbulmasal”da Kordon kimga shunday nasihat qiladi: "Agar sening xirading diydasi xira va zamiring oynasi tiyra bo‘lmasa edi, avval oʻz aybingga boqib, o‘zgalar aybini yashursang xob erdi".
+====
+Turumtoyga          
+====
+Koʻrqushga 
+====
+#Boyoʻgʻliga
+====
+Kordonga                  
+++++
+“Zarbulmasal”dagi “Maymun bilan najjor” hikoyasi kim tomonidan aytilgan?
+====
+Koʻrqush                 
+====
+Yapaloqqush
+====
+Boyoʻgʻli
+====
+#Hudhud  
+++++
+“Zarbulmasal”dagi “Tuya bilan boʻtaloq” hikoyasi kim tomonidan aytilgan?
+====
+#Koʻrqush                 
+====
+Yapaloqqush
+====
+Bulbul 
+====
+Kulonkir sulton 
+++++
+“Zarbulmasal”dagi “Qushlar koʻziga goʻl, oʻz ishiga pishiq, haromzodai tarror, har murda ustida tayyor”, deya ta’riflangan qushni toping.
+====
+Koʻrqush
+====
+#Shoʻranul 
+====
+Kordon
+====
+Turumtoy 
+++++
+“Zarbulmasal”dagi safar qilish haqidagi hikoyat nomi berilgan qatorni toping.
+====
+ “Maymun bilan najjor” 
+====
+ “Tuya bilan boʻtaloq” 
+====
+#“Bozanda va Navozanda”
+====
+ “Toshbaqa bilan chayon”
+++++
+1860-yilda «Qobusnoma» oʻzbek tiliga birinchi marta kim tomonidan tarjima qilindi?
+====
+Amiriy
+====
+Muhammad Rahmon Feruz 
+====
+#Muhammad Rizo Ogahiy
+====
+Munis Xorazmiy
+++++
+«Qobusnoma» asari necha bobdan tashkil topgan?
+====
+#44 bob
+====
+55 bob
+====
+43 bob
+====
+33 bob
+++++
+“Qobusnoma”ning nechanchi bobi ota va ona haqini bilmak zikrida?
+====
+4-bob
+====
+#5-bob
+====
+6-bob
+====
+7-bob
+++++
+“Qobusnoma”ning  yigirma yettinchi bobi nima haqida?
+====
+Omonat saqlamoq zikrida 
+====
+Ilm talabi va qozigarlik zikrida
+====
+Shoirlik rasmi zikrida 
+====
+#Farzand parvarish qilmoq zikrida
+++++
+“Qobusnoma” asarida Sulton Mas'ud oʻz quli Nushteginni doʻst tutgani haqidagi hikoyat qaysi bobda berilgan?
+====
+Afv va uqubat etmak zikrida 
+====
+Omonat saqlamoq zikrida
+====
+#Ishq va uning odatlari zikrida
+====
+Shoirlik rasmi zikrida
+++++
+“Qobusnoma” asarining “Uy va yer sotib olmoq zikrida” bobida «Toʻrt narsa ogʻir falokatdur: birinchisi - yomon qoʻshni; ikkinchisi - katta oila; uchinchisi - jizzaki xotin; to'rtinchisi - muhtojlik», deya ta’kidlagan donishmand kim?
+====
+Suqrot
+====
+#Donishmand Abuzurjmehr
+====
+Luqmoni hakim
+====
+Aflotun
+++++
+“Qobusnoma” asarida Ajam podshohining qizi Shahrbonu kuyovlikka imom Husanni tanlaganligi toʻgʻrisidagi hikoyat qaysi bobda berilgan?
+====
+#Farzand parvarish qilmoq zikrida 
+====
+Xotin olmoq zikrida
+====
+Ishq va uning odatlari zikrida
+====
+Omonat saqlamoq zikrida
+++++
+“Qobusnoma” asarining dushmandin andisha qilmoq zikrida bobida qaysi hikoyat keltirilgan?
+====
+Abu-l-Abbos Ruyoiy qoziyul quzzot haqidagi hikoyat
+====
+Diyonatli choʻpon haqidagi hikoyat
+====
+Faxruddavla haqidagi hikoyat
+====
+#Xotin podshoh Sayyida haqidagi hikoyat
+++++
+Agar molsizlikdan qashshoq boʻlsang, aqldan boy bo'lmoqqa sa'y koʻrguzgilki, mol bila boy bolg'ondan, aql bila boy bolgʻon yaxshiroqdur, nedinkim aql bila mol jam etsa bolur, ammo mol bila aql o'rganib bo'lmas. Ushbu fikrlar qaysi asardan olingan?
+====
+ “Guliston”dan
+====
+ “Boʻston” dan
+====
+#“Qobusnoma”dan
+====
+ “Mahbub ul qulub”dan
+++++
+Ogahiy “Qobusnoma” tarjimasini kimning tavsiyasi bilan amalga oshiradi?
+====
+#Feruz
+====
+Munis
+====
+Amiriy
+====
+Xorazmiy
+++++
+“Qobusnoma” asarida arabning «Biz bermoqni o‘rgandik, olmoqni o‘rganolmadik» maqolidagi singari qaysi toifa beradi-yu, birovdan olmaydi?
+====
+Dehqon
+====
+Hunarmand
+====
+Donishmand
+====
+#Olim
+++++
+“Nur borki soya bor” asarda eng bebaho xazina deya tilga olingan narsa nima?
+halovat 
+#sogʻlik 
+bilim 
+toʻgʻrilik
+++++
+“Nur borki, soya bor” asarida Sherzod nechanchi palatada turar edi?
+5
+6
+#7
+8
+++++
+“Nur borki, soya bor” asarida “Inson o’tkinchi ikir-chikirlar uchun jon kuydiradi-yu, eng bebaho xazinasidan – salomatligidan judo bo’layotganini o’ylab o’tirmaydi”, degan fikrlar kimning xayolidan tez-tez o’tar edi?
+====
+#Sherzodning  
+====
+Doktor opaning 
+====
+Professorning  
+====
+Shoiraning
+++++
+“Nur borki, soya bor” asarida paxta gulli choynak-piyola, yog’och qoshiq, bir banka asal, tish cho’tka va yana mayda-chuydalar. Bular kimga tegishli edi? 
+====
+#Sayfi Soqiyevichga  
+====
+Shoiraga 
+====
+Sherzodga 
+====
+Doktor opaga
+++++
+“Nur borki, soya bor” asarida kasalxonaning ovqatini ovqat o’rnida ko’rmaydigan qahramon? 
+====
+Sherzod  
+====
+Abduvohidning onasi  
+====
+Yoʻlakdagi chol  
+====
+#Sayfi Soqiyevich
+++++
+“Nur borki, soya bor” asarida professor Sherzod Samandarovning qaysi hikoyasini o’qiganini aytadi? 
+====
+#Operatsiya”  
+====
+ “Meditsina”  
+====
+ “Kasalliklarning kelib-chiqishi”  
+====
+ “Sog’lom bo’lish sirlari”
+++++
+“Nur borki, soya bor” asarida kim Sherzodni ayiqqa o’xshatadi? 
+====
+Shoira  
+====
+Farida 
+====
+#Abduvohid 
+====
+Abdulla
+++++
+“Nur borki, soya bor” asarida “Yomon tushdan xira narsa yo’q”, fikri qaysi qahramon xayolidan o’tadi? 
+====
+Professor 
+====
+#Sherzod 
+====
+Shoira D
+====
+Sayfi Soqiyevich 
+++++
+“Nur borki, soya bor” asarida “Ilm - ninada quduq qazish bilan teng" maqoli kimning holati tasvirida uchraydi? 
+====
+Sherzod 
+====
+Zuhra 
+====
+#Zuhraning akasi 
+====
+Sirojiddin
+++++
+“Diyonat” romanida mardikorlikdan bolshevik boʻlib qaytib, qishloqda quloqlarning dodini bergan qahramon? 
+====
+#Normurod             
+====
+Boʻriboyev              
+====
+Jabbor
+====
+Abror
+++++
+“Diyonat” romanida kaltagina xavorang koʻylak kiygan, nozikkina, goʻyo "pir" etib qafasdan uchib chiqqan moʻjazgina koʻk qushachaga oʻxshatilgan qahramon? 
+====
+Fazilat          
+====
+Latofat          
+====
+Gulsara          
+====
+#Tohira
+++++
+“Diyonat” romanida toʻgʻri Moskvadan, oʻqishdan kelgan yosh, kamgap odam deya ta’riflangan qahramon?
+====
+#Shukurov 
+====
+Shomurodov
+====
+Boʻriboyev
+====
+Mirobidov
+++++
+“Diyonat” romanida oʻn gulidan bir guli ochilmagan bir malak deya tariflangan qahramon?
+====
+Latofat                
+====
+#Fazilat
+====
+Tohira 
+====
+Gulsara 
+++++
+“Diyonat” romanida “Milloner rais” deya nom olgan obraz? 
+====
+Shukurov                
+====
+#Otaqoʻzi              
+====
+Shomurodov
+====
+Jabbor
+++++
+“Diyonat” romanida Otaqoʻzi necha yil rais boʻlganligini taʼkidlab, qancha ishlar hamda binolar qurganligini aytadi?     
+====
+22           
+====
+#20          
+====
+18
+====
+23
+++++
+“Diyonat” romanida kim qahramon boʻlmasayam Berlingacha borgan, ikki morotaba yarador boʻlib, urushdan koʻksi toʻla orden-medallar bilan qaytib kelgan?
+====
+#Jamol 
+====
+Qodir
+====
+Abror
+====
+Jabbor 
+++++
+“Diyonat” romanida Normurodning eski qadrdoni, uni qamoqdan asrab qolgan obraz? 
+====
+Qudratxoʻja                 
+====
+#Mahmud
+====
+Vohid
+====
+Qodirjon 
+++++
+“Diyonat” romanidagi Gulsara ayaning yuragidagi soʻnmas bir dardi nima edi? 
+====
+Eri, oʻz yaqinlari bilan chiqisholmasligi 
+====
+#Oʻgʻli Jabborning vafoti
+====
+Singlisining vafoti
+====
+Ishdan boʻshaganligi
+++++
+“Diyonat” romanida “Odam bolasidan faqat yaxshilik qolarkan bu dunyoda! Boshqa hamma narsa – shon shuhrat istagi, yuksak lavozim yoʻlidagi kurashlar, obroʻparastlik, manmanlik – buning hammasi oʻtkinchi va nohalol bir narsa ekan!” Mazkur xayollar kimning koʻnglidan oʻtadi?
+====
+#Otaqoʻzi
+====
+Jamol
+====
+Vohid
+====
+Abror
+++++
+“Hech qachon she’r izlaganim yoʻq,
+Taqdirimni izladim faqat” misralari muallifini toping.
+====
+#Usmon Azim
+====
+Sh.Rahmon
+====
+Usmon Nosir
+====
+A.Oripov
+++++
+Usmon Azimning birinchi kitobi qanday nomlangan?
+====
+“Yurak”
+====
+“Jimlik”
+====
+“Koʻzgu”
+====
+#“Insonni tushunish”
+++++
+Quyidagi misralar muallifini toping.
+Avval yashashni o‘rgan.
+Keyin o‘lishni.
+Keyin
+Sochilgan suyaklaringni yig‘ib,
+Yana jon ato qil o‘zingga-o‘zing.
+====
+#Usmon Azim
+====
+Sh.Rahmon
+====
+Usmon Nosir
+====
+E.Vohidov
+++++
+“Meni seving,
+Mendan nafratlaning — 
+Boshqasiga ruxsat bermayman” misralari bilan boshlanuvchi she’r muallifini toping.
+====
+Sh.Rahmon
+====
+M.Yusuf
+====
+Zebo Mirzo
+====
+#Usmon Azim
+++++
+“Surat parchalari”, “Uygʻonish azobi”, “Yurak”, “G’ussa” kabi she’riy kitoblar muallifini belgilang.
+====
+#Usmon Azim
+====
+Cho’lpon
+====
+Mirtemir
+====
+Usmon Nosir
+++++
+Navoiyning “Voy, yuz ming voykim, tarki muhabbat qildi yor” misrasi Usmon Azimning qaysi asariga epigraf sifatida tanlangan?
+====
+#“Uchrashuv” dostoniga
+====
+ “Xayr” she’riga
+====
+Armon haqida ballada
+====
+“Xiyonat” she’riga
+++++
+Oʻzbek she’riyatiga mutlaqo yangi bir ohang – baxshilar ohangini – baxshiyonani  birinchi boʻlib kim olib kirdi?
+====
+Faxriyor
+====
+#Usmon Azim
+====
+Xurshid Davron
+====
+Ikrom Otamurod
+++++
+Qaysi ijodkor oʻz dardini – elning dardini Elbek baxshi, Elomon baxshi kabi xalqqa suyumli boʻlib qolgan haqiqat elchilari tilidan kuylaydi?
+====
+Faxriyor
+====
+#Usmon Azim
+====
+Xurshid Davron
+====
+Ikrom Otamurod
+++++
+“Xalq boʻl elim”, “Uyqudagi qiz”, “Yolgʻonchi yor” to’plamlari muallifini belgilang.
+====
+#M.Yusuf
+====
+Usmon Azim
+====
+Xurshid Davron
+====
+Sh.Rahmon
+++++
+Muhammad Yusuf o‘zining qaysi she’rida Tohirning suvlarda oqib ketganini va Zuhroning bag‘ri qon bo‘lib yig‘lab qolganini takidlaydi?
+====
+#“Mehr qolur, muhabbat qolur”
+====
+ “Bir qiz yigʻlar”
+====
+ “Biz baxtli boʻlamiz”
+====
+ “Muhabbat”
+++++
+Muhammad Yusuf o‘zining qaysi she’rida olislarda qolgan Usmonlar borligi va jayrondek termulguchi Cho‘lponlar haqida so‘z yuritadi?
+====
+ “Oʻzbekiston”
+====
+ “Armon”
+====
+“Vatanim”
+====
+#“Yurtim ado boʻlmas armonlaring bor”
+++++
+“Iymanib yashama xayol pinjida
+Yoyil yayra jonim o‘rtanma g‘amda”
+Yuqoridagi satrlar Muhammad Yusufning qaysi she’ridan keltirilgan?
+====
+“Mehr qolur, muhabbat qolur”
+====
+ “Bir qiz yigʻlar”
+====
+ #“Biz baxtli boʻlamiz”
+====
+ “Muhabbat”
+++++
+Qaysi doston Muhammad Yusuf qalamiga mansub?
+====
+Uchrashuv
+====
+#Koʻhna quduq
+====
+Ilinj
+====
+Tabib va oʻlim
+++++
+“Maymun yetaklagan odam” asarida cholning xotini qachon vafot etgan edi?
+====
+Qirqinchi yillarning boshida
+====
+Qirqinchi yillarning oxirida
+====
+#Elliginchi yillarning oxirida
+====
+Elliginchi yillarning boshida
+++++
+ “Maymun yetaklagan odam” asarida quyuq o'rmondan maymunni еtaklab chiqayotgan barvasta gavdali yigit tasvirlangan surat ostiga nechanchi sana yozilgan edi?
+====
+#1921
+====
+1922
+====
+1926
+====
+1928
+++++
+ “Maymun yetaklagan odam” asarida  cholning chizgan suratlari qay tartibda terilgan edi?
+====
+#«1957», «1947», «1937», «1928», «1926» va hokazo tartibda
+====
+«1926», «1928»,«1937»,«1947»,«1957» va hokazo tartibda
+====
+Tartibsiz hoda yoyilib yotardi
+====
+Asarida suratlar qay tartibda joylashtirilgani berilmagan
+++++
+ “Maymun yetaklagan odam” asarida chol qaysi so'zni ishlatmay qo'yganiga ham qirq yildan oshib kеtgan edi?
+====
+Halollik
+====
+#E’tiqod
+====
+Muhabbat
+====
+Xotirjamlik 
+++++
+ “Maymun yetaklagan odam” asarida uy bеkasi cholga qanchada bir ovat kiritib turardi?
+====
+kunda bir marta
+====
+#haftada bir marta
+====
+haftada ikki marta
+====
+oyda bir marta
+++++
+ “Maymun yetaklagan odam” asarida chol oxirgi suratini chizayotgan vaqtlarda yigit nima bilan shugʻullanayotgan edi?
+====
+#Onеttining hikoyalarini tarjima qilayotgandi
+====
+Akutagavaning hikoyalarini tarjima qilayotgandi
+====
+Imtihonlarga tayyorlanayotgan edi
+====
+“Taras bulba”ni tarjima qilayotgandi
+++++
+“Oltin zanglamas” romanida Mirsalim nimani  ona sutidan ham halol deb bilardi?
+====
+ # Savdodan kelgan foydani
+====
+ Maktabdan olgan oylik maoshini
+====
+ Peshona teri bilan topilgan pulni
+====
+ Ichkilikni
+++++
+Oltin zanglamas” romanida Mirsalim qaysi  fandan dars berardi?
+====
+Tarix
+====
+ #Ona tili
+====
+ Geografiya 
+====
+  Aniq fani ko‘rsatilmagan
+++++
+Oltin zanglamas” romani voqealari  qayerlarda sodir bo‘ladi? Ketma-ketlikda tog‘ri  ko‘rsatilgan javobni belgilang.
+====
+ Toshkent-Afg‘oniston-Moskva
+====
+ #Toshkent-Moskva-Toshkent
+====
+ Moskva-Toshkent
+====
+ Toshkent-Afg‘oniston-Toshkent
+++++
+“Oltin zanglamas” romanida Adolat xolaga mos  bo‘lmagan tarifni belgilang.
+====
+ #Hammani o‘ziga yaqin olib "sen"lab gapiradigan  ayol
+====
+  Tabiatan halimdek yumshoq ayol
+====
+ Keliniga mehribon 
+====
+ Shirinso‘z, oqko‘ngil
+++++
+"Yulduzli tunlar" romani yaratilgach qancha vaqt chop etilmay yotgan?
+====
+ 10 yil 
+====
+8 yil  
+====
+#6 yil 
+====
+16 yil
+++++
+ Quvasoy bo'yidagi majnuntollar panasida kimlar suhbatlashib o'tirardi?
+====
+ #Tohir va Robiya
+====
+  Hindol va Gulchehra
+====
+  Fazliddin va Xadichabegim
+====
+ Mahmud va Sora
+++++
+  Kim tushida qon ko'rgan edi?
+====
+ Mahmud 
+====
+ Fazliddin
+====
+  Tohir 
+====
+#Robiya
+++++
+  Tohirning otasi tushdagi qonni nima deb qilardi?
+====
+ o'lim 
+====
+ Dushman
+====
+ # yorug'lik
+====
+ Tuzoq
+++++
+ Andijon arkida faoliyat yuritgan me'mor kim edi?
+====
+ Tohir 
+====
+#Fazliddin
+====
+Mahmud 
+====
+Ahmad
+++++
+ Yoqubbek me'morga nima qurdirmoqchi edi?
+====
+# hammom  
+====
+Karvonsaroy
+====
+ yozgi ko'shk 
+====
+Saroy
+++++
+ Ahmad Tanbal kimning suratini chizdiradi?
+====
+ o'zining 
+====
+ Podshoning
+====
+ onasining 
+====
+#malikaning
+++++
+ Tohirning qayerga borish niyati amalga oshmaydi?
+====
+ Marg'ilonga  
+====
+Toshkentga
+====
+#Andijonga 
+====
+Buxoroga
+++++
+ Quva ko'prigi rejasini kim chizgan edi?
+====
+ Mahmud  
+====
+#Fazliddin
+====
+  Tohir 
+====
+Umarshayx
+++++
+ Kadxudo qanday lavozim?
+====
+ #qishloq oqsoqoli
+====
+  shahar hokimi
+====
+  qo'riqchilar boshlig'I
+====
+ qozikalon, sud raisi
+++++
+ Fazliddin qaysi sirni hech kimga aytmoqchi emas edi?
+====
+ malikaga oshiqligini
+====
+  #po'lat sandiqdagi suratni
+====
+  Umarshayxning o'limini
+====
+ Yoqubbekka qilgan xizmatini
+++++
+ Shifoiya binosini kim qurdirmoqchi edi?
+====
+ Bobur  
+====
+Ahmad Tanbal
+====
+Umarshayx 
+====
+#Navoiy
+++++
+"Ajabo, inson xotirasi-eshigi yopib qo'yilgan omborga o'xsharkan".  O’tkir Hoshimovning «Ikki eshik orasi» romanida yuqoridagi fikrni kim aytgan?
+====
+Shomurod        
+=====
+Robiya
+====
+#Muzaffar  
+====        
+Qora Amma
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar qanchadan buyon qurilish sohasida ishlar edi?
+====
+13 yil 
+====   
+#12 yil  
+====      
+11 yil      
+==== 
+ 10 yil    
++++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida haftaning qaysi kuni maosh oladigan kun edi?
+====
+Yakshanba  
+====     
+Shanba
+====
+Juma                
+====
+# Payshanba
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Kobra" kim edi?
+====
+Safar aka            
+====            
+Ikrom aka
+====
+#Shavkat Qudratovich  
+====   
+ Muzaffar
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida kim o'z onasini elas-elas xotirlar edi?
+====
+Muzaffar       
+====
+#Robiya
+====
+Kimsan     
+====     
+ Ra'no
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanidan olingan quyidagi parchada kim ta’riflangan?
+"........ko'zlari ochiq edi.Yirik-yirik qop-qora ko'zlarini ochgancha bir nuqtaga tikilib yotardi".
+====
+Robiya        
+====
+Zakunchi
+====
+#Munavvar  
+====
+ Ra'no
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Qorako'z laqabli ot kimniki edi?
+====
+#Zakunchi   
+====       
+Shomurod
+====
+Husan Duma    
+====
+ Oqsoqol
+++++
+Xo‘ja Hasan Maymandiyga xos  bo‘lmagan sifatni toping. 
+====
+Hukmdori bilan bamaslahat ish qilishni  odatga aylantirgan vazir. 
+====
+Sixni ham, kabobni ham kuydirmaslik  tarafdori bo‘lgan obraz 
+====
+ Uzoqni ko’zlab ish ko‘radigan dono, ammo ayyor odam 
+====
+ #Shia mazhabidagilaming himoyasi uchun jonini ham ayamaydi
+++++
+“Jayhun ustida bulutlar” qissasi  mazmuniga oid to’g’ri shakllantirilgan  javobni belgilang.
+====
+# Abu Rayhon Beruniy onasi tomonidan  otasiz katta qilingan. 
+====
+ Abu Nasr Mansur  ibn Iroq Beruniyni shogirdlikka olish evaziga haftasiga bir eshak o‘tin oladigan bo‘ldi. 
+====
+ Xorazmliklar jangovar xalq bo‘lsa-da, yurt himoyasi uchun hech qachon birlashgan  emas. 
+====
+ Beruniy yigirma ikki yoshida musofirchilik azoblarini his etib ustozi yoniga, Buxoroga 
+ qaytib keladi. 
+++++
+ “Jayhun ustida bulutlar” qissasi  mazmuniga oid to’g’ri shakllantirilgan  javobni belgilang. 
+====
+ Mahmud G'aznaviy kamtar va sipo,  qolaversa, olimsifat podshoh bo’lgan. 
+====
+#Yovuz podshoh Ma'mun binni  Muhammaddan maqtashga arzigulik vorislar qolgan.
+====
+ Abu Abdullo amakivachchasining  yuzidan o'tolmay ilm ahliga muruvvat  ko‘rsatadigan tojdor edi.
+====
+ Abul Abbos xotinining so‘zi bilan ish  qilgani bois tashqi dushmanga mag’lub  bo'ldi.
+++++
+O‘limning yuziga tik qaraydigan ayol obrazi qaysi asarda uchraydi?
+====
+“Tushda kechgan umrlar”
+====
+“Oltin zanglamas”
+====
+“Asror bobo”
+====
+ #“Ming bir jon”
+++++
+"Ajab, inson xotirasi -............. ga o’xshaydi. O'tasiz-u o'z yumushingiz bilan ovora bo'lib, qaramaysiz. Vaqti kelib, tasodifiy shamol uo'xsharkan. Uning oldidan har kuni O'tasiz-u o'z yumushingiz bilan ovora bo'lib, qayrilib ham qaramaysiz. Vaqti kelib, tasodifiy shamol uning eshigini ochib yuboradi-yu, beixtiyor ichkariga mo'ralab qaraysiz. Shunda qiziq holat ro'y beradi. Uning ichida oltindan aziz narsa ham, ko'zingiz tushishi bilan ta'bingizni xira qiladigan qaqir-quqirlar ham qalashib yotgan bo'ladi. Alam qiladigan joyi shundaki, siz ulardan xohlaganingizni ajratib ololmaysiz. Bunisi kerakli, bunisining keragi yo'q deb, birini olib, birini uloqtirib tashlash qo'lingizdan kelmaydi. Hammasi jonlanib, atrofingizni qurshab oladi".
+O’tkir Hoshimovning «Ikki eshik orasi» romanidan olingan yuqoridagi parchada inson xotirasi nimaga o'xshatilgan?
+=====
+Ochiq qolgan derazaga
+====
+#Yopib qo'yilgan eshikka
+====
+Tuynugi yo'q qasrga
+====
+ Bo'm-bo'sh uyga
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffarning dadasi uni ertalab uyg'otganida, nima uchun xarxasha qilmay uyg'onadi?
+====
+Dadasi bilan Komil buvanikiga borish uchun.
+====
+"Qora amma" ularnikiga kelgani uchun.
+====
+Dadasi o'zi bilan choyxonaga olib borishini aytgani uchun.
+====
+# Dadasi kecha "Qora amma" sinikiga olib borishini aytgani uchun.
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Barmoqlari yo'g'on, tirnoqlari sarg'ayib ketgan" – deya kim ta'riflanadi?
+====
+"Qora amma"    
+====    
+#Shomurod
+====
+Ra'no         
+====             
+ Umar zakunchi
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar dadasining mo'ylovini nimaga o'xshatadi?
+====
+Tipratikanning tikonlariga
+====
+Shaftolining mayin tukiga
+====
+#"Qora amma" ning mushugining dumiga
+====
+ Qushning patiga
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar dadasi har gal gugurt chaqqanida nimadan qo'rqar edi?
+====
+#Dadasining mo'ylovi yonib ketishidan
+====
+Uylari yonib ketishidan
+====
+Dadasining sochlariga ilashib ketishidan
+====
+ Dadasining qo'llari kuyib qolishidan
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffarlarning eshigi oldida bir tup qanday daraxt bor edi?
+====
+Majnuntol  
+====            
+Bodom daraxti
+====
+#Yong'oq daraxti   
+====  
+ Olma daraxti
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffarning dadasi har gal qaysi poy etigini kiyishda qiynaladi?
+====
+Hech qaysi birida qiynalmaydi
+====
+O'ng va chap
+====
+Chap poy
+====
+ #O'ng poy
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Shomurodning qaysi oyog'i qiyshiq va nega bunday bo'lib qolgan?
+====
+#O'ng oyog'i qiyshiq, urushda o'q tegib tovonini uchurib ketgan
+====
+Chap oyog'i qiyshiq, urushda o'q tegib, tovonini uchurib ketgan
+====
+O'ng oyog'i qiyshiq, yoshligida ot bosib ketgan
+====
+ Chap oyog'i qiyshiq, yoshligida ot bosib ketgan
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Qora amma" qayerda yashar edi?
+====
+#No'g'ayqo'rg'onda  
+==== 
+Do'mbirobodda
+====
+Samarqand    
+====          
+ Qo'qon
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Tuya" amakining kasbi nima edi?
+====
+Dehqon     
+====          
+Xat tashuvchi
+====
+#Sartarosh     
+====         
+ Qishloq raisi
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Tuya" amakining o'g'lining ismi nima edi?
+====
+Muzaffar 
+====          
+#Abduvali
+====
+Ochilboy   
+====        
+ Olimjon
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar "bo'yi mendan kattaroq, o'zi sap-sariq" deganda kimni nazarda tutadi?
+====
+Omonni       
+====           
+Sherzodni
+====
+#Abduvalini    
+====          
+ Qo'zivoy
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar nima uchun "Endi Abduvali bilan o'ynamayman" deydi?
+====
+#Chunki, soqqa quvar o'ynaganda, Abduvali Muzaffarning  6 ta yong'og'ini yutib qochib ketgan edi.
+====
+Chunki, Abduvali maktabdagi o'rikdan olganda Muzaffarga bermagan edi
+====
+Sherzod bilan urishganda Muzaffarning yonida turmagan edi
+====
+ Velosipedini ukasi Omonga berib turmagani uchun
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar Abduvalining orqasidan  quvlab kirmoqchi bo'lganida, nima sababli kirmaydi?
+====
+Ukasi Omon ko'chada yig'lab turgani uchun.
+====
+#Mavluda opasidan qo'rqqani uchun.
+====
+Oyisi chaqirib qolgani uchun
+====
+ Dadasi kelib qolgani uchun.
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar qayerni "o'zimizning uy hisob" deydi?
+====
+"Qora amma" sining uyini
+====
+Komil buvaning uyini
+====
+#Choyxonani
+====
+ Maktabni 
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida choyxonada necha tup qaysi daraxt tagida nechta nima bor edi? 
+====
+4 tup bodom tagida 4 ta so'ri bor
+====
+3 tup o'rik tagida 5 ta o'rindiq bor
+====
+2 tup terak tagida 2 ta samovor bor.
+====
+ #2 tup tol tagida 4 ta so'ri bor
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffar aytib o'tgan bitta bedana bir sayrashda necha marta sayraydi? 
+====
+10 marta  
+====
+#7 marta   
+====
+8 marta  
+====
+ 9 marta
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida choyxonachi kim edi? 
+====
+Naim aka     
+====
+Komil buva
+====
+#Ilhom     
+====       
+ Rashid abzi
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Nizomiddin Xomush kimga “Yodingda bo’lsin!.. Hamd-u sanoni esidan chiqarib, kofirlikka yuz tutgan barcha allomalarning holi shu bo’lar!” deydi? 
+====
+ Mirzo Ulugbekka
+==== 
+ Muhiddinga
+==== 
+#Ali Qushchiga 
+==== 
+Miram Chalabiyga 
++++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida kim Mirzo Ulug’bekka cherik yig’ishni taklif qiladi, lekin u qabul qilmaydi va keyinchalik bundan afsuslanadi? 
+====
+#Bobo Husayn 
+====
+ Ali Qushchi 
+====
+ Sulton Jondor 
+====
+ Amir Idris tarxon 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Mirzo Ulug’bek kimga ishonar, uning qal’a kalitini shahzodaga qarshiliksiz topshirishini sira kutmagan, chunki uni o’zining eng sodiq amirlaridan biri deb bilardi? 
+====
+ Sulton Jondor 
+====
+ Sultonshoh barlos 
+====
+ #Amir Kamoliddin 
+====
+ Amir Iskandar barlos 
+====
+Odil Yoqubovning “Ulug’bek xazinasi” romanida “Bog’i jahon” qaysi shaharda 
+joylashganligi aytiladi? 
+====
+ Samarqandda 
+====
+ Andijonda 
+====
+ Yassida 
+====
+ #Hirotda 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Mirzo Ulug’bekning volidasi 
+Gavharshodbegim kimlarning orasiga nizo solib, bir-biriga qayrab qo’yadi? 
+====
+ Abdullatif va Ulug’bek 
+====
+ Abdulla va Abu Said 
+====
+ #Abdullatif va Alouddavla 
+====
+ Ulug’bek va Shohruh Mirzo 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida kim “quzg’un” deb sifatlanadi? 
+====
+ Abdullatif 
+====
+ #Baroqxon 
+====
+ O’g’abegim
+==== 
+ Sulton Jondor 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Yassidan Qalandar Qarnoqiy bilan birgalikda yana necha nafar yigit arz qilib keladi? 
+====
+ #10 nafar 
+====
+ 15 nafar 
+====
+ 20 nafar 
+====
+ faqat o’zi keladi 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Amir Sultonshoh tarxonning echta o’g’li bor edi? 
+====
+ 1 ta 
+====
+ 2 ta 
+====
+ 3 ta 
+====
+ o’g’li bo’lmagan 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Sultonshoh tarxon nima sababdan Mirzo Ulug’bekka xiyonat qiladi? 
+====
+ chunki u o’zi istagan martabaga erisha olmaydi 
+====
+ #Sultonshoh tarxon amir Ibrohimbekning qaynag’asi, shahzoda qatl etgan bekning tog’asi bo’lgani uchun 
+====
+ chunki Sultonshoh tarxon shahzoda qatl etgan bekning akasi edi 
+====
+u Mirzo Ulug’bekni hamd-u sanoni unutib, kofirlikka yuz tutgan deb hisoblagani uchun 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida “Oltmishlardan oshgan, yo’g’on, norg’ul odam edi. Uning rapidaday yum-yumaloq, qip-qizil yuzida, alang-jalang ko’zlarida 
+allaqanday taraddud bor edi…” deya kim ta’riflanadi? 
+====
+ Sulton Jondor 
+====
+ Shayxulislom Burxoniddin 
+====
+ #Mironshoh 
+====
+ Ali qushchi 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida “…oppoq soqoli ko’ksiga tushgan, baland bo’yli, bihoyatda ko’hlik bir chol…” deya kim ta’riflanadi? 
+====
+ Qozizoda Rumiy 
+====
+ Shayxulislom Burxoniddin 
+====
+ #Salohidin zargar 
+====
+ Nizomiddin Xomush 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida “qalandarboshi, g’ilay darvesh” ning laqabi nima edi? 
+====
+ Qalandar 
+====
+#Qashqir 
+====
+ Quzg’un 
+====
+ Devona 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida “Shoshlik murshidi muqtado eshon” kim edi? 
+====
+ Qozizoda Rumiy 
+====
+ Nizomiddin Xomush 
+====
+#Ubaydullo Xo’ja Ahror 
+====
+ Naqshbandiy 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida kim Mirzo Ulug’bekka shahzoda Abdullatifning qo’shinida fillar ham bor ekanligi haqida maktub qo’llaydi? 
+====
+#Amir Iskandar barlos
+====
+ Amir Sulton Jondor 
+====
+ Bobo Husayn 
+====
+ Amir Idris tarxon 
+++++
+Odil Yoqubovning “Ulug’bek xazinasi” romanida Mirzo Ulug’bekning kitoblari 
+yashiringan ungurni faqat necha kishi bilar edi va ular kimlar? 
+====
+ 2 kishi: Ali qushchi, Ulug’bek 
+====
+# 3 kishi: Ali Qushchi, Ulug’bek, Miram Chalabiy 
+====
+ faqat Ali Qushchi 
+====
+ 4 kishi: Ali qushchi, Ulug’bek, Miram Chalabiy va Qalandar Qarnoqiy
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasi kimnikiga to'yga aytish voqeasi bilan boshlanadi? 
+====
+ Nabi 
+====
+# Zulfiqor
+====
+ Xolboy 
+====
+ Ashurboy 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Zulfiqor polvonning to'yida kim tom ustida yonboshlab olib, to'yxonadagi voqealardan ko'z-quloq bo'lib, tegishli yo'l-yo'riqlar berib turadi? 
+===
+ Xolboy 
+====
+ #Nabi
+====
+ Hotam 
+====
+ Bo'ri 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Zulfiqor polvonning qaysi oshnasi to'yiga echki yetaklab keladi? 
+====
+ Ashurboy 
+====
+#Turdiboy
+====
+ Qurbon 
+====
+ Xolboy 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Zulfiqor polvonning to'yiga qo'y yetaklab kelgan kuyovi kim edi? 
+====
+ Ashurboy 
+====
+ Turdiboy 
+====
+ #Qurbon 
+====
+ Xolboy 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Zulfiqor polvonning to'yida surnaychi kim edi? 
+====
+ Ashurboy 
+====
+ Turdiboy 
+====
+ Qurbon 
+====
+#Xolboy 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida qaysi polvonning "suyaklari davrada qotgan" deya ta'riflanadi? 
+====
+ Nasim polvon 
+====
+ Abray polvon 
+====
+ Tilovberdi polvon 
+====
+#Bo'ri polvon 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Ermat polvon bilan kurashgan, raisning o'g'li kim edi? 
+====
+#Shukur polvon
+====
+ Hotam polvon 
+====
+ Suyun polvon 
+====
+ Amir polvon 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Shukur polvonning o'zidan bir yosh katta akasi kim? 
+====
+ #Xolyor
+====
+ Suyun
+====
+ Hotam 
+====
+ Amir 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida Bo'ri polvon kimga o'xshaganlarni chinachog'i bilan yiqita olishini aytadi? 
+====
+ Suyun 
+====
+ Amir 
+====
+ #Hotam 
+====
+ Nasim 
+++++
+Tog’ay Murodning “Yulduzlar mangu yonadi” qissasida qaysi qahramon inson qanchalik odil bo'lmasin, qanchalik tanti bo'lmasin, baribir o'z eliga tortishini his etadi? 
+====
+#Bo'ri polvon 
+====
+ Suyun oqsoqol 
+====
+ Hotam polvon 
+====
+ Amir polvon
+++++
+Uning so’zlarida, qilmishlarida qandaydir telbalikka o’xshagan bir sifat sezilib turardi. Lekin bu xususiyat xuddi go’zalning kokiliday unga yarashib turardi”. 
+Oybekninng “Navoiy” romanidan olingan ushbu parcha kim haqida? 
+====
+# Zunnun Arg’unbek 
+====
+ Zayniddin 
+====
+ Shoh Shujo 
+====
+ Arslonqul 
+++++
+Oybekning “Navoiy” romanida kim xalqqa nisbatan “Ularning butun ko’rki yuraklaridadir. Gulning to’ni qirq yamoq, barglari yirtiq bo’lsa ham husni toza emasmi?” deya fikr bildiradi? 
+====
+ Sultonmurod 
+====
+# Navoiy 
+====
+ Husayn Boyqaro 
+====
+ Jomiy 
+++++
+“Shaharning yoqasida tevaragi guvala, tosh aralash urilgan qiyshiq, past devor bilan qurshalgan bog’dir” deya kimning bog’i ta’riflanadi? 
+====
+# Muftining bog’i 
+====
+ To’g’onbekning bog’i 
+====
+ Sultonmurodning bog’i 
+====
+ Arslonqulning bog’i 
+++++
+“Qumlikka singgan suv kabi” to’xtab qolgan narsa nima edi? 
+====
+ shamol 
+====
+ yomg’ir 
+====
+ #gap-so’z 
+====
+ xalqning xursanchiligi 
+++++
+Navoiyning joniga suiqasd qilmoqchi bo’lgan va buni birinchi bo’lib sezib qolib, shoirni qutqargan shaxslarni belgilang. 
+====
+ Abdusamad; Shayx Bahlul 
+====
+ Abduamad; Haydar 
+====
+ Amir Obodiy; Hasan Sayyoh 
+====
+ #Abdusamad; Hasan Sayyoh 
+++++
+Kimning bobosi Shohrux Mirzo zamonida jallod, otasi esa Abu Said Mirzo davrida esa zindon posboni bo’lgan?
+====
+ Haydar 
+====
+#Abdusamad 
+====
+ To’g’onbek
+==== 
+ Shujoiddin
+++++ 
+O’gay ota tomonidan “otning asli qartadir, asli tagiga tortadir” deya kimga nisbatan aytiladi? 
+====
+ To’g’onbek 
+====
+ Amir Obodiy 
+====
+#Abdusamad 
+====
+ Arslonqul 
+++++
+Romanda Majididdin o’zining saroydagi ishonchli, qadrdon josusi kim orqali bir ming dinorni naqd, yana besh ming dinor uchun va’da berarkan, Abdusamad jinoyatni savobdan qabul safarga 
+chiqadi? 
+====
+ #Pir Hoji Bakovul 
+====
+ To’g’onbek 
+====
+ Amir Obodiy 
+====
+ Amir Mo’g’ul 
+++++
+Alisher Navoiyning qadrdon oshpazi kim uning hayotini saqlab qoladi? 
+====
+ Sohib Doro 
+====
+ Shayx Bahlul 
+====
+ Mahmud Toybodiy 
+====
+ #Hasan Sayyoh 
+++++
+Romanda kim o’zini “shishaga qamalgan chayonday” ojiz sezadi? 
+====
+ Majididdin 
+====
+#Abdusamad 
+====
+ Dildor 
+====
+ Mo’min Mirzo 
+++++
+Navoiy qadrdon mulozimi kim bo’lmasa, uyni go’yo bo’shdek sezardi? 
+====
+ #Shayx Bahlul 
+====
+ Sohib Doro 
+====
+ Mahmud Toybodiy 
+====
+ Darveshali 
+++++
+Navoiyni o’ldirmoqchi bo’lgan Abdusamadni “zaharini o’ziga ichiraman, unamasa, yana og’irroq jazo – terisini shildiraman!” deb jazolamoqchi bo’lgan kim edi? 
+====
+ Kamoliddin Behzod 
+====
+ Darveshali 
+====
+ Sultonmurod 
+====
+ #Haydar 
+++++
+Navoiy uning uchun haqiqiy jallodlar, qotillar, eng qabih jinoyatkorlar qaysi shaharda, ekanligini aytadi? 
+====
+ Astrobodda 
+====
+ #Hirotda 
+====
+ Balxda 
+====
+ Marvda 
+++++
+Asar davomida kimning tongga yaqin bir jarlikda qonga belangan boshsiz gavdasini topadilar? 
+====
+ #Abdusamad 
+====
+ Majididdin 
+====
+ Mo’min Mirzo 
+====
+ To’g’onbek 
+++++
+Quyidagi gapdagi izohga to’g’ri shaxsni belgilang. 
+“Podshohga ermak kerak ekan-da. (1) ning butun umri safarda o’tgan, (2) niki esa nuqul to’y-tomosha bilan o’tyapti” 
+====
+ 1 – Shohrux Mirzo; 2 – Husayn Boyqaro 
+====
+ #1 – Amir Temur; 2 – Husayn Boyqaro 
+====
+ 1 – Amir Temur; 2 – Muzaffar Mirzo 
+====
+ 1 – Husayn Boyqaro; 2 – Muzaffar Mirzo
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida dadasining aytishicha, choyxonachi bedanani qaysi bozordan nimaning puliga sotib olgan? 
+====
+#Hastimom bozoridan bir g'unajinning puliga
+====
+Ko'chma bozordan 4 ta qo'yning puliga
+====
+Hastimom bozoridan 4 ta qo'yning puliga
+====
+ Ko'chma bozordan bir g'unajinning puliga. 
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida choyxonaning  devorida kimning surati ilingan? 
+====
+Maykovskiyning
+====         
+Gitlerning 
+====
+Leninning     
+=====               
+# Stalinning
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida "Silliq yuzli, siyrak soqolli" - deb kimga ta'rif beriladi?
+====
+Ilhom choyxonachi    
+====
+"tuya" amaki
+====
+Umar zakunchi    
+====       
+ #Komil buva
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida Muzaffarga kim patnisidan ikki chaqmoq qand olib, azza-bazza yoniga keladi?
+====
+Husan bobo     
+====           
+#Komil buva
+====
+Ilhom choyxonachi   
+=====  
+ Orif oqsoqol
+++++
+O’tkir Hoshimovning «Ikki eshik orasi» romanida choyxonadagilar nima uchun va kimni birov do'lda qolgan tappi, birov esa chakichlangan patir deydi?
+====
+Rashid abzini, ko'p ichganligi uchun.
+====
+"tuya" amakini, oqsoqlanib yurgani uchun
+====
+#Ilhom choyxonachini, yuzi cho'tir bo'lgani uchun
+====
+ Umar zakunchini, qo'lida doim qamchi bo'lgani uchun.
+++++
+“O’tgan kunlar” asaridagi voqealar nechanchi hijriy yildan boshlangan?  
+====
+1260  
+====
+#1264  
+====
+1268   
+====
+1464
+++++
+“O’tgan kunlar” asarida “tulki” atamasi kimga nisbatan ishlatilgan?                                                                                       ====
+Xudoyorxonga  
+====
+Homidga   
+====
+Xasanaliga   
+====
+#Azizbek
+++++
+Toshkent beklaridan qaysi birining davrida xalq birmuncha tinch, farovon hayot kechirgan?                                            
+====
+Azizbek davrida  
+====
+Yusufbek hoji davrida  
+====
+#Normuhammad qushbegi   
+====
+O’ttaboy qushbegi
+++++
+“O’tgan kunlar” asarida Kumush Otabekka yozgan xatida o’zini kim deb ataydi?  
+====
+Oltinbibi  
+====
+#Tuproqbibi   
+====
+Aldangan Kumush  
+====
+Farishta
+++++
+“O’tgan kunlar” asarida Kumushning ota-onasi ikkinchi marta kimga turmushga bermoqchi bo’ldilar?    
+====
+Salim sharbatdorga   
+====
+#Komiljonga   
+====
+Homidboyga 
+====
+Hech kimga berishni xohlamadilar
+++++
+“O’tgan kunlar” asarida “Teng tengi bilan tezak qopi bilan” maqolini aytgan obraz kim?                                                                                 
+====
+Rahmat   
+====
+Homid   
+====
+#To’ybeka   
+====
+Kumush
+++++
+“O’tgan kunlar” asarida dushanba kuni bo’lgan qotilliklar uchun Mirzakarim qutidorni so’roqqa olib ketdilar. So’roqdan qutilib kelganda xotini Oftoboyim kimning yo’liga 7 tanga nazr qiladi?
+====
+Dovud pirimga 
+====
+#Xo’ja Bahoviddinga 
+====
+Xo’ja Ma’ozga 
+====
+beva-bechoralarga
+++++
+“O’tgan kunlar” asarida hayotning dag’al muomalasidan begona, faqat uning chuchuk so’zlarinigina tinglab kelgan obrazni belgilang. 
+====
+#Otabek  
+====
+Kumush  
+====
+Saodat  
+====
+Sayfi
+++++
+Qipchoqlarni qirg’in qilish  majlisi kimnikida bo’lgan edi? 
+====
+#Rajabbeknikida  
+====
+Yusufbek hojinikida  
+====
+Ziyo shohichinikida  
+====
+Xudoyorxon o’rdasida
+++++
+Kasal yotgan Kumush qaysi so’zni eshitgandan so’ng ko’zlari katta-katta ochildi? 
+====
+Farzandi o’g’il ekanligini bilgach        
+====
+#Zaynab taloq qilinganini eshitgach 
+====
+Tuqqandan so’ng Otabek kirganini bilgach  
+====
+Ota-onalari kelayotganini eshitgach  
+++++
+“Sarviqomat dilbarim” asarida Asal ilk bor ona bo’lgan paytda shafyor yigit qaerda safarda edi? 
+====
+Issiqko’lda   
+====
+Tyan shanda   
+====
+#Xitoyda  
+====
+Ribache
+++++
+“Sarviqomat dilbarim” asaridagi avtobaza boshlig’ining ismini belgilang. 
+====
+Bektemir aka   
+====
+Jontoy    
+====
+Alibek   
+====
+#Omonjo’lov
+++++
+“Sarviqomat dilbarim” asaridagi birinchi bor pritsept bilan yurishda muvafaqqiyatsizlikka uchragan Ilyosni kim yana shu ishni qilishga chaqiradi?    ====
+#Alibek  
+====
+Boytemir aka  
+====
+Jontoy   
+====
+Omonjo’lov
+++++
+“Sarviqomat dilbarim” asarida Ilyosning muvafaqqiyatsizligini yuziga solib, u bilan janjallashgan va natijada kaltak yeb hammani unga nisbatan qayrashtirgan obrazni belgilang.    
+====
+O’rmat aka  
+====
+#Jontoy   
+====
+Ilyos   
+====
+Alibek
+++++
+“Sarviqomat dilbarim” asarida Ilyos nima sababdan Alibekdan g’azablanadi?  ====
+Uning fikriga qarshi bo’lgani uchun    
+====
+#Ilyos bajara olmagan ishni osonlik bilan bajarganligi uchun   
+====
+Asalga boshqacha ko’z bilan qaragani uchun   
+====
+Xadichaga boshqacha ko’z bilan qaragani uchun
+++++
+“Sarviqomat dilbarim” asarida faqat “ura” qichqirig’i bilan emas, balki shay bo’lib, to’la qurollangan holda dovonga hujum qilgan qahramonni belgilang. 
+====
+O’rmat aka  
+====
+Boytemir aka   
+====
+Ilyos   
+====
+#Alibek
+++++
+“Sarviqomat dilbarim” asari qahramoni Xadichaning uyi qaysi ko’chada joylashgan? 
+====
+#Beryogavaya ko’chasida   
+====
+Krupskaya ko’chasida   
+====
+Brejnyova ko’chasida   
+====
+Ribache ko’chasida
+++++
+“Sarviqomat dilbarim” asari qahramoni Ilyosning familiyasini belgilang.     
+====
+Qarshiboev   
+====
+#Aliboev   
+====
+Omonjo’lov   
+====
+Asarda hech qachon uning familiyasi keltirilmagan
+++++
+“Sarviqomat dilbarim” asarida keyinchalik ministrlikka ishga ko’tarilib ketgan obrazni belgilang.     
+ ====
+Alibek  
+====
+Boytemir aka  
+====
+Jontoy   
+====
+#Omonjo’lov
+++++
+“Yulduzli tunlar” romanida Shayboniyxon huzurida ijod qilgan shoirni belgilang.
+====
+Binoiy     
+====
+#Muhammad Solih     
+====
+Mulla Abdurahim   
+====
+Mo’min mirzo
+++++
+“Yulduzli tunlar” romanida Bobur Samarqandda kamalda qolganlarida otlarga ham yemish qolmagan. Shu paytlarda so’nggi chora sifatida  otlarga qanday yemish berilgan?
+====
+Daraxtlarning barcha barglari    
+====
+#Daraxtlarning tanalari randalab berilgan 
+====
+Odamlar o’zlari uemay, so’nggi yeguliklarini berishgan   
+====
+Shayboniyxon kamalchilarini oltinga sotib olib, tashqaridan ozuqa olib kirganlar
+++++
+“Yulduzli tunlar” romanida Boburdan ajrashgan Oyisha begim kimga majburan nikohlab berilgan?
+====
+Shayboniyxonga gunchachi bo’lgan    
+====
+Temur sultonga gunchachi bo’lgan
+====
+#Ko’chkinchixonga to’qol xotin bo’lgan    
+====
+Jonibek sultonga gunchachi bo’lgan
+++++
+“Yulduzli tunlar” romanida Boburning shoirligi qaysi vaziyatda foyda keltirdi?
+====
+Odamlar qalbidan joy olib tarafkashlarining ko’payishida   
+====
+#Bir gal unga qasdlashgan odam iste’dodi tufayli gunohidan o’tdi      
+====
+Janglar oldidan so’zlangan nutqlarida      
+====
+Boshiga tushgan sitamlarni satrlarga to’kib, ko’nglini bo’shatar edi. Bu esa uni kasal bo’lib qolishdan saqlar edi.
+++++
+“Yulduzli tunlar” romanida Bobur Hirotga kelganda qaerda istiqomat qilgan?     ====
+Ihlosiyada    
+====
+#Unsiyada    
+====
+Dabusiyada    
+====
+Bog’i Nav’da
+++++
+“Yulduzli tunlar” romanida Boburning 3 qiz-u bir o’g’li ya’ni Hindolning onasi bo’lgan obrazni belgilang.
+====
+Mohim begim   
+====
+Gulruh begim   
+====
+#Dildor og’acha   
+====
+Oyisha begim
+++++
+“Yulduzli tunlar” romanida Xo’ja Yahyo hajga ketayotganda kim tomonidan o’ldirilib. mollari talangan?
+====
+Tilba Sulton     
+====
+Mulla Abdurahim   
+====
+#Ko’pakbiy   
+====
+Temur sulton
+++++
+“Yulduzli tunlar” romanida Samarqandning Feruza dorvozasini qo’riqlashni Shayboniyxon kimga ishonib topshirgan edi?                                                      ====
+Tilba sultonga    
+====
+Ko’pakbiyga    
+====
+#Fozil Tarxonga   
+====
+Tohirga
+++++
+“Yulduzli tunlar” romanida qaysi hududning podshosi navkardan chiqqan, tagi past deya ta’rif qilingan?
+====
+Samarqand   
+====
+Toshkent   
+====
+O’ratepa    
+====
+#Hisor
+++++
+“Yulduzli tunlar” romanida Hirotda tog’a-jiyan mulla Fazliddin va Tohir uchrashib qolganlarida Tohir qanday davozim egasi edi?
+====
+Amirul umaro   
+====
+#Qo’rchibegi    
+====
+Vaziri a’zam    
+====
+Parvonachi
+ ++++
+“Kecha va kunduz” romanida Razzoq so’fini kim “ko’rgazmaga qo’yilaturgan antiqa mahluq” deb atagan?    
+====
+Miryoqub  
+====
+Akbarali  
+====
+#Jadidnamo bir hamshahari  
+====
+Eshonbobo
+++++
+ “Kecha va kunduz” romanida o’z uyida mehmondorlik uyushtirmoqchi bo’lgan Sultonxonni ushbu ishdan qaytarmoqchi bo’lgan obrazni belgilang.   
+====
+Poshshaxon  
+====
+#Umrinisabibi   
+====
+Fazilat  
+====
+Xadicha
+++++
+“Kecha va kunduz” romanida Akbarali ellikboshilikka qanday erishgan edi?  
+====
+Avvalgi mingboshiga katta miqdorda pul  bergan edi                           
+====
+#Avvalgi mingboshiga yaxshi uloqchi ot sovg’a qilgan edi   
+====
+xalq Akbaralining faolligini inobatga olib saylagan edi   
+====
+Amaldorlarga bir necha yil sidqidildan xizmat qilib erishgan edi.
+++++
+“Kecha va kunduz” romanida Akbarali mingboshidan kam ta’zim, ehtirom olmaydigan qahramonni belgilang   
+====
+Zunnun   
+====
+#Miryoqub   
+====
+Noyib to’ra  
+====
+Eshonbobo
+++++
+“Kecha va kunduz” romanida Shirin xayollarga berilib, keyin Akbarali mingboshini ko’z oldiga keltirib, qo’rqqanidan baqirib yuborgan qahramonni belgilang       
+====
+Sultonxon   
+====
+Zebinisa   
+====
+#Saltanat   
+====
+Enaxon
+++++
+“Kecha va kunduz” romanida mingboshiga qizini berishni xohlamagan ayollar hazillashib, unga qizlarini berguncha qaysi adirga olib borib tashlagani ma’qul degan fikrga keladilar?   
+====
+Mozandoron   
+====
+#Butavakkal  
+====
+Borsa kelmas  
+====
+Ko’hikof
+++++
+“Kecha va kunduz” romanida saratonda so’fi uyga qamalib olib, nimani o’qib ho’ngir-ho’ngir yig’lar edi?   
+====
+#A.Yassaviyning “Devoni hikmat” asarini   
+====
+“Qur’oni karimni” 
+====
+Hadislarni  
+====
+Payg’ambarlar hayotidan bayon qiluvchi hikoyalarni
+++++
+“Kecha va kunduz” romanida Miryoqub Noyib to’ra bilan qaysi shoirning qo’lyozmasi xususida suhbatlashishadi?  
+====
+Navoiy   
+====
+Mashrab  
+====
+#Ado  
+====
+Bobur
+++++
+“Kecha va kunduz” romanida “Ruslar Oqmachitni olib qo’ydilar” ,-degan gapga qayg’urmay ”Menga bir oy olislikdagi joylar kerak emas”,- deb javob bergan, asarda nomi keltirib o’tilgan xonni toping.  
+====
+Sultonxon  
+====
+#Xudoyorxon  
+====
+Olimxon  
+====
+Umarxon
+++++
+“Kecha va kunduz” romani qahramoni Sharafiddin Xo’jaev: “Agar bog’chasaroyga 5 so’m pul yuborsangiz, bir yilgacha ... gazetasi keladi”. Nuqtalar o’rnidagi gazeta nomini belgilang.                                                                                                                           ====
+#Tarjimon
+====
+Oyina 
+====
+Sadoyi Turkiston   
+====
+Sadoyi Farg’ona
+++++
+“Dunyoning ishlari” asarida haqida kim “Bu asarni o’qisak, o’z onalarimizni eslab ketamiz” – deydi?                              
+====
+Abdulla Qahhor    
+====
+G’afur G’ulom  
+====
+#Said Ahmad   
+====
+Abdulla Oripov
+++++
+“Dunyoning ishlari” asarida yozuvchi nima haqida “Ajab, ular bir-birlariga xalaqit bermas, bir-birini rad etmas, ikkalasi qo’shilib bahor nafasiga to’lgan osmonda parvoz qilar edi”, - deya tariflaydi?                                                 
+====
+bulbul va qumrining ovozini     
+====
+bolalar va qariyalarning ovozini                                                                 
+====
+#Alla va tilovat sadosini  
+====
+traktor va dehqonlarning ovozini
+++++
+“Dunyoning ishlari” asarida oyog’ining jarohatlanishi haqida insonlarga yolg’on to’qiydigan shaxsni belgilang.                                                
+====
+Sartorosh buva  
+====
+#Dalavoy   
+====
+Aschiniska  
+====
+Ermon buva  
+++++
+“Dunyoning ishlari” qissasidagi bosh obrazning ismini belgilang.                                                                   ====
+O’tkir Hoshimov  
+====
+#Xakima aya  
+====
+Xolposh aya  
+====
+Eshonoyi
+++++
+“Dunyoning ishlari” qissasida yozuvchini bolaligida eng ko’p uchragan, qiynagan kasali nima?                                              
+====
+qizamiq  
+====
+#ko’kyo’tal  
+====
+tomoq og’rig’i  
+====
+gripp
+++++
+“Dunyoning ishlari” qissasida yozuvchining bolaligida kim uni “kuchukvoy” deb erkalagan?                                                            
+====
+onasi  
+====
+dadasi  
+====
+ammasi  
+====
+#Hoji buvi
+++++
+“Dunyoning ishlari” qissasida yozuvchining ushbu asarda  keltirilgan o’g’ay opasi turmush o’rtog’ining kasbi nima?                                                
+====
+nalug’chi  
+====
+#provadnik  
+====
+dallol  
+====
+sartorosh
+++++
+“Dunyoning ishlari” qissasida yozuvchining onasi juda ham yuvvosh, ammo bir safar qaysi voqeadan so’ng uni juda yomon qarg’aydi?   
+====
+Dalavoyni so’kib, uydan xaydab chiqqandan so’ng   
+====
+o’g’ay opasining farzandini o’ynata turib, yiqitib qo’ygandan so’ng  
+====
+#Sepkilli xolani o’g’riga chiqargandan so’ng  
+====
+echkini boqqani olib chiqib yo’qotib qo’ygandan so’ng
+++++
+“Dunyoning ishlari” qissasida ona-bola echki sotgani borib, qaysi bozorga borganda yosh, kasal bolani qurol qilib olgan firibgarlarga aldanadi?                                                                                                                                 ====
+#Tezakov bozorida  
+====
+ko’kterak bozorida 
+====
+sariyog’och bozorida  
+====
+qishloq bozorida
+++++
+“Dunyoning ishlari” qissasida ham o’g’lidan, ham eridan bir oyda qora xat kelgan obrazni belgilang.  
+====
+Xolposh xola  
+====
+#Zebi xola   
+====
+sepkilli xola  
+====
+Ermon buva
+++++
+“Ikki eshik orasi” romanida “eshigi yopib qo’yilgan ombor”ga o’xshatilgan narsa nima?
+====
+#inson xotirasi                   
+====
+o’tmishdagi sevgi iztiroblari 
+====
+milliy burch tushunchasi    
+====
+insonning dunyo lazzatlariga asir bo’lishi
+++++
+“Ikki eshik orasi” romanida Ilxom choyxonachi “Xastimom” bozoridan sayroqi bedanani qancha pulga sotib olgan?
+====
+bir qo’yning puliga  
+====
+#bir g’unajinning puliga  
+====
+10 so’mga  
+====
+100 so’mga
+++++
+“Ikki eshik orasi” romanida qahramonlardan qaysi biri “o’z kindigini o’zi kesadigan” “yuragi otning kallasidek” iboralariga mos edi?
+====
+Oqsoqol buva   
+====
+#Xusan buva   
+====
+Shomurod   
+====
+Zakunchi
+++++
+“Ikki eshik orasi” romani qahramoni “qora amma”ning nechta farzandi yoshligidayoq nobud bo’lgan?
+====
+4 ta   
+====
+5 ta   
+====
+#6 ta   
+====
+7 ta
+++++
+“Ikki eshik orasi” romanida qulupnay nimaligini bilmaydigan obrazni belgilang.
+====
+Kimsan   
+====
+#Robiya   
+====
+Olimjon   
+====
+Zakunchi
+++++
+“Ikki eshik orasi” romanida Orif oqsoqol nima sababdan lavozimidan bo’shatildi?
+====
+planni bajarmagani uchun      
+====
+yuqoridan kelgan buyruqlarni bajarmagani uchun  
+====
+#Muallim Samadov sababli     
+====
+pensiyaga chiqqanligi uchun
+++++
+“Ikki eshik orasi” romanida no’g’ayqo’rg’onlik ayollar bolalarini kimning nomini aytib qo’rqitar edi?
+====
+Oqsoqol buva   
+====
+#Zakunchi   
+====
+Xusan duma   
+====
+Xo’jaqulov
+++++
+“Ikki eshik orasi” romanida urush boshlanguncha u qadar qadri yo’q, urush boshlangandan so’ng qishloqning o’ta qadrli insonga aylangan obrazni belgilang.
+====
+Orif oqsoqol   
+====
+Umar zakunchi   
+====
+Parcha opa   
+====
+#Rashid abzi
+++++
+“Ikki eshik orasi” romanida Orifxo’jaboyning o’g’lidan kelgan sovchilarga ko’nmay, yaxshi ko’rgan yigitining yoniga tomorqaning tuynugidan emaklab qochib kelgan qizni belgilang.
+====
+Fotima   
+====
+Xolposh xola   
+====
+#Qora amma   
+====
+Parcha opa
+++++
+Kimsan urushdan Robiyani sevishini yozgan xatini kim o’qigan?
+====
+Zuhra kelin   
+====
+#Fotima kelin   
+====
+Qora amma   
+====
+Orif oqsoqol
+++++
+“Shum bola” asarida nima haqida “Fotimai Zahroning dastgoh”laridan biri deb atalgan?             
+====
+bo’z to’qiydigan dastgoh    
+====
+#o’choq     
+====
+tandir 
+====
+baxmal to’qiydigan dastgoh
+++++
+“Shum bola” asarida nimani shum bola “Solkash” deb ataydi?        
+====
+jinnilarni shu so’z bilan so’kadi    
+====
+Omonni shu so’z bilan so’kadi   
+====
+#jiyda daraxtini shunday ataydi  
+====
+onasi shum bolani shu so’z bilan so’kadi
+++++
+Shum bola qanday vaziyatga tushganda “sirlangan xumchaga tushgan sichqondek” to’rt tomonga alanglaydi?    
+====
+#Novvos o’rniga eshakni so’yib qo’yganda   
+====
+o’lik yuvgan paytda   
+====
+bozorda Sulton o’g’rining yonida  
+====
+Sariboynikida yolg’oni fosh bo’lgan paytda
+++++
+Kalas bozorida shum bolani kimning o’g’li deb o’ylashadi?  
+====
+Sariboyning 
+====
+#Ashur qassobning 
+====
+Muhammad Sharifning 
+====
+Tursunboy qalamtaroshning
+++++
+“Shum bola” asarida Eshonbuvaning o’rtancha xotini nimaga boshiqorong’i bo’ladi?  
+====
+itning xurushiga  
+====
+#eshakning qulog’ini qimirlatishiga  
+====
+shum bolaning baland ovozda ashula aytishiga  
+====
+eshonning sassiq kovushini xidlashga
+++++
+Shum bolaning otasining ismini belgilang?  
+====
+#Mirza aka 
+====
+Zohid yakanchi  
+====
+Ziyamat aka  
+====
+Miraziz aka
+++++
+“Shum bola” asarida tsirkchi Yupatovni qizining ismini belgilang? 
+====
+Adol opa 
+====
+#Mayramxon  
+====
+Yaxshiqiz  
+====
+Risolat
+++++
+“Shum bola” asari da Salmon pokning dastgohi deb nimani atashgan?    
+====
+#Sartaroshlik jihozlari     
+====
+bo’z to’qiydigan dastgoh    
+====
+tandir     
+====
+baxmal to’qiydigan dastgoh
+++++
+G’.G’ulomning “Mening o’g’rigina bolam” hikoyasi va “Shum bola” qissasidagi mushtarak obrazlarni toping?   
+====
+#Ilhom samovarchi, Odilxo’ja   
+====
+Buvamat, Karimqori  
+====
+Odilxo’ja, Matyoqubboy  
+====
+Kampir, Machalov
+++++
+“Shum bola” asarida 40 yoshlardagi qo’shmachilikda ayblanib, xalq tomonidan olomon qilingan obrazni belgilang?  
+====
+#Rahmat hoji  
+====
+Oysha yallachi  
+====
+Xindi sarrof  
+====
+Mirsalim
+++++
+“Nur borki, soya bor” asari qahramoni Sherzod nima sababdan qattiq hayfsan olgan?
+====
+Tanqidiy maqola e’lon qilgani uchun      
+====
+tanqidiy feleton yozgani uchun      
+====
+#Gazetada navbatchilikda bir zavodning rejasida qat’iy xato ketganligi uchun        
+====
+Boshlig’ining iltimosini bajarmagani uchun
+++++
+“Nur borki, soya bor” asarida Sherzod Sayfi Soqievichning univermag direktori ekanligini kimdan eshitgan?
+====
+Sayfi Soqievichning o’zidan   
+====
+Doktor opadan  
+====
+#Professordan           
+====
+Sayfi Soqievichning xotinidan
+++++
+“Nur borki, soya bor” asari qahramoni Sayfi Soqievich nima sababdan bolasidan ayrilgandek motam tutdi?
+====
+#Jiyron oti to’satdan o’lib qolgani uchun    
+====
+Univermag direktorligidan bo’shatilgani uchun        
+====
+O’g’li Sirojiddin tavsiya qilgan oliygohiga o’qishga kirmagani uchun    
+====
+Kasali bedavo ekanligini eshitgandan so’ng
+++++
+“Nur borki, soya bor” asari qahramoni Faridaning otasi nima ish bilan shug’ullanar edi?
+====
+Institutda o’qituvchi edi      
+====
+#Harbiy shifokor edi      
+====
+Mashhur teatr artisti edi            
+====
+Mashhur amaldor edi
+++++
+“Nur borki, soya bor” asari qahramoni Zuxra Sherzod bilan ilk bor ko’rishganda nima sababdan sigareta chekayotgan edi?
+====
+Siqilgani sababli   
+====
+#Rolga kirishish uchun   
+====
+Zuxra chekishga yoshligidan odatlangan edi      
+====
+Ermak uchun chekayotgan edi
+++++
+“Nur borki, soya bor” asarida Sayfi Soqievichning xotini xamir ovqat qilishni kimdan o’rgangan?
+====
+#Uyg’ur xotindan  
+====
+Yoshligida onasidan  
+====
+Qaynonasidan 
+====
+Qo’shnisidan
+++++
+“Nur borki, soya bor” asarida Sayfi Soqievich kasalxonadan chiqqach, eng yaqin do’sti “Fabrikant” nima savg’a qiladi?
+====
+Tilla pichoq   
+====
+Semiz qo’chqor   
+====
+Chiroyli do’ppi   
+====
+#Oq rangli ot
+++++
+“Nur borki, soya bor” asarida onasining o’ynashi sababli badnom bo’lgan qiz ismini belgilang.
+====
+#Shoira   
+====
+Farida    
+====
+Zuxra    
+====
+Yelmira
+++++
+“Nur borki, soya bor” asarida professor Sherzod Samandarovning qaysi hikoyasini o’qiganini aytadi?
+====
+# “Operatsiya”     
+====
+“Tortishuv”      
+====
+“Kasalliklarning kelib-chiqishi”  
+====
+“Sog’lom bo’lish sirlari”
+++++
+“Nur borki, soya bor” asarida Sayfi Soqiyevichning o’g’li kim edi?    
+====
+#Sirojiddin      
+====
+Lutfulla      
+====
+Abduvohid     
+====
+Nazir
+++++
+“Mehrobdan chayon” romanida qaysi qahramon o’ta xasisligi bilan boshqa qahramonlardan ajralib turadi?     
+====
+Shahodat mufti   
+====
+Abdurahmon domla   
+====
+#Solih mahdum   
+====
+Safar bo’zchi
+++++
+“Mehrobdan chayon” romanida o’n ikki yoshga kirguncha 3 ta xonadonda yashashga muyassar bo’lgan qahramonni belgilang.    
+====
+Abdurahmon domla   
+====
+#Mirzo Anvar   
+====
+Ra’no    
+====
+Nozik
+++++
+“Mehrobdan chayon” romanida “Qush tilini qush bilar” maqoli kimlarga nisbatan qo’llanilgan?      
+====
+Anvar va Ra’noga    
+====
+#Nodira va Mohlaroyimga   
+====
+Nigoroyim va Nodiraga    
+====
+Nigoroyim va Ra’noga
+++++
+“Mehrobdan chayon” romanida Mirzo Anvar otasining ismini belgilang.       
+====
+Safar bo’zchi    
+====
+#Salim bo’yoqchi    
+====
+Komil sharbatdor  
+====
+Sultonali
+++++
+“Mehrobdan chayon” romanida Mirzo Anvarga o’g’lining xotirasi hurmatidan yordam bergan obrazni belgilang.    
+====
+#Muhammad Rajab poygachi     
+====
+Sultonali mirzo   
+====
+Shahodat mufti    
+====
+Xudoyorxon
+++++
+“Mehrobdan chayon” romanida Anvarning bolalikdagi do’sti ismini belgilang.   ====
+Salim   
+====
+#Nasim   
+====
+Abdurahmon   
+====
+Qobil
+++++
+ “Mehrobdan chayon” romanida Anvar va Ra’noning turmush qurishlarini kim birinchi bor taklif qilgan?    
+====
+Nigoroyim   
+====
+#Mohlaroyim    
+====
+Nodira    
+====
+Solih mahdum
+++++
+ “Mehrobdan chayon” romanida qo’llanilgan “Dunyodan qo’l yuvganchalik tili uzun kishi bo’lmas” satrlari muallifini toping.      
+====
+Lutfiy   
+====
+Jomiy   
+====
+Navoiy   
+====
+#Sa’diy 
+++++
+“Mehrobdan chayon” romani qahramoni Anvar oilasida nechanchi farzand bo’lib ьdunyoga kelgan?    
+====
+4      
+====
+5   
+====
+#6    
+====
+7     
+++++
+“Mehrobdan chayon” romanida Anvarga necha kunlik bo’lganida ism qo’yilgan?     
+====
+9 kunligida   
+====
+#22 kunligida   
+====
+40 kunligida    
+====
+Tug’ilishi bilan ism qo’yilgan
+++++
+Cho’lponning “Go’zal” she’rida Uyalib, boshini bukib javob qaytaradigan obrazni toping?    
+====
+Oy   
+====
+#Yorug’ yulduz   
+====
+Quyosh   
+====
+Shamol
+++++
+Cho’lponning “Qalandar ishqi” she’rida Cho’lpon yulduzi nima sababdan yerga botib ketayotganligini aytadi?    
+====
+Tong otganligi uchun   
+====
+#Quyoshning nuriga toqat qilolmagani uchun   
+====
+Tabiat qonuni sababli  
+====
+Halokat bo’lishini bilganligi uchun
+++++
+Cho’lponning  “Qalandar ishqi” she’rida shoir “Bu dunyo deb u dunyoni nima evaziga sotdim”, - deb nadomat chekadi?   
+====
+Katta amal evaziga   
+====
+Yorning visoliga   
+====
+#Bahosiz pulga    
+====
+Ijodi evaziga 
+++++
+Cho’lpon 1920-yilda kimning xotirasiga atab she’r yozgan?   
+====
+M.Gorkiyga   
+====
+#M.Behbudiyga   
+====
+I.Gaspirinskiyga   
+====
+Mullanur Vohidovga
+++++
+Cho’lpon o’z she’rlarida “qiz-malak” deb kim(nima)ga murojaat qiladi?    
+====
+Sevgan yoriga   
+====
+Go’zal qizga   
+====
+#Kapalakka   
+====
+Suv parisiga
+++++
+Cho’lponning mashhur “Uyqu” she’ri qaysi kuy ohangida yozilgan?   
+====
+# “Bormayman” kuyi ohangida   
+====
+“O’zgancha” kuyi asosida   
+====
+“Galdir” kuyi asosida   
+====
+“Cho’li Iroq” kuyi asosida
+++++
+Cho’lponning mashhur “Men va boshqalar” she’ri kimning tilidan yozilgan?    ====
+Xitoylik dehqon tilidan   
+====
+#O’zbek qizi og’zidan    
+====
+Chorakor dehqonlar tilidan   
+====
+O’zining joniga qasd qilayotgan yigit tilidan
+++++
+Cho’lponning mashhur “Xalq” she’ri nechanchi yilda yozilgan?   
+====
+1919 yilda   
+====
+1920 yilda   
+====
+#1921 yilda   
+====
+1922 yilda
+++++
+Cho’lponning “Buzulgan o’lkaga” she’riga javoban yozilgan “Tuzalgan o’lkaga” she’ri muallifini belgilang.    
+====
+U. Nosir     
+====
+#G’ayratiy  
+====
+Sotti Husayn   
+====
+Botu
+++++
+Cho’lponning qaysi she’riga “Talanmagan, yiqilmagan yer yo’q. Go’daklar nayza boshida” degan gazetadan olingan xabar epigraf qilib olingan?    
+====
+“Xalq” she’riga   
+====
+# “Yong’in” she’riga   
+====
+“Buzilgan o’lkaga” she’riga   
+====
+“Aldanish” she’riga 
+++++
+“Yulduzlar mangu yonadi” qissasida Zulfiqor polvonnikida bo’lgan sunnat to’yga odamlar 3 marta to’yga aytildi. Oxirgi marta to’yga odamlarni kim aytdi?    
+====
+#Zulfiqor polvon  
+====
+60 ta jarchi  
+====
+to’y bekasi  
+====
+bir otliq kishi
+++++
+“Yulduzlar mangu yonadi” qissasida kurashda Raisning o’g’li bilan kurashga kim chiqqan?   
+====
+Bo’ri polvon  
+====
+Shukur polvon  
+====
+#Ermat polvon  
+====
+Xotam polvon
+++++
+“Yulduzlar mangu yonadi” qissasida it yiqilish kimlar orasidagi jangda yuz berdi?  
+====
+Bo’ri polvon va Xotam polvon o’rtasida  
+====
+#Shukur polvon va Ermat polvon o’rtasida   
+====
+Tilovberdi polvon va Abray polvon o’rtasida   
+====
+Ro’zi polvon va Sadr polvon o’rtasida 
+++++
+“Yulduzlar mangu yonadi” qissasida Bo’ri polvon “poshikastalar” deb kimlarga murojaat qilgan?  
+====
+#ayollarga   
+====
+mag’lub bo’lgan polvonga  
+====
+g’olib bo’lgan polvonga  
+====
+g’irrom qilmoqchi bo’lgan polvonlarga
+++++
+“Yulduzlar mangu yonadi” qissasida Bo’ri polvon nima sababdan raisni yomon ko’rar edi?  
+====
+odil bo’lmagani uchun  
+====
+#buzug’oyoqligi uchun  
+====
+polvonlarga nisbatan yaxshi muomalada bo’lmagani uchun   
+====
+poraxo’rligi uchun
+++++
+“Yulduzlar mangu yonadi” qissasida Surxondaryolik polvonlarning barchasini yutgan Regarlik polvonning ismini belgilang    
+====
+Bo’ri polvon  
+====
+#O’tan polvon  
+====
+Abil polvon  
+====
+Ismoil polvon
+++++
+ “Yulduzlar mangu yonadi” qissasida Bo’ri polvonni rayon kattalari nima sababdan brigadir qilib tayinlashdi?  
+====
+halolligi uchun  
+====
+mardligi uchun  
+====
+tanish-bilishligi uchun   
+====
+#Surxondaryo orini talashgani uchun
+ ++++
+“Yulduzlar mangu yonadi” qissasida Nasim polvon bilan Momoqizning to’ylari qachon bo’lib o’tadi?  
+====
+kuzakda  
+====
+#olcha gullaganda 
+====
+paxta terimidan so’ng  
+====
+qishda
+++++
+“Yulduzlar mangu yonadi” qissasida Bo’ri polvonning shkafida nechta somovari bor edi?   
+====
+#2 ta   
+====
+3 ta  
+====
+4 ta   
+====
+hech qanday somovar yo’q edi
+++++
+“Yulduzlar mangu yonadi” qissasida “Qorong’i qanday yaxshi, odamlar ko’rmaydi...” Ushbu fikrni Bo’ri polvon qanday vaziyatda o’ylagan?   
+====
+Bolasini bag’riga bosgan Momoqizni to’yda ko’pchilikning ichida turib kuzatganda    
+====
+#Tilovberdi Abray polvonga yengilganda   
+====
+Nasim bilan Momoqizning to’yini odamlardan o’g’rincha kuzatganda  
+====
+Hadeb qiz farzand ko’rib odamlardan uyalganda
+ 
+++++
+“Oq kema” asarida qaysi gullar haqida quyidagi fikrlar bildiriladi: “To’lg’onadi, tiz cho’kadi, yer bag’irlab qoladi. Oyoqlari bo’lganda-yu, ehtimol, ko’z yetgan joygacha qochib qolisharmidi...”                                                                                                          ====
+supurgi o’tlar
+====
+#shiroljinlar  
+====
+pechak gullar  
+====
+hurkak gullar
+++++
+“Oq kema” asarida bola ushbu gaplarni nimaga qarata aytgan: “Sen uning gapiga ishonma, bobom unaqa emas. Uning sira shumligi yo’q, shuning uchun doim ustidan kulishgani kulishgan...”     
+====
+tuyaga  
+====
+tankka 
+====
+#portfeliga  
+====
+durbiniga
+++++
+“Oq kema” asarida kampirning birinchi erining ismini belgilang.                                                  
+====
+Yashnar  
+====
+#Tayg’ar  
+====
+Ko’katoy   
+====
+asarda ismi keltirilmagan
+++++
+“Oq kema” asarida bolaning o’gay otasi nima kasb bilan shug’ullangan?            
+====
+#shofyor  
+====
+matros  
+====
+o’rmonchi  
+====
+o’qituvchi
+++++
+“Oq kema” asarida kampirning aytishicha, qaysi tog’ etagida qo’y so’yib, qurbonlik keltirilsa, Yaratgan ularga farzand ato qiladi?                                                                    
+====
+Qorovultog’  
+====
+#Sulaymon tog’  
+====
+Olatog’   
+====
+Arslonbob tog’i
+++++
+“Oq kema” asarida o’z hayotini ko’rarga ko’zi yo’q, yomon ko’radigan odam kim?                                   
+====
+#Bo’key   
+====
+O’rozqul 
+====
+Mo’min chol 
+====
+kampir
+++++
+“Oq kema” asarida shohdor ona bug’ining go’shtini maydalayotganda bolaga qaerini uzatishadi?       
+====
+yuragini   
+====
+jigarini  
+====
+#buyragini  
+====
+bir bo’lak go’shtini
+++++
+“Oq kema” asarida Issiqko’lda yuradigan bug’ularning go’zalligiga  hatto nimalar(kimlar) ham hasad qilishar edi?                                                                                                           ====
+suluv qizlar   
+====
+#ko’kdagi yulduzlar  
+====
+tip-tiniq suvlar  
+====
+go’zal parilar
+++++
+“Oq kema” asarida bolaning nimasi Guljamolga juda yoqardi?                                                                
+====
+ko’zi   
+====
+#kiprigi   
+====
+sochlari  
+====
+lablari 
+++++
+“Oq kema” asarida “Ko’zi o’tkir-da bizning bolaning”, - ushbu fikr egasini belgilang                 
+====
+#kampir  
+====
+Bo’key   
+====
+Guljamol   
+====
+Seyidahmad
+++++
+"Ilm tog‘dagi do‘lana emas, o‘zi gullab,o‘zi pishsa, u anjir. Parvarish talab etadi"«Oltin zanglamas» romanida gi ushbu gap muallifini toping
+====
+Sodiq	
+====
+Sobiraxon
+====
+Mudir	
+====
+#Mirsalim
+++++
+"Odam bolasi kimga tilyog‘lamalik qilishga majbur bo‘lsa o‘shani yomon ko‘radi, ter to‘kib qo‘liga kiritgan muvaffaqiyati unda xasad uyg‘otadi". «Oltin zanglamas» romanida ushbu o‘xshatishlar kimga to‘g‘ri keladi?
+====
+Musharrafga	
+====
+Dilovarxo‘jaga
+====
+#Mirsalimga	
+====
+Sodiqqa
+++++
+"Hukumat xotin-qizlarni erkaklar bilan teng qilaman deb bekor urinadi, yigirmata xotinning aqli bir tovuqnikicha yo‘q.Bir ayolning g‘iybati qirqta eshakka yuk bo‘ladi".  Ushbu ahmoqona fikrlar kimga tegishli?
+====
+Mirsalim	
+====
+#Shukurov
+====
+Sadullayev	
+====
+Qobilov
+++++
+"Xaqiqat zoldir emas, nishabga dumalasa, u qirg‘iy qo‘nmas qiyadan ham o‘z joyini topadi"   Sodiq ushbu gaplarni qachon aytadi? (Eng to‘g‘ri javobni belgilang)
+====
+#Qamalgandan so‘ng.
+====
+Unga tuhmat qilishganda
+====
+Uni urushga olmaganda
+====
+"Ikrom otani g‘alamis degan" tuhmatini qo‘yganda
+++++
+"Jannatning chehrasida Sodiq hech qachon ko‘rmagan shunday joziba bor ediki, bunday joziba, odatda, odam borlig‘ini topganda paydo bo‘ladi" “Oltin zanglamas” romanida Sodiq qaysi paytda Jannatga nisbatan shunday fikrlarni hayolidan o‘tkazadi?
+====
+Uni birinchi marta ko‘rganda
+====
+Maratga ona bo‘lishga rozilik berganda
+====
+#Uni qamoqxonga ko‘rgani kelganda
+====
+Musharrafga uylanishga rozilik berganda
+++++
+"O‘zini bilgan odam uchun muhojirlik ham lagerday gap.Begona qo‘raga tushib qolgan itdek doim duming qisiq"  Yuqoridagi gap egasini toping
+====
+#Sodiq	
+====
+Mirsalim
+====
+Qodir	
+====
+Dilovarxo‘ja
+++++
+"Bu kurash istiqbol mash'ali uchun Bu-elning go‘dagi, choli,go‘zali..."
+«Oltin zanglamas» romanida keltirilgan ushbu parcha kimning qalamiga mansub?
+====
+#Maqsud Shayxzoda
+====
+Abdulla Avloniy
+====
+Erkin Vohidov
+====
+Sadiy Sheroziy
+++++
+"Bu yerda siyoh yo‘qligidan qonim bilan gugurt cho‘pida yozyapman.Men oddiy sovet kishisiman.  Maslagim yo‘lida halok bo‘lyapman!Qalbim tinch.Xayr do‘stlar! Biz yengamiz!"   “Oltin zanglamas” romanidaagi xat egasini toping.
+====
+Pushkariyov	
+====
+Sodiq
+====
+#Ovcharenko	
+====
+Bogun
+++++
+U hayotdagi o‘z burchini o‘tab bo‘lgan kishidek ko‘zini mangu yumgan edi.O‘z halokatini bilgandek, qo‘ynidagi bir parcha qog‘ozga shunday yozilgan edi: "   ……….nemis tili o‘qituvchisi"
+Nuqtalar o‘rniga yozilishi kerak bo‘lgan ismni toping.
+====
+Ovcharenko	
+====
+#Vadim Todorovich
+====
+Andrey	
+====
+Galelio
+++++
+"Bahor maysasiday moylovi sabza urgan, quralay ko‘zlarida bahor quyoshi
+yashiringan,bo‘ydor va miqti vujudidan o‘smirlik kamoloti gurkirab turgan.."obraz ko‘rsatilgan qatorni belgilang.
+====
+Sodiq	
+====
+Qodir	
+====
+Po‘lat	
+====
+#Marat
+++++
+“Devoni Hikmat” asaridagi she’rlarning birida Yassaviy kimlar yoki nima sababli yer ostiga kirib yashaganligini aytib o‘tgan?      
+====
+Xaloyiqdan bezganligi uchun     
+====
+#Nodonlardan bezgani uchun    
+====
+Podshohlardan bezgani uchun     
+====
+Ko‘proq ibodat qilish maqsadida 
+++++
+“Devoni Hikmat” asaridagi “... bo‘lg‘il, olam seni bosib o‘tsin” satridagi nuqtalar o‘rniga mos so‘zni belgilang.     
+====
+Tog‘   
+====
+#Tufrog‘    
+====
+Suv   
+====
+Kamtar   
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida Ahmad Yassaviy qancha hikmat aytganligini keltirgan?     
+====
+240 ta  
+====
+250 ta   
+====
+#4400 ta  
+====
+1000 dan ortiq
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida Ahmad Yassaviy Arslonbob ota bilan necha yoshga kirganda ilk bor uchrashganini aytadi?    
+====
+5 yosh   
+====
+#7 yosh     
+====
+10 yosh   
+====
+15 yosh
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida Ahmad Yassaviy nima uni xor aylab, xaloyiqqa termultirib qo‘yganligini ta’kidlab o‘tgan?   
+====
+#Nafs   
+====
+Rizq   
+====
+Amal    
+====
+Mansab
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida Ahmad Yassaviy necha yoshga kirganda huru g‘ilmon unga ta’zim qilganligini ta’kidlaydi?   
+====
+10 yoshda   
+====
+13 yoshda  
+====
+#15 yoshda   
+====
+18 yoshda
+++++
+“Devoni Hikmat” asari she’rlarining biridagi nuqtalar o‘rniga mos keluvchi payg‘ambarlar ismini belgilang.
+... bu boshimga arrasiga qo‘ysam,
+... bu tanimga qurtlar solsam,
+... Tur tog‘ida toat qilsam,
+Bu ish birla, bu ish birla Yorab seni topg‘aymanmu?
+====
+Ayyub, Zikriyo, Iso     
+====
+#Zikriyo, Ayyub, Muso   
+====
+Ibrohim, Ayyub, Muhammad   
+====
+Ismoil, Ayyub, Muhammad
+++++
+“Devoni Hikmat” asari she’rlarining biridagi nuqtalar o‘rniga mos keluvchi payg‘ambarlar ismini belgilang.
+... daryo ichra baliq bo‘lsam,
+... quduq ichra vatan qilsam,
+... Yusuf uchun ko‘p yig‘lasam,
+Bu ish birla, Yorab, seni topg‘aymanmu?
+====
+#Yunusdek, Yusufdek, Yoqubdek     
+====
+Musodek, Isodek, Yoqubdek    
+====
+Yunusdek, Musodek, Odam Atodek   
+====
+Musodek, Yusufdek, Yoqubdek 
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida Ahmad Yassaviy kimlarni shaytonning so‘ziga qattiq kirganliklari uchun yer yutganligini aytib o‘tgan?   
+====
+#Fir’avn va Qorunni   
+====
+Sudxo‘r va ikkiyuzlamachi odamlarni    
+====
+Fir’avn va g‘ayridinlarni    
+====
+Qorun va Rasulimiz dushmanlarini  
+++++
+“Devoni Hikmat” asaridagi she’rlarining birida “To‘rt oyoqli cho‘bin ot” deb Ahmad Yassaviy nimani nazarda tutgan?    
+====
+#Anbarni   
+====
+Beshikni   
+====
+Taxtni   
+====
+Shaytonni
 
-#Iqtisodiyot nazariyasi
+Muhammad Ali. “Ulug‘ saltanat”
+++++
+ “Ulug‘ saltanat” romanida asosiy syujet qaysi tarixiy shaxs atrofida kechadi?  
+====
+    Jahongir  
+====
+   # Amir Temur 
+==== 
+    Jaloliddin Manguberdi 
+==== 
+    Bobur  
+   
+++++
+Romanda Amir Temur qanday xislatlari orqali yetakchi sifatida tasvirlanadi?  
+====
+    Faqat jangovarlik va shafqatsizlik  
+====
+   # Donishmandlik, adolat va strategik fikrlash  
+====
+    Ijodkorlik va san’atkorlik  
+====
+    Diniy ta’sir va tasavvuf  
 
-	
-	
-14-MAVZU. MILLIY IQTISODIYOT VA UNING MAKROIQTISODIY O‘LCHAMLARI. YALPI ICHKI MAHSULOT VA UNING HARAKAT SHAKLLARI
-1. Makroiqtisodiyot  - bu …
-+A) butun milliy va jahon iqtisodiyoti.
-B) iqtisodiyotning davlat sektori;
-C) iqtisodiyotning kooperativ sektori;
-D) xalq xo‘jaligi darajasidagi iqtisodiyot;
-2. Yalpi milliy mahsulot tushunchasi:
-+A) mamlakat miqyosida bir yil davomida ishlab chiqarilgan pirovard mahsulot va ko‘rsatilgan hizmatlarning bozor narxida hisoblangan hajmi
-B) yangidan vujudga keltirilgan qiymat;
-C) oraliq mahsulotlar qiymati;
-D) yil davomida moddiy ishlab chiqarish sohalarida yaratilgan barcha mahsulotlar qiymati;
-3. Pirovard mahsulot tushunchasi:
-+A) tayyor bo‘lgan, sotilgan yoki sotiladigan tovar va hizmatlarning bozor narxidagi hajmi;
-B) qayta ishlanadigan mahsulot;
-C) sotish maqsadida harid qilinadigan tovarlar;
-D) ishlov beriladigan mahsulot;
-4. Quyidagi tengliklardan qaysi biri to‘g‘ri.
-+A) YAMM - amortizasiya = SMM;
-B) YAMM - sof eksport = SMM;
-C) YAMM - egri soliqlar = SMM;
-D) YAMM - joriy moddiy xarajatlar = SMM;
-5. Quyidagi tengliklardan qaysi biri to‘g‘ri.
-+A) SMM - egri soliqlar = milliy daromad;
-B) SMM - amortizasiya = milliy daromad;
-C) SMM - ish haqi milliy = daromad;
-D) SMM to‘g‘ri soliqlar = milliy daromad;
-6. Nominal YAMM qanday usul bilan real YAMMga aylantiriladi.
-+A) nominal YAMM narx indeksi;
-B) nominal YAMM real YaMMiga taqqoslab;
-C) nominal YAMM / joriy narxlar;
-D) nominal YAMM / doimiy narxlar;
-7. Nominal YAMM nima.
-+A) YAMMining joriy narxlarda hisoblanishi;
-B) ishlab berish, qayta ishlash va qayta sotish maqsadlarida sotib olingan mahsulotlar;
-C) YAMMning ishlab chiqarish, taqsimlash va undan foydalanishning rasmiy hisob-kitoblardan yashirin qism;
-D) ulgurji va chakana narxlarda hisoblangan YAMM;
-8. Narx indeksi qanday hisoblanadi.
-+A) iste’mol tovarlarining joriy yildagi narxini bazis yildagi iste’mol tovarlari narxiga taqqoslash orqali;
-B) nominal YAMM hajmini real YAMM hajmiga ko‘paytmasi olinadi;
-C) YAMMdan yillik amortizasiya summasining ayirmasi;
-D) YAMMdan sof eksport ayirmasi;
-9. Makroiqtisodiy ko‘rsatkichlar
-+A) YAMM, SMM, MD, ishsizlik, inflyasiya, bandlik
-B) YAMM, SMM, ishsizlik, inflyasiya, bandlik
-C) YAMM, SMM, MD, ishsizlik, inflyasiya
-D) YAMM, SMM, MD, ishsizlik, bandlik	
-10. YAMM ni hisoblash usullari
-+A) daromadlar bo‘yicha, harajatlar bo‘yicha, qo‘shilgan qiymat bo‘yicha
-B) daromadlar bo‘yicha, harajatlar bo‘yicha 
-C) harajatlar bo‘yicha, qo‘shilgan qiymat bo‘yicha
-D) nominal YAMM / doimiy narxlar va qo‘shilgan qiymat bo‘yicha
+++++
+  Roman syujetida Amir Temurning qaysi yurishi markaziy o‘rin egallaydi?  
+====
+    Xitoy yurishi  
+====
+    Hindiston yurishi 
+==== 
+   # Movarounnahrni birlashtirish  
+====
+    Rumga yurish  
 
-15-MAVZU. YALPI TALAB VA YALPI TAKLIF
-1. Quyidagi qaysi iqtisodiy ko‘rsatkich YAMM hajmiga kirmaydi.
-+A) import tovarlar;
-B) eksport tovarlar;
-C) amortizasiya ajratmasi;
-D) SMM;
-2. Quyidagilardan qaysi biri yalpi talab tarkibiga kirmaydi.
-+A) barcha aholi jamg‘armalari;
-B) davlat sarflari;
-C) investision sarflar;
-D) iste’molchilik sarflari;
-3. Yalpi taklif egri chiziqining qaysi kesmasida ishlab chiqarish hajmi o‘zgarmaydi.
-+A) tik kesmada;
-B) oraliq va yotiq kesmada;
-C) oraliq kesmada;
-D) yotiq kesmada;
-4. Qaysi omil aholi iste’moli va pul jamg‘armalari darajasini belgilaydi.
-+A) shaxsiy daromad;
-B) soliqlar darajasi;
-C) foiz stavkasi;
-D) milliy daromad;
-5. Shaxsiy daromad 65000 so‘m bo‘lib, uning 52000 so‘mi iste’molga ketsa, iste’molga o‘rtacha moyillik necha foizni tashkil etadi.
-+A) 80%;
-B) 100%;
-C) 85%;
-D) 90%;
-6. 65000 so‘m shahsiy daromaddan 13000 so‘mi jamg‘arma sifatida ishlatilsa, jamg‘armaga o‘rtacha moyillik necha foizni tashkil etadi.
-+A) 20%;
-B) 100%;
-C) 50%;
-D) 25%;
-7. Yalpi talab bu 
-+A) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga talabning umumiy hajmi 
-B) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga talabning umumiy hajmi
-C) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
-D) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
-8. Yalpi taklif bu 
-+A) mamlakatda muayyan vaqtda ishlab chiqarilib, narxlarning muayyan darajasida sotishga tayyor tovarlar va xizmatlar hajmi
-B) ijtimoiy nafliligi bo‘yicha yalpi talabga mos tovarlar
-C) barcha iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
-D) individual iste’molchilar tomonidan narxlarning muayyan darajasida sotib olinishi mumkin bo‘lgan tovarlar va xizmatlarga taklifning umumiy hajmi
-9. Yalpi talab hajmiga narxdan tashqari ta’sir etuvchi omillar
-+A) iste’molchi sarflari o‘zgarishi, investision sarflar, davlat sarflari, sof eksportdagi o‘zgarishlar
-B) iste’molchi sarflari o‘zgarishi, davlat sarflari, sof eksportdagi o‘zgarishlar
-C) iste’molchi sarflari o‘zgarishi, investision sarflar, sof eksportdagi o‘zgarishlar
-D) iste’molchi sarflari o‘zgarishi, investision sarflar, davlat sarflari
-10. Yalpi taklif hajmiga narxdan tashqari ta’sir etuvchi omillar
-A) resurslar narxini o‘zgarishi, saramadorlikni o‘zgarishi, huquqiy me’yorlar o‘zgarishi
-B) iste’molchi sarflari o‘zgarishi, davlat sarflari, sof eksportdagi o‘zgarishlar
-C) iste’molchi sarflari o‘zgarishi, investision sarflar, sof eksportdagi o‘zgarishlar
-D) saramadorlikni o‘zgarishi, huquqiy me’yorlar o‘zgarishi
+++++
+ Romanda Amir Temurning eng muhim ittifoqchilaridan biri kim edi? 
+==== 
+    Xo‘ja Ahmad Yassaviy 
+==== 
+   # Sayfiddin Boxarziy  
+=====
+   To`xtamishxon
+====  
+    Ulug‘bek  
+   
+++++
+“Ulug` saltanat” asarining birinchi kitobi qanday nomlanadi?  
+====
+   # Jahongir Mirzo
+====  
+   Shohruh Mirzo
+====  
+   Umarshayx Mirzo 
+==== 
+  Ulug`bek Mirzo 
+  
+++++  
+ “Ulug‘ saltanat” romanida tasvirlangan asosiy ziddiyat nima? 
+==== 
+    Temur va Xitoy imperatori o‘rtasidagi kurash  
+====
+   # Ichki nizolar va tashqi dushmanlarga qarshi kurash  
+====
+    Oilaviy kelishmovchiliklar  
+====
+    Diniy aqidalar o‘rtasidagi to‘qnashuv  
+  
+++++
+ Romanda Amir Temurning qaysi qarori uning strategik qobiliyatini yaqqol ko‘rsatadi? 
+==== 
+   # Samarqandni poytaxt qilish  
+====
+    Xorazmga yurish  
+====
+    Ilmiy muassasalarni qurish 
+==== 
+    Xalqdan soliq yig‘ish  
+  
+++++
+ Romanda Amir Temurning shaxsiy hayotidagi qaysi voqea uning insoniy tomonini ochib beradi?  
+====
+   # O‘g‘li Jahongirning o‘limi 
+==== 
+    Xalq bilan uchrashuvlari  
+====
+    Urushdagi g‘alabalari  
+====
+    Dushmanlarni mag‘lub etishi  
+  
+++++
+Romanda Amir Temurning dushmanlaridan biri sifatida kim tasvirlanadi?  
+====
+   # To‘xtamish  
+===
+   Chingizxon 
+====
+Xorazmshoh    
+==== 
+    Ulug‘bek
+  
+  ++++
+ “Ulug‘ saltanat” romani qanday adabiy uslubda yozilgan?  
+====
+    # Realizm  
+====
+    Romantizm 
+==== 
+     Modernizm  
+====
+     Simvolizm  
 
-16-MAVZU. ISTE’MOL VA JAMG‘ARMA, INVESTITSIYALAR
-1. Jamg‘arish normasi qanday aniqlanadi.
-+A) jamgarish fondining butun milliy daromad hajmiga nisbatining foizdagi ifodasi;
-B) shahsiy daromadning iste’mol darajasiga nisbatining foizdagi ifodasi;
-C) milliy daromad o‘sgan hismining investision sarflar summasiga nisbatining foizdagi ifodasi;
-D) aholi umumiy daromadlarining tirikchilik ne’matlari va hizmatlar uchun ishlatiladigan qismi;
-2. Respublikamiz iqtisodiyotiga chet el investisiyalarini olib kirilishi uchun qanday siyosat olib borilmoqda.
-+A) cheklovlarni qisqartirish va ochiq eshiklar siyosati;
-B) tabaqalashgan boj olish siyosati;
-C) aholining ishonchli sug‘urta bilan himoyalangan siyosat;
-D) soliq sohasida chegaralangan imtiyozlar siyosati;
-3. Jamiyatning jahon sivilizasiyasiga keng ko‘lamda integraciyalashuvi iqtisodiyotimizga investisiyalar olib kirish uchun qanday huquqiy asoslar yaratilgan.
-A) soliq sohasida ham imkoniyatlar berilganligi va chet el sarmoyalari ishonchli sug‘urta bilan himoyalanganligi;
-+B) horijiy investorlarga qonuniy faoliyat natijasida olingan foydaning hammasi hech bir cheklovsiz chet el valyutasida chet elga o‘tkazishning kafolatlanishi;
-C) davlat mulkini hususiylashtirish jarayonida, erkin qatnashish huquqining cheklanmaganligi;
-D) O‘zbekiston Respublikasida horijiy investisiyalarning ijtimoiylashtirilishi;
-4.  Emitent kim.
-+A) kapitalni jalb qilish maqsadida qimmatli qog‘ozlarni muomalaga chiqargan shahs;
-B) aksiyalar bilan oldi-sotdi qiluvchilar;
-C) qimmatli qog‘ozlar bozorining ishtirokchisi;
-D) veksellarni qayta rasmiylashtiruvchi shahs;
-5. Innovatsiya - ...
-+A) iqtisodiyotga yangi tehnika-tehnologiyalarni ishlab chiqarish uchun mablag‘larni yo‘naltirishi;
-B) eksport uchun mablag‘larni yo‘naltirish;
-C) kredit berish;
-D) xalq xo‘jaligi tovarlari importini kuchaytirish;
-6. Pirovard mahsulot tushunchasi:
-+A) tayyor bo‘lgan, sotilgan yoki sotiladigan tovar va hizmatlarning bozor narxidagi hajmi;
-B) qayta ishlanadigan mahsulot;
-C) sotish maqsadida harid qilinadigan tovarlar;
-D) ishlov beriladigan mahsulot;
-7.Iste’mol bu:
-+A) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
-B) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
-C) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
-8. Unumli iste’mol bu:
-+A) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
-B) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
-C) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
-9. Shaxsiy iste’mol bu:
-+A) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
-B) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
-C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
-10. Iste’molchilik sarflari bu:
-+A) Aholi daromadlarining tirikchilik ne’matlari va xizmatlar uchun ishlatiladigan qismi;
-B) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish;
-C) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+   Nazar Eshonqul.  “Urush odamlari” qissasidan test 
+++++
+ “Urush odamlari” qissasida asosiy syujet qanday mavzu atrofida kechadi?  
+====
+    Insonning ichki erkinlikka intilishi 
+==== 
+   # Urushning inson ruhiyatiga ta’siri va ma’naviy iztiroblar  
+====
+   Milliy o‘zlikni anglash  
+====
+    Tabiat va inson uyg‘unligi  
 
-17-MAVZU. IQTISODIY TARAQQIYOT, IQTISODIY O`SISH VA MILLIY BOYLIK
-1. Ekstensiv iqtisodiy o‘sishga qanday erishiladi.
-+A) ishlab chiqarish omillari miqdorining ko‘payishi tufayli
-B) sifat jihatdan ishlab chiqarish omillarini takomillashtirish;
-C) korxonada ishchi kuchiga yuqori darajada ish haqi to‘lash
-D) talab va taklifning muvozanatlashuvidan
-2. Intensiv iqtisodiy o‘sishga qanday erishiladi.
-A) ishchi kuchi malakasini oshirish.
-+B) sifat jihatdan ishlab chiqarish omillarini takomillashtirish, ishlab chiqarish samaradorligini oshirish, yangidan foydalanish.
-C) korxonada ishlab chiqarish vositalaridan unumli foydalanish.
-D) yangi yerlarni ochish.
-3.  Milliy boylik nima.
-+A) barcha davrlarda yaratilgan va jamg‘arilgan moddiy va ma’naviy boyliklar hamda foydalanishga jalb qilingan tabiat boyliklari;
-B) ashyoviy buyum ko‘rinishiga ega bo‘lmagan nomoddiy qimmatliklardan va insoniyatning intellektual salohiyati natijalaridan iborat;
-C) yalpi ijtimoiy mahsulotning yangidan hosil qilingan va uning qiymatda ifodalanadigan qismidir;
-D) faqat tabiat resurslari majmuining qiymat shaklidir;
-4. Ekologik muammolarning kelib chihishidagi tub sabablar asosan nimalardan iborat.
-+A) mamlakatda ITT va demografik omilga, atrof-muhitga to‘ralarcha munosabati;
-B) demografik omil, oziq-ovqat va ichimlik suvining tanhisligidir;
-C) respublikada ilmiy-tehnika taraqqiyoti, qurollanish poygasidan;
-D) mustamlakachilik siyosatidan;
-5. Tabiat resurslarining kamayib ketishiga qanday sabablar mavjud.
-+A) respublikada ITT va demografik omilga, atrof-muhitga to‘ralarcha munosabat;
-B) demografik omil, oziq-ovqat va ichimlik suvining tanqisligi;
-C) mamlakatda ilmiy-tehnika taraqqiyoti, qurollanish poygasi;
-D) mustamlakachilik siyosati;
-6. Quyidagi qaysi bir holat «pinhoniy» bozorga hos.
-+A) qurol, narkotik moddalar oldi-sottisi, valyuta bilan noqonyniy shug‘ullanish, 
-B) narkotik moddalar bilan oldi-sotdi qilish;
-C) valyuta bilan chayqovchilik qilish;
-D) qurol bilan savdo qilish;
-7. Quyidagi nisbatlardan qaysi biri inflyatsion farqni ifodalaydi.
-+A) SMM<yalpi sarflar;
-B) SMM=yalpi sarflar;
-C) SMM >yalpi sarflar;
-D) SMM< yalpi talab;
-8. Quyidagi nisbatlardan qaysi biri retsession farqni ifodalaydi.
-+A) SMM>yalpi sarflar;
-B) SMM<yalpi taklif;
-C) SMM>yalpi taklif;
-D) SMM<yalpi talab;
-9. Iqtisodiy taraqqiyot nima?
-+A) Iqtisodiyotni ma’lum bir tomonga ya’ni pastdan yuqoriga, oddiydan murakkablikka qarab to`lqinsimon harakat;
-B) YaIMni aholi jon boshiga ko`payishi;
-C) Qo`shimcha mahsulot miqdorini ko`payishi;
-D)Fan texnika va texnologiyalar tarqqiyoti.
-10. Iqtisodiy o`sishning yangi klassik nazariyalari asoschilari:
-+A) A.Marshall, L.Valras va M.Fridma;
-B) A.Smitt, D.Rikardo, V.Petti;
-C) F.Kene, A.Monkretyen, D.Kens;
-D) R.Xarrod, Y.Domar,
+++++
+ Hikoyada “urush odamlari” atamasi qanday ma’noda ishlatiladi?  
+====
+    Faqat jangchilarni ifodalaydi  
+====
+  #  Urushdan ta’sirlangan barcha odamlar, shu jumladan, tinch aholini  
+==== 
+    Siyosiy rahbarlarni tasvirlaydi 
+==== 
+    Urushda g‘alaba qozongan qahramonlarni bildiradi  
+ ++++
+ Qissada qaysi obrazlarning ruhiy holati keng yoritilgan?  
+==== 
+# Normat va Anzirat
+==== 
+Biydi momo va Mirzaqul
+====
+Shermurod polvon
+====
+Faqat Anziratning
 
-18-MAVZU. MILLIY IQTISODIYOTNING MUVOZANATI VA MUTANOSIB RIVOJLANISHI
-1.Iqtisodiyotni yaxlit tizim sifatida samarali amal qilishi nimaga bog’liq
-+A) uning tarkibiy qismlari o’rtasidagi muvozanatlik va mutanosiblikka 
-B) aholini o’sib boruvchi talabini qondirishga 
-C) narxlarni barqaror darajasiga
-D) ijtimoiy himoyaga
-2.Iqtisodiy muvozanat nima 
-+A) bir-biri bilan o’zaro bog’liqlikda va ta’sirda amal qiladigan iqtisodiy jarayon, hodisalarning qarama-qarshi tomonlarini teng kelishi
-B) tabiat, jamiyat va iqtisodni tomonlarini teng kelishi
-C) iqtisodiy o’sish va bandlikni bir-biriga mosligi
-D) davlat xaridi va investitsion sarflar qiymati
-3.Qamrab olish darajasiga ko’ra muvozanat turlari
-+A) umumiy va xususiy
-B) makroiqtisodiy va dinamik
-C) mikroiqtisodiy va statik
-D) qisqa muddatli va uzoq muddatli
-4.Iqtisodiy muvozanatni ta’minlashda qanday balanslardan foydalaniladi
-+A) moddiy, qiymat va ishchi kuchi
-B) moddiy va pul
-C) natural va qiymat
-D) ishchi kuchi va pul
-5.Tarmoqlararo mutanosiblik bu-…
-+A) sanoatning undirish va qayta ishlash o’rtasidagi; qishloq xo’jaligida dehqonchilik va chorvachilik o’rtasidagi mutanosiblik
-B) ishchi kuchi va ishlab chiqarish vositalari o’rtasidagi mutanosiblik
-C) hududlararo ijtimoiy infratuzilma ob’ektlari o’rtasida mutanosiblik
-D) qishloq xo’jaligi va transport o’rtasidagi mutanosiblik
-6.Ishlab chiqarish ichidagi mutanosiblik
-+A) ishchi kuchi va ishlab chiqarish vositalari o’rtasidagi mutanosiblik
-B) iste’mol va jamg’arma o’rtasidagi mutanosiblik
-C) qishloq xo’jaligi va transport o’rtasidagi mutanosiblik
-D) aholi daromadlari va harajatlari o’rtasidagi mutanosiblik 
-7. Umum iqtisodiy mutanosiblik bu:
-+A) Istemol fondi va jamg`arma fondi o`rtasidagi tovar-xizmatlar massasi bilan pul massasi o`rtasidagi mutanosiblik;
-B) Sano’atning undirish va qayta ishlash o`rtasidagi, qishloq ho`jaligida dehqonchilik va chorvachilik o`rtasidagi mutanosiblik;
-C) Hududlararo ijtimoiy infra tuzilma obyektlari o`rtasidagi mutanosiblik;
-D) Qishloq ho`jaligi va tgransport o`rtasidagi mutanosiblik.
-8. Tarmoqlararo balans bu:
-+A) Kengaytirilgan takror ishlab chiqrish jarayonini ifodolovchi iqtisodiy-matematik model;
-B) Ma’lum davr davomida muayyan mamlakatdagi pul tushumlari bilan chet mamlakatlarga barcha pul to`lovlari o`rrtasidagi tenglikni ifodolovchi ko`rsatkichlar tizimi;
-C) Mavjud ishchi kuchi resurslari va ulardan foydalanishning tenglikni ifodolovchi ko`rsatkichlar tizimi;
-D) Zaruriy mahsulotni pul ko`rinishini olgan asosiy qismi, harakatini aks ettiruvchi ko`rsatkichlar tizimi.
-9. To`lov balansi bu:
-+A) Ma’lum davr davomida muayyan mamlakatdagi pul tushumlari bilan chet mamlakatlarga barcha pul to`lovlari o`rrtasidagi tenglikni ifodolovchi ko`rsatkichlar tizimi;
-B) Mavjud ishchi kuchi resurslari va ulardan foydalanishning tenglikni ifodolovchi ko`rsatkichlar tizimi;
-C) Zaruriy mahsulotni pul ko`rinishini olgan asosiy qismi, harakatini aks ettiruvchi ko`rsatkichlar tizimi;
-D) Kengaytirilgan takror ishlab chiqrish jarayonini ifodolovchi iqtisodiy-matematik model;
-10. Ishchi kuchi resurslari balansi bu:
-A) Iste’molchilik tavsifidagi ne’matlar va xizmatlardan bevosita foydalanish
-+B) Ishlab chiqarish jarayonida ishlab chiqarish vositalari va ishchi kuchidan foydalanish;
-C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
+++++
+     Qissada qaysi badiiy vosita asosiy hisoblanadi?
+====  
+    Satira va hajv  
+====
+   # Psixologik tasvir va ichki monolog  
+====
+    Romantik ramziylik  
+====
+    Epik tasvirlar  
+   
+++++
+Qissada urushning inson ongiga ta’siri qanday ko‘rsatiladi?  
+====
+    Faqat jismoniy azoblar orqali  
+====
+  # Asabiy holatlar, g‘animlik va ma’naviy yo‘qotishlar orqali  
+====
+    Iqtisodiy qashshoqlik orqali 
+==== 
+    Diniy ziddiyatlar orqali  
+  
+++++
+ Qissada qahramonlarning ichki ziddiyatlari qanday ifodalanadi?  
+====
+    Dialoglar orqali 
+==== 
+   # Retrospektiv syujet va tasviriy obrazlar orqali 
+==== 
+    Faqat ramziy tasvirlar orqali  
+====
+    Satirik tasvirlar orqali  
+   
+++++
+ Qissada urushning qaysi oqibati eng muhim sifatida ta’kidlanadi?  
+====
+    Iqtisodiy yo‘qotishlar  
+====
+  # Insoniy qadriyatlarning yo‘qolishi  
+====
+    Harbiy mag‘lubiyat  
+====
+    Siyosiy o‘zgarishlar  
+   
+++++
+Qissada modernistik uslub qanday namoyon bo‘ladi?  
+====
+    To‘liq syujetli hikoya orqali  
+====
+   # Ong oqimi va ramziy tasvirlar orqali  
+====
+    Klassik realizm orqali
+====  
+    Romantik ideallar orqali  
+   
+++++
+ Qissada qahramonlarning taqdiri qanday umumlashtiriladi? 
+==== 
+    Ular g‘alabaga erishadilar  
+====
+  #  Ular ma’naviy iztiroblar, fojialar girdobida qoladilar
+====  
+    Ular jamiyat tomonidan tan olinadilar  
+====
+    Ular o‘z maqsadlariga erishadilar 
+++++
+10. Qissaning asosiy g‘oyasi nima sifatida talqin qilinadi?  
+====
+     Milliy o‘zlikni himoya qilish  
+====
+   #  Urushning inson ruhiyatiga doimiy ta’siri va yo‘qotishlar  
+====
+     Ijtimoiy tenglik uchun kurash  
+====
+     Tabiiy muhitni saqlash  
+   Nazar Eshonqul. “Maymun yetaklagan odam” hikoyasi 
+++++
+ “Maymun yetaklagan odam” hikoyasida asosiy syujet qaysi obraz atrofida kechadi?  
+====
+    Yosh yigit va uning hayoti 
+==== 
+   # Chol va uning suratlari  
+====
+    Maymun va uning ramziy ma’nosi
+====  
+    Uy bekasi va uning hayoti 
+ 
+++++
+ Hikoyada chol obrazi qanday ma’noda tasvirlanadi? 
+==== 
+    Ma’naviy barqarorlik timsoli sifatida  
+====
+   # Hayotdan umidsizlikka tushgan, yolg‘iz shaxs sifatida  
+====
+    Jamiyat tomonidan tan olingan rassom sifatida 
+==== 
+    Siyosiy faol sifatida 
+ 
+  ++++
+ Hikoyada “maymun yetaklagan odam” metaforasi nimani anglatadi?  
+====
+    Insonning hayvoniy instinktlariga qaytishi  
+====
+   # Inson hayotining boshqarilmasligi va taqdirning betartibligi 
+==== 
+    Jamiyatning insonni boshqarishi  
+====
+    Yoshlik va keksalik o‘rtasidagi ziddiyat  
+   
+++++
+ Hikoyada cholning suratlari qanday ramziy ma’noga ega? 
+==== 
+    Uning shon-shuhrat izlanishi  
+====
+   Hayotining fasllari va o‘tmishidagi xotiralar 
+==== 
+    Jamiyatdagi ijtimoiy tengsizlik  
+====
+    Tabiatning go‘zalligi  
+   
+++++
+ Hikoyada uy bekasining roli qanday tasvirlanadi?  
+====
+    Asosiy qahramon sifatida  
+====
+   # Tabiiy shafqat va insoniy mehr ramzi sifatida  
+====
+    Adolatsizlikka qarshi kurashuvchi sifatida  
+====
+    Siyosiy faol sifatida  
+  
+++++
+ Hikoyada modernistik uslub qanday namoyon bo‘ladi? 
+==== 
+    To‘liq syujetli hikoya orqali 
+==== 
+   # Bitta metaforaga asoslangan ramziy tasvirlar orqali  
+====
+    Klassik realizm orqali  
+====
+    Romantik ideallar orqali  
+   
+++++
+ Hikoyada cholning gaplari narratorga qanday ta’sir qiladi?  
+====
+    Uni ilhomlantiradi  
+====
+   # Uni ma’naviy iztiroblarga soladi 
+==== 
+    Uni jamiyatga qarshi chiqishga undaydi 
+==== 
+    Uni san’atga yaqinlashtiradi  
+   
+++++
+ Hikoyada qaysi tasvir insonning yolg‘izligini ta’kidlaydi? 
+==== 
+    Cholning suratlari  
+====
+   # Yolg‘izlikning quyuq o‘rmoni  
+====
+    Maymun obrazi  
+====
+    Uy bekasining harakatlari  
+  
+++++
+ Hikoyada inson taqdiri qanday talqin qilinadi? 
+==== 
+    Inson o‘z taqdirini o‘zi boshqaradi  
+====
+   # Taqdir insonni o‘z yo‘nalishiga majbur qiladi  
+====
+    Inson jamiyat qurboni sifatida ko‘rsatiladi  
+====
+    Taqdir faqat ijtimoiy sharoitlarga bog‘liq  
+  
+++++
+ Hikoyaning asosiy g‘oyasi nima sifatida talqin qilinadi? 
+==== 
+     Insonning o‘z umrini rassom sifatida chizishi 
+==== 
+    # Jamiyatning inson taqdiriga ta’siri  
+====
+     Ma’naviy erkinlikka erishish  
+====
+     Ijtimoiy adolat uchun kurash  
+    Said Ahmad. “Jimjitlik” romanidan test.
++++
+ “Jimjitlik” romanida asosiy syujet qaysi davr muhitida kechadi? 
+==== 
+    Mustaqillik yillari  
+====
+   # Sovet tuzumi turg‘unlik davri  
+====
+    XX asrning o`rtalari  
+====
+    Ikkinchi jahon urushi davri  
+   
+++++
+Romanda asosiy qahramon Tolibjon qanday tasvirlanadi? 
+==== 
+    Kolxoz raisi sifatida  
+====
+   # Uzoq yillar vatanidan olisda yashagan olim  
+====
+    Siyosiy faol sifatida  
+====
+    Shoir va ma’rifatparvar sifatida  
+   
+++++
+Romanda “Jimjitlik” so‘zi qanday ramziy ma’noga ega?  
+====
+    Moddiy boyliklarning yo‘qolishi  
+====
+  # Ichki tinchlik va adolat izlanishi  
+====
+    Siyosiy barqarorlik  
+====
+    Oilaviy uyg‘unlik  
+   
+++++
+ Romanda Mirvali obrazi qanday sifatlar bilan ajralib turadi? 
+==== 
+    Halollik va sadoqat  
+====
+   # Yovuzlik va xudbinlik  
+====
+    Donishmandlik va adolat  
+====
+    Ma’naviy izlanishlar  
+  
+++++
+ Romanda Jayrona qanday rol o‘ynaydi?  
+====
+    Mirvalining xotini sifatida 
+==== 
+    Tolibjonning fojiali taqdiriga hamroh bo‘lgan ayol 
+==== 
+   # Siyosiy ziddiyatlarni fosh qiluvchi qahramon 
+==== 
+    Kolxoz ishchisi sifatida  
+   
+++++
+ Romanda qaysi obraz vafodorlik ramzi sifatida keltiriladi? 
+==== 
+   Mirvali 
+==== 
+   # Qora Lochin (ot) 
+==== 
+    Azizbek  
+====
+    Tolibjonning onasi  
 
-19-MAVZU. IQTISODIYOTNING SIKLLILIGI VA MAKROIQTISODIY BEQARORLIK
-1. Sikl qanday fazani o‘z ichiga oladi.
-+A) pasayish, turg‘unlik, jonlanish, yuksalish.
-B) abadiylik, tabiiylik, suniylik.
-C) tirilish, o‘sish, pasayish.
-D) inqiroz, yuksalish, o‘sish, pasayish.
-2. Stagnatsiya - bu ...
-+A) barcha iqtisodiyotdagi tang holat;
-B) halqaro bitim;
-C) mamlakatdagi keskin vaziyat;
-D) narxlar o‘sishi;
-3. Agrar inqirozlarning asosiy hususiyatlari nimalarda namoyon bo‘ladi.
-+A) asosan siklli harakterga ega bo‘lmaslikda va nisbatan uzoq davom etishida
-B) narxlarning pasayishi, daromadlar va foydaning kamayishida;
-C) mahsulotlarning nisbiy ishlab chiqarilishida;
-D) respublikada ishsizlikning o‘sishida;
-4.  Iqtisodiy sikldan iqtisodiyotning qaysi sohalari ko‘proq yo‘qotishga uchraydi.
-A) iqtisodiyotning qishloq xojaligi va xizmat ko‘rsatish sohasi;
-+B) uzoq muddatli foydalaniladigan iste’molchilik tovarlari ishlab chiqaruvchi sanoat tarmoqlari, investitsion tovar ishlab chikaruvchi sanoat tarmoklari;
-C) mamlakatda investision tarmoqlari;
-D) qisqa muddatli foydalaniladigan iste’molchilik tovarlari ishlab chiqaruvchi tarmoqlari;
-5. Iqtisodiy inqirozlarning asosiy mazmuni nimada namoyon bo‘ladi.
-+A) ishlab chiqarilgan tovarlar massasining to‘lovga qobil talabidan oshib ketishi yoki kam bo‘lishida
-B) mamlakat iqtisodiyotida ishsizlikning o‘sishida;
-C) respublikada narxlarning o‘sishida;
-D) tovarlar ishlab chiqarishning kamayishida;
-6. Iqtisodiy sikl qanday harakatni ifodalaydi.
-+A) bir iqtisodiy inqirozidan ikkinchisi boshlanguncha takrorlanib turadigan harakati
-B) iqtisodiyotnnig yuqorilab boruvchi chiziq shaklidagi harakati;
-C) iqtisodiyotning yopiq doira shaklidagi harakati;
-D) iqtisodiyotda ishlab chiqarish o‘sish sur’atlarining o‘zgarishi;
-7. Iqtisodiy siklning inqiroz fazasida:
-+A) Iqtisodiy ko`rsatkichlik keskin pasaydi;	
-B) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi;
-C) Ishlab chiqarish darajasi dekin asta o`sadi, bandlik darajasi ortadi;
-D) Ish haqi oshadi, iste’mol tovarlariga talab ortadi
-8. Iqtisodiy sikl tu`g`unlik fazasida:
-+A) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi;
-B) Iqtisodiy ko`rsatkichlik keskin pasaydi;
-C) Jamiyat iqtisodiy ehtiyojlarini qondirish maqsadida ishlab chiqarish natijalari va omillaridan foydalanish;
-D) Korxona daromadlarini kelajakdagi ehtiyojlarni qondirish uchun sarflanadigan qismi.
-9. Iqtisodiy siklning jonlanish fazasida:
-+A) Ishlab chiqarish darajasi dekin asta o`sadi, bandlik darajasi ortadi;
-B) Ish haqi oshadi, iste’mol tovarlariga talab ortad
-C) ) Iqtisodiy ko`rsatkichlik keskin pasaydi;	
-D) Ishsizlikning yuqori darajasi saqlanadi, narxlar pasayishdan to`xtaydi, ssuda foizlari pasayadi
-10. Iqtisodiy sikllarni tahlil qiluvchibazaiyalar bu:
-+A) Eksternal va internal nazariyalar
-B) Keynschilik va merkantilizm
-C) Fiziokratlar va merkantilizm
-D) Deterministlar va monetaristlar
+++++
+ Romanda sovet tuzumining qaysi illatlari ochib beriladi? 
+==== 
+    Iqtisodiy inqirozlar  
+====
+   # Siyosiy tazyiqlar va axloqiy tanazzul 
+==== 
+   Ekologik muammolar 
+==== 
+    Ta’lim tizimidagi nuqsonlar  
 
-20-MAVZU. ISHCHI KUCHI, UNING BANDLIGI VA ISHSIZLIK
-1. Ishsizlik deganda...
-A) ish qilmay yurgan aholi.
-B) mehnatga layoqatsiz insonlar.
-C) malakaga ega bo‘lib ish qidirayotgan aholi tushuniladi
-+D) o‘ziga ish topolmasdan, mehnat rezervi armiyasiga aylangan aholining iqtisodiy faol qismi tushuniladi;
-2. Friksion ishsizlik deganda:
-+A) ish joylarini o‘zgartirish tufayli ishdan bo‘shab qolib malakasiga mos ish qidirayotgan va ish o‘rinlari bo‘shashini kutayotgan ishsizlar tushuniladi;
-B) mamlakatda iqtisodiy siklning inqiroz fazasi bilan bog‘liq ravishda vujudga keladigan ishsizlik tushuniladi;
-C) hududda iste’molchilik talabi va taklifi tehnologiyadagi turli hududlarda, ishchi kuchining talab va taklif nomuvofiqligi natijasida vujudga kelgan ishsizlik tushuniladi
-D) layoqati bo‘la turib ishlashni hohlamaydigan ishsizlar tushuniladi;
-3. Ishsizlik darajasi (ID) qanday aniqlanadi.
-+A) ID=IS/IKx100;
-B) ID=(ISxIK)x100;
-C) ID=IK/ISx100;
-D) ID=(IS-IK)x100;
-4. Ishchi kuchi 12,5 mln. kishini, ishsizlar 1,3 mln. kishini tashkil qilsa, ishsizlik darajasi necha foizni tashkil qiladi.
-+A) 10,4%;
-B) 13,8%;
-C) 11,2%;
-D) 9,6%;
-5. Artur Ouken qonuniga binoan ishsizlik darajasining 1 foizga oshishi YAMMning necha foizga kamayishiga olib keladi
-+A) 2,5 %;
-B) 1,0 %;
-C) 1,5 %;
-D) 0,5 %;
-6. Ishsizlikning tabiiy darajasi 4% ni, haqiqiy darajasi 9,3 %ni tashkil qilsa, Ouken qonuni bo‘yicha YAMMning orqada qolishi necha foizni tashkil qiladi.
-+A) 13,25;
-B) 5,3 %;
-C) 13,3 %;
-D) 4,3 %;
-7. Ishchi kuchining miqdori bu:
-+A) Mamlakat aholisining mehnatga layoqatli bo`lgan qismi, ya’ni ishchi kuchi resurslari;
-B) Ish kuchi reasurslarining potensial qismi;
-C) Ishlayotgan fuqarolar soni;
-D) Mehnat resurslarining faol qismi.
-8. Ishchi kuchining sifati bu:
-+A) Ishchi kuchi tarkibini zamon talablari jihatidan ijtimopoiy ishlab chiqarish ehtiyojlariga muvofiqligi darajasi;
-B) Ish kuchi reasurslarining potensial qismi;
-C) Ishlayotgan fuqarolar soni;
-D) Mehnat resurslarining faol qismi.
-9. Nufus qonuni:
-+A) Aholini o`sib borishi qonuni;
-B) Aholini tabiiy o`sishi;
-C) Hayot kechirish davomiyligini o`sishi;
-D) Tu`gilishni optimallashuvi.
-10. Ishchi kuchi migratsiyasi turlari:
-+A) Tugal, tebranuvchi, mavsumiy, tasodifli
-B) Tebranuvchi, to`lqinsimon, tasodifli
-C) Rejali, tasodifiy, davriy, to`lqinsinmon;
-D) Xalqaro, hududiy, ichki.
+++++
+ Romanda Tolibjon taqdirining fojiali yakuni qanday tasvirlanadi?
+====  
+    U siyosiy kurashda g‘alaba qozonadi  
+====
+   # Mirvalining xatosi oqibatida vafot etadi
+====  
+    Vatandan uzoqlashib ketadi 
+==== 
+    Oilasi bilan yarashadi  
 
-21-MAVZU. MOLIYA TIZIMI VA MOLIYAVIY SIYOSAT
-1. Moliyaviy munosabatlarning mohiyati qaysi bandda to‘la yoritilgan.
-+A) moliya harakati, ya’ni uning shakllanishi, taqsimlanishi va ishlatilishi jarayonida vujudga keladigan munosabatlar
-B) faqat davlat tashkilotlari va muassasalari pul mablag‘larining ishlatilishi bilan bog‘liq bo‘lgan munosabatlar;
-C) faqat aholi keng qatlamlari qo‘lidagi pul mablag‘larining ishlatilishi bilan bog‘liq bo‘lgan munosabatlar;
-D) chet ellik jismoniy va huquqiy shahslar pul mablag‘larining harakati bilan bog‘liq bo‘lgan munosabatlar;
-2. Moliyaviy munosabatlarning subyektlari:
-+A) muassasalar, tashkilotlar, jismoniy va huquqiy shaxslar, aholining keng qatlamlari.
-B) davlat yerlari.
-C) chet ellik jismoniy va huquqiy mehmonlar.
-D) ishchi kuchi sinflari.
-3. Soliqlar tushunchasining mazmuni qaysi bandda to‘g‘ri ko‘rsatilgan.
-A) soliqlar iqtisodiy tushuncha sifatida sof daromadning bir qismini ixtiyoriy ravishda budjetga jalb qilishning shakli bo‘lib, moliyaviy munosabatlarning tarkibiy qismini tashkil etadi
-B) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy shahslar daromadining bir hismini ravishda budjetga jalb etish shaklidir;
-+C) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy shahslar daromadining bir hismini majburiy ravishda byudjetga jalb etish shaklidir;
-D) soliqlar davlat va mahalliy hokimiyat tomonidan huquqiy va jismoniy shahslar daromadlarining bir hismini ihtiyoriy ravishda byudjetga jalb etish shaklidir;
-4. Devalvatsiya – bu ...
-+A) boshqa mamlakatlar valyutasiga nisbatan milliy yoki xalqaro pul birligi kursining pasayishi;
-B) davlat pul birligi qadrining oshish;
-C) qadrsizlanish
-D) fuqarolarning bir yil davomidagi yalpi daromadidan olinadigan majburiy to‘lov;
-5. Deflyator - ...
-A) inflyatsiya sur’atini ko‘rsatuvchi umumiy ko‘rsatkichi
-B) pul qadrining tushib ketish;
-C) sof foyda;
-D) pulning qadrini oshirish uchun muomaladagi qog‘oz pullar va banknotlar miqdorini kamaytirish;
-6. Moliyaviy munosabatlarning subyektlari:
-+A) muassasalar, davlat tashkilotlari, chet ellik jismoni va huquqiy shaxslar, aholining keng qatlamlari.
-B) yer, suv, dala va tog‘lar.
-C) chet ellik mehmonlar.
-D) aholi keng qatlami;
-7. Moliyaning mohiyati:
-+A) Pul mablag`laridan foydalanish va uning harakatini tartibga solish bilan bog`liq munosabatlar tizimi;
-B) Vaqtincha pul mablag`larini harakatga keltirish bilan bo`gliq munosabaatlar tizimidir;
-C) Soff daromadni bir qismini byudjetga jalb qilish;
-D) Iqtisodiyotni turli darajalardagi pul fondlari.
-8. Moliya munosabatlari obyekti bu:
-+A) Iqtisodiyotni turli darajalarda tarkib topuvchi va harakat qiluvchi pul mablag`lari fondlari;
-B) Vaqtincha pul mablag`larini harakatga keltirish bilan bo`gliq munosabaatlar tizimidir;
-C) Soff daromadni bir qismini byudjetga jalb qilish;
-D) Pul mablag`laridan foydalanish va uning harakatini tartibga solish bilan bog`liq munosabatlar tizimi;
-9. Davlat byudjeti bu:
-+A) Davlat daromadlari va harajatlari, ularni qoplash manba’alari yillik rejasidir;
-B) Davlat daromadlarining yillik rejasidir;
-C) Davlat harajatlarining yillik rejasidir;
-D) Davlatning barcha mol-mulki.
-10. Davlat krediti bu:
-+A) Davlat qarz oluvchi yoki kreditor sifatida yuzaga chiqadigan barcha moliyaviy-iqtisodiy munosabatlar yig`indisidir;
-B) Davlatning mamlakat ichidagi zayomlari;
-C) Davlatning horijiy davlatlardan qarzi;
-D) Davlatning halqaro moliyaviy tashkilotlardan qarzi.
-11. Progressiv soliqlar:
-+A) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi o`sib boruvchi soliqlar;
-B) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi pasayib boruvchi soliqlar;
-C) Daromad hajmi o`sib borishi bilan o`rtacha stavkasi o`zgarishsiz qoluvchi soliqlar;
-D) Yuqori daromadli shaxslardan qo`shimcha undiriluvchi soliqlar.
+++++
+“Jimjitlik” romani qanday adabiy uslubda yozilgan?  
+====
+    Romantizm  
+====
+   # Realizm  
+====
+    Modernizm  
+====
+    Simvolizm 
+ 
+++++
+ Romanda qaysi epigraf asarning mohiyatini ochib beradi?  
+====
+     “Kimgadir yaqinlashmoqchi bo‘lsang, itiga suyak ot.” 
+==== 
+    # “Cho‘qqilar jilvasiga ko‘pam mahliyo bo‘laverma, bolam. Bu tog‘da qashqirlar bor...”  
+====
+     “Dunyoda kutish yomon.” 
+==== 
+     “Odam bolasining ko‘zidan yosh chiqmasa qiyin ekan.”  
+   Shukrullo. “Kafansiz ko‘milganlar” asari.
+++++
+“Kafansiz ko‘milganlar” asarida asosiy syujet qaysi tarixiy davrda kechadi?  
+====
+    Mustaqillik yillari 
+==== 
+   # Sovet tuzumining qatag‘on davri 
+==== 
+   Turg`unlik yillari
+====  
+    Ikkinchi jahon urushi davri  
 
-22-MAVZU. PUL – KREDIT TIZIMI, BANKLAR VA ULARNING BOZOR IQTISODIYOTIDAGI ROLI
-1. Naqd pul muomalasi nima bilan ta’minlanadi?
-+A) metall tangalar va bank biletlari;
-B) cheklar;
-C) veksellar va akkreditivlar;
-D) to‘lov talablari;
-2. Devalvatsiya – bu …
-+A) boshqa mamlakatlar valyutasiga nisbatan milliy yoki xalqaro pul birligi kursining pasayishi;
-B) pul birligi qadrining oshishi;
-C) inflyatsiya;
-D) fuqarolarning bir yil davomidagi yalpi daromadidan olinadigan majburiy to‘lov;
-3.Mamlakat pul tizimining muhim tarkibiy qismlari bu-…
-+A) milliy pul birligi, qog’oz tanga va kredit pullar; pul emissiyasi; pul muomalasini tartibga soluvchi davlat idoralari
-B) milliy pul birligi, qog’oz tanga va kredit pullar; 
-C) pul emissiyasi; pul muomalasini tartibga soluvchi davlat idoralari
-D) pul muomalasini tartibga soluvchi davlat idoralari
-4.Muomala uchun zarur pul miqdoriga ta’sir etuvchi omillar
-+A) muayyan davrda sotilishi va sotib olinishi kerak bo’lgan tovarlar summasi, pul aylanish tezligi, kreditning rivojlanganlik darajasi
-B) puldan to’lov vositasi sifatida foydalanish va pul aylanish tezligi
-C) pul emissiyasi holati
-D) kreditning rivojlanganlik darajasi
-5.Pul bozori bu 
-+A) mamlakatdagi pul miqdori foiz stavkalarining turli darajalarida pul mablag’lariga bo’lgan talab va taklifning nisbatini ifodalovchi mexanizm
-B) qimmatli qog’ozlar bozori
-C) fond birjasi
-D) bozordagi pul agregatlari
-6.Inflyatsiya bu-…
-+A) pul muomalasi qonunlari buzilishi bilan bog’liq qog’oz pullarning qadrsizlanishi
-B) pul emissiyasini ko’payib ketishi
-C) mamlakatga chet el valyutasini kirib kelishi
-D) tovarlar bozoridagi narx indeksini pasayishi
-7.Kredit turlari:
-+A) bank, iste’mol, tijorat, ipoteka, davlat va xalqaro kreditlar
-B) bank krediti, lizing, faktoring
-C) bank krediti va xalqaro kredit
-D) bank krediti va ipoteka krediti
-8. Pul muomilasi bu:
-+A) Pulning o`z vazifalarini bajarish jarayonida to`xtovsiz harakatlanishi;
-B) Sotuvchi va oluvchini pul almashuvi;
-C) Pul emissiyasi;
-D) Naqd pulsiz hisob kitoblar.
-9. Qog`oz pullar inflyatsiyaga uchraganda nimaga nisbatan qadrsizlanadi?
-+A) oltinga, tovarlarga va bardoshli chet-el vakyutalariga nisbatan;
-B) Bardoshli chet-el valyutalariga nisbatan;
-C) Tovarlar narxini oshishiga nisbatan;
-D) Tilla buyumlar narxini oshishiga nisbatan.
-10. Markaziy bank qanday vazifalarni bajaradi:
-+A) Boshqa banklar majburiy zahiralarini saqlaydi, davlatning monetar siyosatini amalga oshiradi, milliy valyutani muomilaga chiqaradi;
-B) Mamlakatda omonat ishlarini tashkil etadi, aholiga kredit beradi;
-C) Obligatsiyalar chiqaradi;
-D) Ko`chnas mulk hisobiga uzoq muddatli kredit beradi, milliy valyutani muomilaga chiqaradi.
+++++
+ Asarda Shukrullo o‘zini qanday tasavvur qiladi? 
+==== 
+    Mahbus sifatida 
+==== 
+    # Mahbuslar hayotini o‘rganuvchi yozuvchi sifatida  
+====
+    Siyosiy faol shaxs sifatida 
+==== 
+    Shoir sifatida  
 
-23-MAVZU. BOZOR IQTISODIYOTINI TARTIBGA SOLISHDA DAVLATNING ROLI
-1. Davlatning iqtisodiyotni tartibga solishdagi rolini oshirishni yoqlovchi nazariya - bu:
-+A) Keynscha nazariya;
-B) Smitning «Tinch qo‘yish» nazariyasi;
-C) Monetaristik nazariya;
-D) Marjinalistik nazariya;
-2. Aholini davlat tomonidan ijtimoiy himoyalashni yaxshilash masalasi respublikada qanday muhim vazifalarni hal etishga bog‘liq deb bilasiz?
-+A) davlat mablag‘lari bilan bir qatorda mehnat jamoalari, jamoat va hayriya tashkilotlari, jamg‘armalarning mablag‘larini kengroq jalb etish;
-B) yangi pul birligini chiqarish;
-C) odamlarning kuch va qobiliyatlarini jamlash;
-D) ishlab chiqarishni barqarorlashtirish;
-3. Absorbatsiya nima?
-+A) yalpi ichki mahsulotning mazkur mamlakatdagi uy xo‘jaliklar, korxonalar va davlatga realizatsiya qilinadigan qismi;
-B) eksportdan olingan daromadning import sarflaridan ortiqcha qismi;
-C) import to‘lovlarining eksportdan olingan daromaddan ortiqcha qismi;
-D) pulning qadrsizlanishi.
-4. O‘zbekiston tashqi umumiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda?
-+A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
-B) faqat milliy manfaatlar asosida ish yuritish;
-C) sinfiy va umuinsoniy manfaatlarga asoslanish;
-D) faqat umuminsoniy manfaatlarni inobatga olish;
-5. Subventsiya nima?
-+A) davlat tomonidan berilgan moliyaviy yordam turi;
-B) qimmatli qog‘oz turi;
-C) xalqaro shartnoma;
-D) xarajatlarni qoplash uchun moliyaviy yordam;
-6.”Ish bilan bandlik, foiz va pulning umumiy nazariyasi” kitobining muallifi
-+A) D.M.Keyns
-B) A.Smit
-C) A.Monkret’en
-D) F.Kene
-7. Bozor iqtisodiyotini “Tinch qo`yish” nazariyasi kimga tegishli?
-+A) A.Smit;
-B) D-M-Keyns;
-C) A.Marshall;
-D) A.Monkretyen.
-8. Iqtisodiyotni davlat tomonidan tartubga solish bu:
-+A) Davlatning jamiyat a’zolari ehtiyojlarini qondirish darajasini oshirish uchun cheklangan iqtisodiy resurslardan samarali foydalanishni ta’minlovchi faoliyati.
-B) Davlatni yuridik qonunlar orqali iqtisodiyotga ta’siri;
-C) Ishlab chiqarishni yiriklashtirish;
-D) Iqtisodiy subyektlar faoliyati nazorati.
-9. Davlatni bozor iqtisodiyotini huquqiy asosini ta’mionlash funksiyasi bu:
-+A) Xususiy mulkchilik mavqeini ta’minlash, bozor subyektlari o`rtasidagi munosabatlarni tartiblovchi qonunlarni ishlab chiqish;
-B) hususiy korxona xaqidagi qonunlarni ishlab chiqish;
-C) Hususiylashtirish jarayoni;
-D) Raqobatni himoya qilish
-10. Davlatni milliy iqtisodiyotni tartibga solishdagi bevosita usullari:
-+A) Narx va ish haqini “Muzlatib qo`yish”, ish bilan bandlik hizmatini tashkil etish;
-B) Hisob stavkasini tartibga solish;
-C) Moliya-kredit muassasalarining markaziy bankdagi minimal zahiralarini o`rnatish;
-D) Davlatning obligatsiyalarini chiqarish.
+++++
+ “Kafansiz ko‘milganlar” asarida “kafansiz” so‘zi qanday ramziy ma’noga ega? 
+==== 
+    Moddiy qashshoqlik  
+====
+  #  Adolatsiz o‘lim va hurmatsizlik 
+==== 
+    Ma’naviy erkinlik  
+====
+    Siyosiy kurash  
 
-24-MAVZU. AHOLI DAROMADLARI VA DAVLATNING IJTIMOIY SIYOSATI
-1. Aholi, oila farovonligi darajasi tushunchasi
-+A) odamlarning munosib turmush kechirishi
-B) aholining bir xil darajada daromad olishi
-C) daromadlarining minimal iste’mol byudjetidan yuqori bo‘lishi
-D) aholining yetarli darajada farovon yashashi
-2. Quyidagilardan qaysi biri aholi daromadlari tarkibiga kirmaydi?
-+A) soliqlar;
-B) davlat sug‘urtasi bo‘yicha to‘lovlar;
-C) mehnat haqi hisobiga olinadigan va uy xo‘jaliklarining o‘z iste’molchilari uchun ishlab chiqargan mahsulotlari;
-D) foiz, dividend, renta;
-3. Aholini davlat tomonidan ijtimoiy himoyalashni yaxshilash masalasi respublikada qanday muhim vazifalarni hal etishga bog‘liq deb bilasiz?
-+A) davlat mablag‘lari bilan bir qatorda mehnat jamoalari, jamoat va hayriya tashkilotlari, jamg‘armalarning mablag‘larini kengroq jalb etish;
-B) yangi pul birligini chiqarish;
-C) odamlarning kuch va qobiliyatlarini jamlash;
-D) ishlab chiqarishni barqarorlashtirish;
-4.Aholi turmush darajasini aniqlasshda BMT tomonidan tavsiya etilgan ko’rsatkichlar nechta guruhdan iborat
-+A) 12
-B) 9
-C) 6
-D) 10
-5.Turmush tarzi-…
-+A) kishilarning milliy va jahon hamjamiyatidagi hayot faoliyati aks ettiriluvchi ijtimoiy iqtisodiy kategoriyadir
-B) iste’molchi byudjetining xarid quvvati 
-C) moddiy ta’minlanganlik darajasi
-D) ijtimoiy hayotta ishtirok etish
-6.Aholi daromadlari bu-…
-+A) ma’lum vaqt oralig’ida olingan pul va natural shakldagi daromadlari
-B) aholining nominal ish haqi
-C) aholining real ish haqi
-D) aholining tadbirkorlikdan olgan daromadi
-7. Iste’molchi byudjetining qanday turlari bor?
-+A) Yuqori, o`rtacha va minimal;
-B) Nafaqahorlar va yuqori ta’minlanganlar byudjeti;
-C) Boylar va qashshoqlar byudjeti;
-D) Yuqori ta’minlanganlar va minimal ta’minlanganlar byudjeti.
-8. Aholi daromadlarini qanday ko`rinishkari bor?
-+A) Pul va natural;
-B) Ish haqi va tadbirkorlik foydasi;
-C) Ish haqi va tadbirkorlik foydasi, stipendiya;
-D) Uy xo`jaliklarini o`z iste’moli uchun ishlab chiqargan mahsulotlari..
-9. Aholining nominal pul daromadlari bu:
-+A) Aholi tomonidan ma’lum vaqt oralig`ida olingan daromadlarni pul ko`rinishidagi miqdori;
-B) Ishlab chiqarish omillari hisobiga olinadigan daromadlar;
-C) Moliya kredit tizimi orqali olinadigan daromadlar;
-D) To`lovlar va imtiyozlar
-10. Kambag`allik bu:
-+A) Hayot uchun muhim bo`lgan birlamchi ehtiyojlarini qondira olmaydigan, ishga layoqatli, yetarli daromadga ega bo`lmagan ijtimoiy guruhning iqtisodiy holati;
-B) Daromadlarni umuman yo`qligi, ishga layoqatning mavjudligi;
-C) Trikchilik minimumidan past daromadga ega bo`lganlar;
-D) Daydi, boshpanasiz shaxslar.
+++++
+ Asarda Shukrullo qanday ayblovlar bilan qamaladi?  
+====
+    Iqtisodiy jinoyatlarda  
+====
+  #  Millatchilik va sovetlarga qarshi targ‘ibotda 
+==== 
+    Sho`rolarga qarshi faoliyatda  
+====
+    Diniy faoliyatda  
 
-25-MAVZU. JAHON XO’JALIGI VA UNING EVOLUTSIYASI
-1. O‘zbekiston tashqi umumiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda?
-+A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
-B) faqat milliy manfaatlar asosida ish yuritish;
-C) sinfiy va umuinsoniy manfaatlarga asoslanish;
-D) faqat umuminsoniy manfaatlarni inobatga olish;
-2. O‘zbekiston jahon hamjamiyati bilan hamkorlik qilganda nimalarga amal qiladi?
-+A) hech bir davlat bilan yaqinlashish hisobiga boshqasidan uzoqlashmaslikka;
-B) ichki ishlarga aralashmaslikka;
-C) o‘z mahsulotlarini ko‘proq eksport qilishga;
-D) integratsiyani chuqurlashtirishga;
-3. Jahon mamlakatlarining qaysi birida qishloq xo‘jaligida dotatsiya berilmaydi?
-+A) qishloq xo‘jaligiga butun dunyoda dotatsiya berish mavjuddir.
-B) Lotin-Amerika mamlakatlarida;
-C) Yevropa mamlakatlarida;
-D) Osiyo mamlakatlarida;
-4. O‘zbekiston tashqi siyosiy va tashqi iqtisodiy aloqalarni shakllantirishda qanday tamoyillarga amal qilmoqda 
-+A) umuminsoniy va milliy manfaatlarning mushtarakligi asosida ish yuritish;
-B) faqat milliy manfaatlar asosida ish yuritish;
-C) sinfiy va umuinsoniy manfaatlarga asoslanish;
-D) faqat umuminsoniy manfaatlarni inobatga olish;
-5.   2022-yilda O‘zbekistonning tashqi savdo aylanmasi … 
-+A) 40 100,2 AQSh dollarini tashkil etdi;
-B) 32 299,3 AQSh dollarini tashkil etdi;
-C) 31 299,3 AQSh dollarini tashkil etdi;
-D) 38 299,3 AQSh dollarini tashkil etdi;
-6.Xalqaro iqtisodiy munosabatlar shakllari
-+A) tovar va xizmatlar xalqaro savdosi, kapital va chet el investitsiyalari harakati, ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
-B) tovar va xizmatlar xalqaro savdosi, kapital va chet el investitsiyalari harakati, 
-C) ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
-D) kapital va chet el investitsiyalari harakati, ishchi kuchi tashqi migratsiyasi; valyuta kredit munosabatlari
-7. Jahon xo`jaligi bu:
-+A) Xalqaro mehnat taqsimoti asosida savdo ishlab chiqarish moliyaviy ilmiy-texnikaviy aloqalar asosidagi mamalakatlar xo’jaliklari umumiy tizimi;
-B) Barcha mamalakatlar eksport va import munosabatlari;
-C) O’zaro manfaatdorlikka asoslangan munosabatlar; 
-D) Davlatlarning umumiy valyuta ittifoqi; 
-8. Jahon xo’jaligi subyektlari. 
-+A) Mamlakatlar, TMK, xalqaro tashkilotlar;
-B) Milliy iqtisodiyot chegarasidan tashqaridagi subyektlar;
-C) Xalqaro tashkilotlar;
-D) Jahon banki va xalqaro savdo tashkiloti; 
-9. Jahon xo’jaligi tarkibi: 
-+A) Tovar va xizmatlar jahon bozori, kapital va ishchi kuchi, xalqaro valyuta kredit-moliya tizimi;
-B) Tovar va xizmatlar jahon bozori;
-C) Kapital va ishchi kuchi jahon bozori; 
-D) Xalqaro valyuta kredit tizimi;
-10. Globallashuv yo’nalishlari: 
-+A) Mulkchilik munosabatlari globallashuvi, kooperatsiya va mehnat taqsinmotining yuqori darajasi,  yangi xo’jalik shakllari;
-B) AQSh, Yaponiya, Xitoy kabi yirik mamalakatlarning dunyo iqtisodiyotiga ta’sirini oshishi;
-C) Turli hududlarda integratsion guruhlarni shakllanishi;
-D) Boy va qashshoq mamalakatlar o’rtasidagi farqlar;
+++++
+ Asarda qatag‘on davrining qaysi dahshatlari yaqqol tasvirlanadi? 
+==== 
+    Harbiy yurishlar  
+====
+   # Sibir lagerlaridagi azob-uqubatlar  
+====
+    Iqtisodiy inqirozlar  
+====
+   Millatlarar nizolar  
 
-26-MAVZU. XALQARO IQTISODIY INTEGRATSIYA VA O’ZBEKISTONNING JAHON HAMJAMIYATIGA KIRIB BORISHI
-1.Xalqaro iqtisodiy integratsiya bu
-+A) mamlakatlar iqtisodiy aloqalarini barqarorlashib, chuqurlashib rivojlanishi
-B) erkin savdo hududlarini amal qilishi
-C) hududiy yaqin mamlakatlarning o’zaro aloqalari
-D) davlatlarning siyosiy kelishuvi
-2.Erkin savdo hududlari bu…
-+A) qatnashuvchi mamlakatlar o’rtasida savdo cheklashlari bekor qilinishi
-B) yagona tashqi savdo tariflari amal qiluvchi hududlar
-C) yagona pul birligi amal qiluvchi hudud
-D) boj to’lovlari bekor qilinadigan hudud
-3.Bojxona ittifoqi bu…
-+A) erkin savdo hududlari, yagona tashqi savdo ta’riflari va uchinchi mamlakatga nisbatan yagona tashqi savdo siyosatini yurgizish
-B) boj to’lovlari bekor qilinadigan hudud
-C) yagona pul birligi amal qiladigan hudud
-D) davlatlarning siyosiy kelishuvi
-4.To’lov ittifoqi bu…
-+A) milliy valyutalarning o’zaro erkin almashinuvini va hisob-kitobda yagona pul birligini amal qilishi
-B) yagona tashqi savdo siyosatini yuritish ittifoqi
-C) yagona boj siyosatini o’tkaziladigan hudud
-D) umumiy bozor
-5.O’zbekiston SHHT ga qachon a’zo bo’lgan
-+A) 2001 yil
-B) 2000 yil
-C) 1992 yil
-D) 2007 yil
-6.O’zbekiston respublikasi tashqi iqtisodiy siyosatini amalga oshirish tamoyillari
-+A) teng huquqlilik, ikki tomonlama va ko’p tomonlama shartnoma munosabatlarida o’zaro manfaatli aloqalar o’rnatish
-B) moslashuvchan integratsiya tamoyillari
-C) qat’iy bir tomonlama integratsiya tamoyillari
-D) xalqaro iqtisodiy ittifoqlarga a’zo bo’lish tamoyillari
-7. Dunyodagi asosiy integratsion guruhlar:
-+A) Yevropa ittifoqi, Erkin savdo to’g’risidagi Shimnoliy Amerika bitim (NAFTA) va Janubiy Sharqiy Osiyo mamalakatlari assotsiatsiasi (ACEAN);
-B) Atom energiyasi bo’yicha Yevropa hamjamiyati;
-C) NAFTA va ACEAN;
-D) NAFTA va Yevropa iqtisodiy hamjamiyati;
-8. Shimnoliy Amerika bitim (NAFTA)tarkibiga qaysi davlatlar kiradi?
-+A) AQSh, Kanada, Meksika;
-B) AQSh, Kanada, Braziliya;
-C) Kuba, AQSh, Meksika;
-D) AQSh, Kuba, Braziliya;
-9. O’zbekistonning global strategik integratsion vazifasi bu:
-+A) Mamlakatdagi barcha xo’jalik subyektlarini tashqi bozor bilan o’zaro aloqasini ta’minlash shart-sharotilarini yaratish;
-B) Xalqaro savdo tashkilotiga a’zo bo’lish;
-C) eksport salohiyatini yuksaltirish; 
-D) eksport imkoniyatlarifa to’laroq foydalanish;
-10. Xalqaro savdo siyosati shakllari:
-+A) Proteksionizm va fritrederlik;
-B) Tovarlar importini cheklash va yuqori boj to’lovlarini belgilash; 
-C) Tovarlarni ma’lum turlari bilan savdo qilishga davlat monopoliyasini o’rnatish;
-D) Eksportni qo’llab-quvvatlash;
+++++
+ Asarda qaysi tarixiy shaxslarning xotirasi hurmat qilinadi? 
+==== 
+    Amir Temur va Ulug‘bek  
+====
+   # Cho‘lpon, Abdulla Qodiriy, Mahmudxo‘ja Behbudiy  
+====
+    Alisher Navoiy va Bobur  
+====
+   d) Fitrat va Munavvar qori
+  
+++++
+ Asarda Shukrulloning yozuv uslubi qanday xususiyatga ega?  
+====
+    Poetik va ramziy  
+====
+   # Soddaligi va kundalik yozuvlariga o‘xshashligi 
+==== 
+    Satirik va hajviy  
+====
+    Ilmiy va badiiy
+  
+  ++++
+ Asarda ijtimoiy tengsizlik muammosi qanday ko‘rsatiladi? 
+==== 
+    Faqat moddiy farqlar orqali 
+==== 
+   # Siyosiy tazyiqlar va adolatsiz sud tizimi orqali 
+==== 
+    Oilaviy munosabatlar orqali 
+==== 
+    Diniy ziddiyatlar orqali  
 
-27-MAVZU. JAHON BOZORI. XALQARO VALYUTA VA KREDIT MUNOSABATLAR
-1.Xalqaro savdodagi muhim nazariyalar
-+A) mutlaq ustunlik va qiyosiy ustunlik nazariyalari
-B) ishlab chiqarish omillari nisbati nazariyalari
-C) ishchi kuchi malakasi modeli nazariyalari
-D) muqobil harajatlar nazariyalari
-2.Xalqaro savdo bu-…
-+A) mamlakatlar xo’jaliklari o’rtasidagi tovar va xizmatlarni ayirboshlash jarayonidagi munosabatlar majmui
-B) mamlakatlarning tashqi savdo aylanmasi
-C) mamlakat mahsulotini boshqa mamlakatga sotish
-D) mamlakat mahsulotini boshqa mamlakat mahsulotiga almashtirish
-3.Export bu-…
-+A) mamlakatda ishlab chiqarilgan tovar va xizmatlarni chet ellik mijozlarga mamlakat tashqarisiga chiqarib sotish
-B) mamlakat mahsulotini boshqa mamlakat mahsulotiga almashtirish
-C) chet elga sotish mumkin bo’lgan tovarlar yarmarkasi
-D) chet elga sotish mumkin bo’lgan tovarlar assortimenti
-4.Tovarlarni export tarkibi:
-+A) qayta ishlovchi sanoat mahsulotlari, oziq-ovqat, xomashyo va yoqilg’i
-B) oziq-ovqat, xomashyo va yoqilg’i
-C) qayta ishlovchi sanoat mahsulotlari
-D) qayta ishlovchi sanoat mahsulotlari, oziq-ovqat
-5.Tashqi savdo aylanmasi bu…
-+A) tovarlar exporti va importi summasi
-B) tovarlar va kapitalni exporti summasi
-C) tovarlar va xizmatlar exporti summasi
-D) mamlakatni jahon bozorida sotishi mumkin bo’lgan tovarlari summasi
-6.Jahon valyuta tizimi rivojlanishi bosqichlari-bu…
-+A) oltin standart, oltin-devizli, suzib yuruvchi valyuta kurslari
-B) oltin standart va boshqariladigan tizim
-C) xalqaro valyuta bozori va oltin bozori
-D) BRETTON-VUDS va Yamayka tizimi
-7. Eksport salohiyati bu:
-+A) Mazkur mamlakat tomonidan ishlab chiqariladigan mahsulotni o’z iqtisodiy manfaatlariga putur yetkazmagan holda jahon bozorida sotish imkoniyati; 
-B) O’z tovarlari va boshqa mamlakatlardan olingan tovarlarni sotish borasidagi bitimlar;
-C) Chetga tovar sotishni ko’paytirish;
-D) Chetdan sotib olayotgan tovarlarni o’z mamlakatida ishlab chiqarish imkoniyati;
-8. Erkin savdo yo’lidagi to’siqlar bu:
-+A) Boj to’lovlari, import kvotalari, tarifsiz to’siqlar va eksportni ixtiyorish cheklash;
-B) Aksizlar, mahsulot sifatiga standartlar;
-C) Chet-el firmalarini ayrim mamlakatga eksportni ixtiyoriy cheklash;
-D) Litsenziyalash tizimi, ma’muriy to’siqlar;
-9. Valyuta bu:
-+A) Mamlakatlar pu birligi;
-B) Euro;
-C) Dollar
-D) Euro, dollar, rubl.
-10. XVF qanday vazifalarni bajaradi?
-+A) A’zo mamlakatlarni valyuta kursi va to`lov balansini tartibga soladi, kredit ajaratadi, tashqi qarzlarni nazorat qiladi;
-B) Rrivojlanayotgan mamlakatlarga uzoq muddatli kredit beradi;
-C) Rivojlanayotgan mamlakatlarga past foizli kredit beradi;
-D) Xususiy sektorga davlat kafolatisiz kredit beradi.
+++++
+ “Kafansiz ko‘milganlar” asari qanday adabiy uslubda yozilgan?  
+====
+   Doston janrida
+====
+ #  Realizmda 
+==== 
+   Xotiralar shaklida
+====  
+    Romantik uslubda  
 
+++++   
+ Asarda Shukrulloning asosiy maqsadi nima sifatida ko‘rinadi? 
+==== 
+     Shaxsiy hayotini tasvirlash 
+==== 
+    # Qatag‘on qurbonlarining haqiqiy taqdirini yoritish  
+====
+     Siyosiy tuzumga qarshi ochiq isyon
+====  
+    Tanqidiy tahlil qilish  
+Abdulla Qodiriyning “Yig’indi galar” maqolasi qaysi jurnalda bosilib chiqqan?
+====
+#“Mushtum”
+====
+“Sadoyi Turkiston”
+====
+“Oyna”
+====
+“Al isloh”
+++++
+Abdulla Qodiriyning qaysi asari tatarlarda chiqib turgan hikoya va romanlarga taqlidan yozilgan?
+====
+#“Juvonboz”
+====
+“Jinlar bazmi”
+====
+“Obid ketmon”
+====
+“Mehrobdan chayon”
+++++
+Mulla Karimhoji Abdulla Qodiriyning qaysi asari qahramoni hisoblanadi?
+====
+#“Shodmarg”
+====
+“Juvonboz”
+====
+“Jinlar bazmi”
+====
+“Obid ketmon”
+++++
+“Bizning jaholat -jahli murakkab” maqolasining muallifi kim?
+====
+#Munavvarqori Abdurashidxonov
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+“Adibi avval” , “Adibi soniy” darsliklarining muallifi kim?
+====
+#Munavvarqori Abdurashidxonov
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+“Yalqovlik yovimizdir” nomli jadid bolalariga bag`ishlab yozilgan she’r muallifini toping?
+====
+#Munavvarqori Abdurashidxonov
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+ Ubaydullaxo`ja Asadillaxo`jayev kim bilan birgalikda “Sadoyi Turkiston” gazetasini tashkil qiladi.
+====
+#Munavvarqori Abdurashidxonov
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+G`ulom Zafariy 1917-1918-yillar davomida qaysi jurnalda faoiliyat ko`rsatgan?
+====
+#“Ishchilar dunyosi”
+====
+“Sadoyi Turkiston”
+====
+“Oyna”
+====
+“Al isloh”
+++++
 
+1909-yilda kimning tashabbusi bilan “Ko`mak” xayriya jamg’armasi tashkil etilgan?
+====
+#Munavvarqori Abdurashidxonov
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+Ilk bor o`zbek operasiga kim asos solgan?
+====
+#G`ulom Zafariy
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+1919-yilda yozilgan “Bahor” pyesasining muallifi kim?
+====
+#G`ulom Zafariy
+====
+Abdulla Qodiriy
+====
+Cho’lpon
+====
+Fitrat
+++++
+“Boburnoma” asari qaysi oy ta’rifi bilan boshlanadi?
+====
+#Ramazon oyi
+====
+Shabon oyi
+====
+Rabbiyul avval oyi
+====
+Safar oyi
+++++
+“Boburnoma” asarida keltirilishicha 9 tarnov suv kiradi lekin chiqmaydi deb qaysi joy ta’riflangan?
+====
+#Andijon
+====
+Samarqand
+====
+Buxoro
+====
+Hindiston
+++++
+ “Boburnoma” asarida Farg’onada joylashgan qasyi shaharning havosi eng toza deb ta’rif berilgan?
+====
+#O`sh
+====
+Qo`qon
+====
+Namangan
+====
+Quva
+++++
+ Luqmon Bo`rixonning “Imomi Motrudiy” romanida qaysi sulola hukmronligi davrida bo`lib o`tgan voqealar keltirilgan?
+====
+#Somoniylar
+====
+Temuriylar
+====
+Shayboniylar
+====
+Ummaviylar
+++++
+Luqmon Bo`rixonning “Imomi Motrudiy” romanida Imom Motrudiy qayerda tug`ilgan edi?
+====
+#Samarqandda
+====
+Buxoroda
+====
+Xirotda
+====
+Farg`onada
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida keltirilgan Durkent Madabiyat uying yo`qolgan mudirasi kim edi?
+====
+#Shohida
+====
+Fotima
+====
+Zuhra
+====
+Sveta
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida raisning barcha topshiriqlarini manqurt kabi bajaruvchi qo`li shirin oshpaz sifatida ta’riflangan qahramon kim?
+====
+#Odamboy
+====
+To`xtamurod
+====
+Zokir
+====
+Hamidulla
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida raisning kirdikorlarini Zuhraga aytib bergan otboqar kim edi?
+====
+#Aliqul
+====
+Hamidulla
+====
+Zokir
+====
+To`xtamurod
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida egizaklarning otasi Abdullajon akaning kasbi nima edi?
+====
+#O`qituvchi
+====
+Brigadir
+====
+Mexanizator
+====
+Dehqon
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida “Taqsim” klubi qayerda joylashgan edi?
+====
+#Qo`yliqda
+====
+Durkentda
+====
+Qozirabotda
+====
+Yo`g`ontepada
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida “Taqsim” klubini kimlar ochgan edi?
+====
+#Koreyslar
+====
+Tojiklar
+====
+Ruslar
+====
+Xitoyliklar
+++++
+ “Mаlikа Аyyor” dоstоnidа  qo`llаngаn “o`tgа sоldik аrpа bilаn uyurni, qоr qоr yoqqаndа kаrvоn sоldik chiyirni” tаsviri kimlаrning hаyotiy tаjribаsini ko`rsаtib bеrаdi?
+====
+Dеhqоnlаrning
+====
+ cho`pоnlаrning
+====
+ # Chаvаndоzlаrning 
+====
+ kurаshchi pоlvоnlаrning
++++++
+“Mаlikа Аyyor” dоstоni qаysi tukum dоstоnlаr  sirаsigа kirаdi vа kim tоmоnidаn аytilgаn?
+====
+Go`ro`g`li turkumi, Islоm shоir Nаzаr o`g`li аytgаn
+====
+ # Go`ro`g`li turkumi, Fоzil Yo`ldоsh o`g`li аytgаn 
+====
+ Go`ro`g`li turkumi, Po`lkаn Jоnmurоd o`g`li аytgаn
+====
+ “Rustamxon” turkumi, Ergash Jumanbulbul o`g`li аytgаn.
+++++
+Bаrchinni qutqаrish uchun Аlpоmish qаyеrdаn yo`lgа chiqаdi? 
+====
+  # Аrpаli ko`lidаn
+===
+ Оynа ko`lidаn
+====
+ CHilbir cho`lidаn
+====
+ Bоbоtоg`dаn
+++++
+Go`ro`g`li Shаkаrko`lgа bоrib, оv qilib kеlmоqchi bo`lgаndа, kim Go`ro`g`ligа bоrmаslikni mаslаhаt bеrаdi, nimа uchun?
+====
+  # Sоqibulbul, Sаfаr оyi bo`lgаni uchun
+====
+ Tоg`аsi Аhmаd Sаrdоr, Rаmаzоn оyi bo`lgаni uchun
+====
+ O`g`li Аvаzхоn, ro`zа оyi bo`lgаni uchun  
+====                    
+ Rаyhоn аrаb, Bаrоt оyi bo`lgаni uchun
+++++
+Go`ro`g`lining ota-onasi nomi to`g`ri ko`rsatilgan javobni toping.
+====
+  # Ravshan, Bibi Hilol
+====
+ Hilol Bibi, To`liboy sinchi
+====
+ Ganjumbek, Oysha
+====
+ Rustam, Bibi Hilol
+++++
+“Mаlikаyi  Аyyor” dоstоnidа Mаlikа o`z yurti Tоrkistоnni nеchа kunlik yo`l dеydi?
+====
+100 yillik
+====
+ # 60 yillik 
+====
+ 40 yillik
+====
+ 90 yillik
+++++
+“Mаlikа Аyyor” dоstоnidа Mаlikа dаstlаb nimаning qiyofаsidа Go`ro`g`ligа ko`rinаdi?
+====
+  # Kаptаr qiyofаsidа
+====
+ Mаynа qiyofаsidа
+====
+ Оqqush qiyofаsidа
+====
+ Musichа qiyofаsidа
+++++
+“Mаlikа Аyyor” dоstоnidа Аvаzning yarаlаrini Shоdmоn vа Аsаd mеrgаnlаr qаndаy dаvоlаshаdi?
+====
+  # Аyiqning o`ti, kiyikning kindigi,tоshbаqаning tuхumini qo`shib yumurtqа mаlhаm tаyyorlаb yarаlаrigа tоrtishаdi.
+====
+ Аyiq o`ti, tоshbаqаning kindigi vа tuхumini qo`shib yumurtqа mаlhаm tаyyorlаb yarаlаrigа tоrtishаdi.
+====
+ Kiyikning kindigi, o`t, tоshbаqаning tuхumini qo`shib yumurtqа mаlhаm tаyyorlаb yarаlаrigа tоrtishаdi.
+====
+ Аyiqning kindigi,tоshbаqаning tuхumi, kiyik o`tini qo`shib yumurtqа mаlhаm tаyyorlаb yarаlаrigа tоrtishаdi.
+++++
+“Mаlikаyi Аyyor” dоstоnidа Bаdbахt cho`lidа dushmаn Mаqоtildаn Аvаzni kim оgоh etаdi?
+====
+  # G`irоt
+====
+ Shоdmоn mеrgаn
+====
+ Аsаd mеrgаn
+====
+ Go`ro`g`li
+++++
+“Mаlikаyi Аyyor” dоstоnidа Shоqаlаndаrning ismi kim?
+====
+Mаqоtil
+====
+ Hаsаnхоn
+====
+ # Yo`lchi 
+====
+ Аvаz
+++++
+“Mаlikаyi Аyyor” dоstоnidа tillа shеr ichidа Аvаz bоrligi хаbаrini Mаlikаgа kim kеltirаdi?
+====
+Gulqiz
+====
+ # Хаdichа 
+====
+ Tillаqiz
+====
+ Pаri Sipаr
+++++
+“Аlpоmish” dоstоnidа Bоybo`ri nеgа Hаkimbеkni 7 yoshidа mullаdаn chiqаrib оldi?
+====
+  # Shоhlik, sipоhlik ilmini o`rgаtаyin dеb
+====
+ Bаrchinоyni sеvib qоlgаni uchun
+====
+ Bаrchinоy bilаn unаshtirilgаni uchun
+====
+ Yilqichilikni Qultоydаn o`rgаnishi uchun
+++++
+“Аlpоmish” dоstоnidа Bоysаri nеgа qizi Bаrchinоyni 7 yoshidа mullаdаn chiqаrib оldi?
+====
+  # Ko`kqаmish ko`lidа qo`y sоg`dirib, chоrvаdоrlik ilmini o`rgаtаyin, qo`y sоg`ishgа ustа bo`lsin dеb
+====
+ Hаkimbеk bilаn unаshtirilgаni uchun
+====
+ Hаkimbеkni sеvib qоlgаni uchun
+====
+ Оynа ko`lidа qo`y sоg`dirishni, оt minishni o`rgаnsin dеb
+++++
+Аlpоmishning оnasining ismi qаysi jаvоbdа to`g`ri ko`rsаtilgаn?
+====
 
+Gulоyim
+====
+ Оyto`ldi
+====
+ Pаri Sipаr
+====
+   # Kuntug`di
+++++ 
+“Аlpоmish” dоstоnidа Qаlmоq yurtidаn pоygаdа nеchа оt qаtnаshаdi?
+====
+100
+====
+ 500
+====
+  # 499 
+====
+ 400
+++++
+“Аlpоmish” dоstоnidа Bоychibоrgа kim jilоvdоrlik qilаdi?
+====
+  # Bоbо Qаmbаr
+====
+ Qоrаjоn
+====
+ Qultоy
+====
+ Qаldirg`оch
+++++
+“Аlpоmish” dоstоnidа kim Bоychibоr оyog`idаgi miхlаrni tishi bilаn qo`pоrib оlаdi?
+====
+  # Bаrchinоy
+====
+ Rаjаbхo`jа eshоn
+====
+ Аlpоmish
+====
+ Qоrаjоn
+++++
+“Аlpоmish” dоstоnidа “Shоmurti shохаlаb hаr yoqqа kеtgаn, ichidа chichqоnlаr bоlаlаb yotgаn, izidаn tushgаn pishаk оlti оydа еtgаn, dеb tа`riflаngаn аlp kim?
+====
+  # Qo`shqulоq
+====
+ Ko`kаldоsh
+====
+ Ko`kаmаn
+====
+ Qоrаjоn
+++++
+“Аlpоmish” dоstоnidа zindоndаn qаytgаn Аlpоmishni birinchi bo`lib kim tаniydi?
+====
+  # Qоrаnоr tuya
+====
+ Qultоy
+====
+ Qаldirg`оch
+====
+ Bоdоm bikаch
+++++
+“Аlplаrning bоshi .... edi, охiri bu ... ... bo`lsin. Nuqtаlаr o`rnidаgа nоmlаrni tоping.
+====
+  # Rustаmi dоstоn, Аlpоmish аlp.
+====
+ Аlpinbiy, Hаkimbеk
+====
+ Dоbоnbiy, Hаkimbеk
+====
+ Аlpоmish, Yodgоr
+++++
+Surхаyil kаmpirning 7 o`g`li nоmi kеtmа-kеtlikdа to`g`ri sаnаlgаn jаvоbni tоping.
+====
+  # Ko`kаldоsh, Ko`kаmаn, Ko`kkаshqа, Bоyqаshqа, Tоyqаshqа, Qo`shqulоq, Qоrаjоn.
+====
+ Ko`kаldоsh, Qоrаjоn, Ko`kkаshqа, Bоyqаshqа, Tоyqаshqа, Qo`shqulоq, 
+====
+ Qоrаjоn, Ko`kаldоsh, Ko`kаmаn, Ko`kkаshqа, Bоyqаshqа, Tоyqаshqа, Qo`shqulоq.
+====
+ Ko`kаldоsh, Bоyqаshqа, Ko`kkаshqа, Tоyqаshqа, Qo`shqulоq, Ko`kаmаn, Qоrаjоn.
+++++
+Surхаyil kаmpirning Bаrchin hаlоk etgаn o`g`li qаysi edi?
+====
+Ko`kqаshqа
+====
+ # Ko`kаmаn
+==== 
+ Qo`shqulоq
+====
+ Ko`kаldоsh
+++++
+Bаrchinning muchаl yili nimа edi?
+====
+qo`y
+====
+ Оt
+====
+   # sichqоn
+==== 
+ yo`lbаrs
+++++
+“Tоrtinmаy bеrаbеr endi qizingni”, - dеya Bоysаrigа mаslаhаt bеrib, uni хаfаlаntirgаn kim edi?
+====
+Bоybo`ri
+====
+ Surхаyil kаmpir
+====
+ Хоtini
+====
+ # Yortibоy
+++++ 
+“Qаygа bоrsаng Shоhimаrdоn yor bo`lsin, O`n ikki imоm, chiltоn jilоvdоr bo`lsin”, dеb Аlpоmishni оt-аnjоmini chоqlаb yo`lgа uzаtgаn kim edi?
+====
+  # Qаldirg`оch
+====
+ Bаrchin
+====
+ Qultоy
+====
+ Bоybo`ri
+++++
+“Malikayi Ayyor” dostonida oltmish obxonali, yetmish jevaxonali, sakson sardobali, to`qson to`yxonali deb qayerga ta’rif berilgan? 
+==== 
+  # Chambilga
+====
+ Turkistonga
+====
+ Tilla ko`lga
+====
+ Asqar tog`ga
+++++
+Go‘ro‘g‘li otasining kasbi nima edi?
+====
+Lashkarboshi
+====
+#Sinchi
+====
+Polvon
+====
+Vazir
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida Qodir Aliyev necha yildan buyon ishlar edi?
+====
+#27
+====
+30
+====
+25
+====
+20
+++++
+O`lmas Umarbekovning “Fotima va Zuhra” asarida qaysi qahramonga nisbatan qo`llari tizzalariga qadar tushib turadigan, qo`llarida saksovul tomirlaridek paylari bo`rtib turadi deb ta’riflangan?
+====
+#Odamboy
+====
+Hamidulla
+====
+To`xtamurod
+====
+Sodiq
+++++
+Murodboy Nizanovning “Aqchagul”asarida Aqchagulning o`g`li Esen  tinimsiz nimani orzu qilardi?
+====
+#Tug`ilgan kunini nishonlashni
+====
+Yangi forma olishni
+====
+Sport to`garagiga borishni
+====
+Onasiga ko`ylak olib berishni
+++++
+Isajon Sultonning “Bilga xoqon” romanida xalqni ozodlikka chiqarish, yangi yerlarni o`zlashtirish va lashkarboshilikda dong`I ketgan xoqon  yordamchisi kim edi?
+====
+#To`nyuquq
+====
+Eltarish
+====
+Meyli Chur
+====
+Kultegin
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida keltirilishicha Hindlarning e’tiqodiga ko`ra qaysi daryoning suvi tekkan odam bir umr qilgan toat-ibodatlaridan ayrilib kasofat tagida qoladi?
+====
+#Karamansa
+====
+Hind
+====
+Chunor
+====
+Ganga
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida keltirilgan “pashkol” nima?
+====
+#Yomg`ir fasli
+====
+Maxsus o`rindiq
+====
+Qarorgoh
+====
+Komendant
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Humoyun qaysi qal’ani 6 oy jang qilib qo`lga kiritgan?
+====
+#Chunor
+====
+Gauri
+====
+Bangola 
+====
+Bixor
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Humoyunning qizi kim edi?
+====
+#Aqiqabegim
+====
+Xadichabegim
+====
+Chandbibi
+====
+Bekabegim
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida asosiy voqelar qayerda yuz beradi?
+====
+#Hindda
+====
+Agrada
+====
+Samarqandda
+====
+Afg`onistonda
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Nizom yoqtirgan qizning ismi nima edi?
+====
+#Hamida
+====
+Maryam
+====
+Xadicha
+====
+Bibixon
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Nizomning kasbi nima edi?
+====
+#Qayiqchi
+====
+Duradgor
+====
+Aravakash
+====
+Askar
+ ++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Rajputlar sarkardasi kim?
+====
+#Gaur
+====
+Havasxon
+====
+Jalolxon
+====
+Pakviro
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida keltirilgan ma’lumotlarga ko`ra Boburning farmoniga ko`ra qayerda 3mimgdan ortiq odam qatl qilingan?
+====
+#Bajurda
+====
+Panipatda
+====
+Bixor
+====
+Gaouri
+++++
+Pirimqul Qodirovning “Avlodlar dovoni” romanida Bangola necha yildan buyon Humoyun davlati tarkibida edi?
+====
+#9 yil
+====
+6 yil
+====
+5 yil
+====
+2 yil
+++++
+Isajon Sultonning “Genetik” asari qaysi fasl bilan boshlanadi?
+====
+#Yoz
+====
+Kuz
+====
+Qish
+====
+Bahor
+++++
+Isajon Sultonning “Genetik” asarida qaysi hasharotga nisbatan beozor va tartibli deya ta’rif beriladi?
+====
+# Asalari
+====
+Chumoli
+====
+Kapalak
+====
+Ninachi
+++++
+Isajon Sultonning “Genetik” asarida bolaning xolasi kim edi?
+====
+#Sofiya
+====
+Mehriniso
+====
+Odina
+====
+Gulshan
+++++
+Isajon Sultonning “Genetik” asarida xotiniga kun bermasdan, tinimsiz do`pposlaydigan qo`shni kim edi?
+====
+#Ubay aka
+====
+Nodir qassob
+====
+Ermon amaki
+====
+Mamarasul aka
+++++
+Isajon Sultonning “Genetik” asarida neandertal bola jasadi qayerdan topilgan edi?
+====
+#Teshiktosh g`oridan
+====
+Alp tog`laridan
+====
+Mingtepadan
+====
+Issiqko’ldan
+++++
+Isajon Sultonning “Genetik” asarida keltirilgan po`sti yupqa, mang`izi ham ko`rinib turadigan yong`oq nima deb ataladi?
+====
+ #Qoqosh
+====
+Abdush
+====
+Yalangto`sh
+====
+Nishon
+++++
+Sharqda “Shayx ur-rais” deb nom chiqargan alloma kim edi?
+====
+#Ibn Sino
+====
+Beruniy
+====
+Farobiy 
+====
+Xorazmiy
+.++++
+Ibn Sinoning “Al Fasd” risolasida inson tanasining qaysi qismi haqida yozilgan?
+====
+#Qon olinadigan tomirlarga
+====
+Yurak va yurak kasalliklariga
+=====
+Buyrak kasalliklariga
+====
+Jigar kasalliklariga
+++++
+“Javome’ ilm ul-musiqiy”(“Musiqa ilmiga oid to`plam”) asarining muallifi kim?
+====
+#Ibn Sino
+====
+Beruniy
+====
+Forobiy 
+====
+Xorazmiy
+++++
+“Geodeziya” asarining muallifi kim?
+====
+#Beruniy
+====
+Ibn Sino
+====
+Forobiy 
+====
+Xorazmiy
+++++
+“Salomon va Absol”  qissasining muallifi kim?
+====
+#Ibn Sino
+====
+Beruniy
+====
+Forobiy 
+====
+Xorazmiy
+++++
+Beruniy o`z asarlariga tuzgan ro`yxatida qaysi asarni tugata olmaganini ko`rsatib o`tgan?
+====
+“Osor ul-boqiya”
+====
+“Qonuni Ma’sudiy”
+====
+“Hindiston”
+====
+“Geodeziya”
+++++
+“Mineralogiya” asarining muallifi kim?
+====
+#Beruniy
+====
+Ibn Sino
+====
+Forobiy 
+====
+Xorazmiy
+++++
+“Ikkinchi muallim”, “Sharq Arastusi” kabi nomlarga ega bo`lgan alloma kim?
+====
+#Forobiy
+====
+Beruniy
+====
+Ibn Sino 
+====
+Xorazmiy
+++++
+Sharqshunos olim  Y.Bertels qaysi allomaning nomiga asoslanib “uning bobosi musulmon bo`lmagan va islom dinini otasi qabul qilgan bo`lsa kerak”, deb kikr bildirgan?
+====
+Forobiy
+====
+Beruniy
+====
+Ibn Sino 
+====
+Xorazmiy
+++++
+“Amir al -mo`min” nomi bilan ulug`langan alloma kim?
+====
+#Ibn Sino 
+====
+Buxoriy
+====
+Beruniy
+====
+Xorazmiy
+++++
+“Al-Adab, al-Mufrad”(“Adab durdonalari”) kitobining muallifi kim?
+====
+#Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+====
+Xorazmiy
+++++
+Qaysi olim to`rtburchakning 5 turi (kvadratkar, to`g`ri to`rtburchaklar, romblar, parallelogrammlar va “hamma tomonlari” o`zaro teng bo`lmagan to`rtburchaklar )haqida o`z qarashlarini ilgari surgan?
+====
+#Xorazmiy 
+====
+Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+++++
+“Yetti iqlim” to’g’risidagi ta’limot kimga tegishli?
+====
+#Xorazmiy 
+====
+Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+++++
+“Geografiya” asarining muallifi kim?
+====
+#Xorazmiy 
+====
+Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+ ++++
+Astronomik kuzatishlar olib borgan Oy va uning tutilishi bilan bog`liq  jarayonlarni sinchkovlik bilan o`rgangan olim kim?
+====
+#Farg’oniy
+====
+Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+++++
+“Osmon jismlari harakati va yulduzlar to`g`risidagi bilimlar yig`indisi” nomli asar muallifi kim?
+====
+#Farg’oniy
+====
+Buxoriy
+====
+Beruniy
+====
+Ibn Sino 
+++++
+ O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida kimni xo`rlash eng og`ir gunoh deb keltiradi?
+====
+#Go`dakni
+====
+Do`stni
+====
+Ota-onani
+====
+Umr yo`ldoshni
+++++
+O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida “…larga ta’zim qiling! Yuzta donishmand aytolmaga gapni bitta … aytadi!” nuqtalar o`rniga kerakli so`znni qo`ying.
+====
+#Telba
+====
+Podshoh
+====
+Ustoz
+====
+Pahlavon
+++++
+O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida nimaga nisbatan umrbod ortingdan ergashib yuradigan yoqimli dushman deya ta`rif beriladi?
+====
+#Nafsga
+====
+Sevgiga
+====
+Nafratga
+====
+Xotiraga
+++++
+Lolaxon, O`roq, Ashur, Samad, Fayzulla bugalter, Chinov va boshqa qahramonlarni o`zida jamlagan asar qaysi?
+====
+#“Jaziramadagi odamlar”
+====
+“Muvozanat”
+====
+“Dinozavr”
+====
+“Quyun”
+++++
+Bobur “Boburnoma”da kim haqida “karimuttarfayn”(ikki taraflama ulug`) deb yozadi?
+====
+#Husayn Bayqaro
+====
+Mirzo Ulug`bek
+====
+Amir Temur
+====
+Alisher Navoiy
+++++
+“Boburnoma”da qaysi shaharning “donayi kalon” nomli anori va “subhoniy”o`rigi haqida ma’lumot beriladi?
+====
+#Marg`ilon
+====
+Andijon
+====
+Buxoro
+====
+Samarqand
+++++
+Bobur tomonidan tarjima qilingan “Volidiya” asarining muallifi kim?
+====
+#Xo`ja Ahror
+====
+Navoiy
+====
+Najmiddin Kubro
+====
+Abdurahmon Jomiy
+++++
+Boburning musulmon axloqiga oid asari qanday nomlanadi?
+====
+#“Mubayyin”
+====
+“Volidiya”
+====
+“Hidoya”
+====
+“Risola”
+++++
+“Imom al-huda” -Hidoyat yo`li imomi nomi bilan qaysi mutafakkir uluglangan?
+====
+#Imomi Motrudiy
+====
+Ibn Sino
+====
+Buxoriy
+====
+Zamaxshariy
+++++
+Imomi Motrudiy hayoti davomida kimlar bilan doimiy kurash olib borgan?
+====
+#Mutazziylachilar bilan
+====
+Nasroniylar bilan
+====
+Moniylar bilan
+====
+Shayboniylar bilan
+++++
+“Imomi Motrudiy” asarida keltirilishicha Ash’ariya ta’limoti qayerda paydo bo`lgan?
+====
+#Bag`dodda
+====
+Movarounnahrda
+====
+Samarqandda
+====
+Xirotda
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida keltirilgan ot(ulov)i yo`q chavandoz kim edi?
+====
+#Safarmurod
+====
+O`roq
+====
+Ergash
+====
+Chinor
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida keltirilgan armiyaga borib xalok bo`lgan qahramon kim?
+====
+#O`roq
+====
+Ergash
+====
+Ochil
+====
+Safarmurod
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida tashkil etilgan muzeyni kimga ishonib topshirishadi?
+====
+#Lolaxon
+====
+Nuriya
+====
+Chinor
+====
+Samad
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida keltirilgan kurgi yerga tegmagan armiyadan qaytib piyonistaga aylangan qahramon kim?
+====
+#Ashur
+====
+Chinor
+====
+Samad
+====
+Safarmurod
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida keltirilgan Abdulla akaning kasbi nima edi?
+====
+#O`qituvchi
+====
+Shofyor
+====
+Suvchi
+====
+Agronom
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida keltirilgan agronom-shoir kim edi?
+====
+#Ulash
+==== 
+Samad
+====
+O`roq
+====
+Durbek
+++++
+Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida Samadning yaqin do`sti To`lqining sevgan qizi kim edi?
+====
+#Shaxina
+====
+Matluba
+====
+Lolaxon
+====
+Nuriya
+++++
+ Luqmon Bo`rixonning “Jaziramadagi odamlar” asarida jaziramadagi odamlar haqida roman yozmoqchi bo`lgan yozuvchi kim edi?
+====
+#Shunqor Hobil
+====
+Ulash
+====
+Samad
+====
+Durbek
+++++
+O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida Girgitdon buvining uyiga qo`shnisining qaysi daraxti shoxlari chiqib qolgan edi?
+====
+#Yong`oq
+====
+Olma
+====
+Bodom
+====
+Nok
+++++
+O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida muallifning “Otchopar” bozoridasigaret sotib o`tirgan do`sti qaysi fandan olim edi?
+====
+#Matematika
+====
+Fizika
+====
+Geografiya
+====
+Biologiya
+++++
+O`tkir Hoshimov “Daftar hoshiyasidagi bitiklar” asarida keltirilgan qadimgi turkiy afsonaga ko`ra Alloh arshi a’lodan yerga tushib nimadan odamni yaratadi?
+====
+#Tukdan
+====
+Temirdan
+====
+Shoxdan
+====
+Suvdan
 
+X.Do`stmuhammadning “Yolg`iz” asari kimning ijodiga bag`ishlangan?
+====
+#Abdulla Qodiriy
+====
+Cho`lpon
+====
+Fitrat
+====
+Munavvarqori
 
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida keltirilgan ma’lumotga ko`ra eri vafot etgan ayolning iddada o`tirish muddati qancha?
+====
+#To`rt oy-u o`n kun
+====
+Uch oy-u 10 kun
+====
+Besh oy-u 10 kun
+====
+Ikki oy-u 10 kun
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida mahrning eng ko`p miqdori qancha deb belgilanadi?
+====
+Aniq miqdori yo`q
+====
+10 kg tilla
+====
+5000 dirham 
+====
+2000 dirham
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida keltirilishicha nikoh qanday amal hisoblanadi?
+====
+#Sunnat amal
+====
+Farz amal
+====
+Mustahab amal
+====
+Joiz amal
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida mahrning eng kam miqdori qancha deb belgilanadi?
+====
+#10 dirham
+====
+Aniq miqdori yo`q
+====
+5000 dirham 
+====
+2000 dirham
 
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida keltirilishicha Hanafiy va Shefe’iy mazhabiga ko`ra er ayoliga qancha muddatda bir bir sidra kiyim olib berishi kerak?
+====
+#6 oyda bir
+====
+5 oyda bir
+====
+4 oyda bir
+====
+3 oyda bir
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida keltirilishicha 2009-yilda Rossiyada bo`lib o`tkan ilmiy tadqiqot natijalariga ko`ra eng kam oila uzilishi 4,3 % qaysi hududga to`g`ri kelgan?
+====
+#Chechenistonga
+====
+Ingushistonga
+====
+Dog`istonga
+====
+Koryak avtonom viloyatiga
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida keltirilishicha Britaniyada har 6 yangi qurilgan oiladan nechtasi buziladi?
+====
+#5
+====
+4
+====
+3
+====
+2
+++++
+Shayx Muhammadsodiq Muhammad Yusufning “Baxtiyor oila” kitobida kletirilishicha Alloh “nima”ni inson sokinlik topishi uchun yaratilgan?
+====
+#Jufti
+====
+Taomi
+====
+Uyqusi
+====
+Boyligi
+++++
+Ulug`bek Hamdam. “Muvozanat” romani.
+++++
+“Muvozanat” romanida asosiy syujet qaysi muhit atrofida kechadi? 
+==== 
+    Shahar hayoti va sanoat muhiti 
+==== 
+   # Qishloq va shahar hayoti, ijtimoiy ziddiyatlar 
+==== 
+   Shahardagi yengil hayot  
+====
+     Yaqin kishisining fojiali o‘limi
+====  
+    Ilmiy kashfiyot qilishi  
+   
+++++
+ Romanda ijtimoiy muammolar qanday tasvirlanadi? 
+==== 
+    Faqat diniy ziddiyatlar orqali  
+====
+   # Iqtisodiy tengsizlik va axloqiy tanazzul orqali  
+====
+ Siyosiy repressiyalar orqali  
+====
+    Ekologik muammolar orqali  
 
+++++
+ Romanda qaysi adabiy vosita Yusufning ruhiy holatini ochib berishda muhim rol o‘ynaydi?
+====
+Faqat tasviriy vositalar
+====  
+ # Ichki monolog va dialoglar 
+==== 
+    Faqat ramziy obrazlar  
+====
+    Satirik tasvirlar  
+   
+++++
+“Muvozanat” romanidagi Amir kim edi? 
+==== 
+   # Yusufning akasi
+====
+   Yusufning do`sti
+====
+   Shoir yigit
+====  
+   Muhandis  
+    
+++++
+ Romanda qaysi obraz milliy qadriyatlar va an’analarni ifodalaydi?  
+====
+     Erboy  
+====
+   #  Oychechak
+====  
+    Yog‘du  
+====
+     Yusuf  
+      
+++++
+Yusufning qishloqdagi qadrdon do`sti kim edi?
+====
+# Sodiq
+====
+Mirabbos
+====
+Saidjon
+====
+Mirazim
+
+++++
+Yusufning tog`asi Muhammadjon aka qanday kasb egasi bolgan?
+====
+# Tarix o`qituvchisi
+==== 
+Tuman hokimligida ishchi
+==== 
+Rus tili o`qituvchisi
+==== 
+Shifokor
+
+++++
+Yusufning otasi va onasining ismlari qanday?
+====
+# Odil aka va Halima aya
+==== 
+Orif aka va Munavvar aya
+==== 
+Rahmonberdi va Mastura
+==== 
+Muhammadjon aka va Robiya aya
+
+++++
+Romandagi qaysi qahramon “Etti avlodim savdogar o`tgan, man hech o`ylanmay o`shalarning ishini davom ettiraman” der edi?
+==== 
+# Mirazim
+==== 
+Mirsaid 
+===== 
+Muxtorjon
+===== 
+Tohir aka
+++++
+Yusufning o`g`li Muhammadjonning bevaqt o`limiga sabab nimada?
+==== 
+# o`sha davr vrachlarining befarqligi
+==== 
+Dorilarning yaxshi evasligi
+==== 
+Kasalining davosi yoqligi
+==== 
+Noto`g`ri davolash
+Isajon Sultonning “Alisher Navoiy” romanidan test
+++++
+Alisher Navoiy umrining so‘nggi damlarini qayerda va kim bo‘lib o‘tkazishni o‘ziga maqbul deb bildi?
+====
+# Shayx Abdulla Ansoriy maqbarasida, jorubkash 
+====
+Madrasada, ilm toliblari orasida, mudarris
+====
+Xonaqohda, faqat Allohning zikri bilan mashg‘ul kishi
+====
+Shayx Yusuf Hamadoniy maqbarasida, supuruvchi
+
+++++
+“Alisher Navoiy” romani necha qismdan iborat?
+====
+# To‘rt qismdan
+====
+O‘n To‘rt qismdan
+====
+Sakkiz bo‘limdan
+====
+O‘ttiz yetti bobdan
+
+++++
+“Alisher Navoiy” romanining uchinchi qismi qanday nomlangan?
+====
+# Badoye’ul vasat
+====
+Samarqand.846 yil
+====
+Saltanat to‘fonlari
+====
+Navodirush shabob
+
+++++
+“Alisher Navoiy” romanidagi “Ixlosiya” va “Xalosiya” nomlari nimalarni bildiradi?
+====
+# Madrasa va xonaqoh
+====
+Masjid va madrasa
+====
+Shifoxona va kutubxona
+====
+Kutubxona va shifoxona
+
+++++
+Alisher Navoiy qaysi viloyatga “surgun” qilinadi?
+====
+# Asrobodga
+====
+Ashxobodga
+====
+Xurosonga
+====
+Mashhadga
+
+++++
+Kimning onasi avvaliga otasining “mamlukasi”, ya’ni kanizagi bo‘lgan edi?
+====
+# Amir Majididdin
+====
+Nizomulmulk
+====
+Mirzo Yodgor
+====
+Abusaid Mirzo
+
+++++
+Astroboddan Husayn Boyqaroga yozilgan maktubdagi g‘azal qaysi misralar bilan boshlanadi?
+====
+# To muhabbat dashti bepoyonida ovoramen
+====
+Ishq aro parvonavu bulbulg‘a chun hamkoramen
+====
+Bo‘ylakim ishqi junun sahrosida ovoramen
+====
+Har baliyat kelsa ishq oshubidin bechoramen
+
+++++
+Husayn Boyqaro kimni valiahd etib tayinlamoqchi bo‘lgan edi?
+====
+# Mo‘min Mirzoni
+====
+Badiuzzamonni
+====
+Muzaffar Mirzoni
+====
+Amir Shohg‘aribni
+
+++++
+Hadichabegim kim orqali o‘zining mudhish niyatini amalga oshirdi?
+====
+# Nizomulmulk
+====
+Amir Majididdin
+====
+Qora Mo‘g‘ul
+====
+Muzaffar Mirzo
+
+++++
+Xorazmshoh Sulton Muhammad mastlik chog‘ida kimning boshini olib Amudaryoga tashlab yuborishga amr qilgan edi?
+====
+# Shayx Majididdin Bag‘dodiy
+====
+Shayx Farididdin Attor
+====
+Shayx Najmiddin Kubro
+====
+Shayx Abdulla Ansoriy
+ Odil Yoqubov. “Ulug`bek xazinasi” romani
+++++
+ “Ulug‘bek xazinasi” romanida asosiy syujet qaysi tarixiy shaxs atrofida kechadi? 
+==== 
+    Amir Temur 
+==== 
+   # Mirzo Ulug‘bek  
+====
+    Abdulatif  
+==== 
+    Husayn Boyqaro  
+   
+++++
+ Romanda Mirzo Ulug‘bek qanday sifatlari bilan ajralib turadi?  
+====
+  hukmdorlik va jangovarlik  
+====
+  # Ilmiy izlanishlar va ma’rifatparvarlik  
+====
+  San’atkorlik  
+====
+    Sarkadalik 
+   
+++++
+ Romanda “xazina” so‘zi qanday ramziy ma’noga ega? 
+==== 
+    Moddiy boyliklar  
+====
+   # Ilmiy meros va kitoblar  
+====
+    Taxt va hokimiyat  
+====
+   Harbiy qudrat  
+   
+++++
+ Romanda Mirzo Ulug‘bekning eng yaqin shogirdi kim sifatida tasvirlanadi? 
+==== 
+    Ali Salohiy
+====  
+   # Ali Qushchi  
+====
+    Xo‘ja Ahror
+====  
+   Mavlono Muhiddin
+
+++++
+ Romanda Ulug‘bekning fojiali taqdiriga asosiy sabab sifatida nima ko‘rsatiladi?  
+====
+    Tashqi dushmanlarning hujumlari  
+====
+   # O‘g‘li Abdullatif bilan ziddiyat  
+====
+    Ilmiy faoliyatining rad etilishi  
+====
+    Saroy ichidagi xiyonatlar  
+
+++++
+ Romanda qaysi qahramon Amir Temur lashkarida xizmat qilgan mashhur temirchi sifatida tasvirlanadi? 
+==== 
+   # Bobo Temur  
+====
+    Qalandarbek
+=====  
+   Hasan Ohangar
+====  
+    Ali Qushchi  
+
+++++
+Romanda “Jomiul ulum” ta’rifi kimga nisbatan ishlatiladi?  
+====
+    Ali Qushchi 
+==== 
+   # Mirzo Ulug‘bek
+====  
+    Abdullatif  
+====
+    Xo‘ja Ahror  
+
+++++
+8. Romanda Ulug‘bekning ilmiy merosini saqlashda qaysi qahramon muhim rol o‘ynaydi?  
+====
+    Abdullatif 
+==== 
+   # Ali Qushchi 
+==== 
+   Qalandar Qarnoqiy
+====  
+    Xo‘ja Ahror  
+
+++++
+“Ulug‘bek xazinasi” romani qanday adabiy uslubda yozilgan?
+====
+ Romantizm  
+====
+   # Realizm 
+==== 
+    Tarixiylik 
+==== 
+   Biografik
+  
+++++
+ Romanda Mirzo Ulug‘bekning ruhiy olamidagi ziddiyatlar qanday usulda tasvirlanadi?  
+====
+     Faqat dialoglar orqali  
+====
+    # Monologik va dialogik nutq orqali  
+====
+     Faqat tasviriy vositalar orqali  
+====
+     Ramziy obrazlar orqali  
+Oybek. “Navoiy” romanidan test
+++++
+ Oybekning “Navoiy” romanida asosiy syujet qaysi tarixiy shaxs atrofida kechadi? 
+==== 
+   Amir Temur  
+====
+   # Alisher Navoiy  
+====
+    Ulug‘bek  
+====
+   Husayn Boyqaro  
+
+++++
+   Romanda Alisher Navoiy qanday sifatlari bilan ajralib turadi?  
+====
+    Faqat shoirlik va yozuvchilik  
+====
+   # Donishmandlik va xalqparvarlik  
+====
+   Adolatpeshalik
+====  
+    Siyosiy bilimdonlik
+  
+++++
+ Romanda Alisher Navoiyning qaysi ijodiy faoliyati markaziy o‘rin egallaydi? 
+==== 
+    Tarixiy asarlar yozish  
+====
+   # “Xamsa”ni yaratish  
+====
+    Ilmiy tadqiqotlar  
+====
+    Siyosiy risola yozish  
+  
+++++
+Romanda Alisher Navoiyning eng yaqin do‘sti va hamkori sifatida kim tasvirlanadi?  
+====
+   # Husayn Boyqaro  
+====
+    Mirzo Ulug‘bek  
+====
+    Xo‘ja Ahror 
+==== 
+    Bobur  
+   
+++++
+ Romanda Navoiyning ijtimoiy faoliyatidagi asosiy maqsadi nima sifatida ko‘rsatiladi?  
+====
+    Harbiy yurishlarni tashkil qilish  
+====
+  # Xalq farovonligi va adolatni ta’minlash  
+====
+    Faqat adabiy ijod bilan shug‘ullanish 
+==== 
+    Diniy islohotlar o‘tkazish  
+   
+++++
+ Romanda qaysi voqea Navoiyning shaxsiy hayotidagi muhim burilish nuqtasi sifatida ko‘rsatiladi?  
+====
+    Uning Hirotga ko‘chib o‘tishi  
+====
+    Xo‘ja Ahror bilan uchrashuvi  
+====
+    Husayn Boyqaro bilan do‘stligi  
+====
+   # “Xamsa”ning tugatishi  
+
+++++
+ Alisher Navoiyning Astrobodga yuborilishida kimning qo`li bor edi?  
+====
+   # Majididdin 
+==== 
+Nizomulmulk
+====
+To`g`onbek
+====
+    Xo`ja Afzal
+
+++++
+ Romanda Navoiyning dushmanlari kimlar sifatida tasvirlanadi?  
+====
+    Tashqi bosqinchilar  
+====
+    Saroy atrofidagi fitnachilar  
+====
+    Ilmiy doiralardagi raqiblar  
+====
+    Diniy ulamolar  
+
+++++
+ “Navoiy” romanida shoh haramidan qochib ketgan qiz kim edi? 
+==== 
+   Dildor
+====  
+    Rayhon
+====  
+    Mohim  
+   d) Ra’no 
+   
+++++
+ Romanda Alisher Navoiyning qaysi asari uning adabiy merosining eng muhim yutug‘i sifatida ta’kidlanadi?  
+====
+     “Muhokamat ul-lug‘otayn”  
+====
+    # “Xamsa”  
+====
+    “Majolis un-nafois”  
+====
+     “Xazoyin ul-maoniy”  
+====
+Тоғай Муроднинг “Бу дунёда ўлиб бўлмайди” романидан тест
+++++
+Тоғай Муроднинг “Бу дунёда ўлиб бўлмайди” романида қайдай воқеалар тасвирланган?
+====
+# ХХ аср ўзбек зиёлиларининг кўргиликлари, фожиалари
+====
+Қишлоқ жойлардаги оғир меҳнат ва ҳаёт 
+====
+Ўзбек пахтакорларининг фожиавий ҳаёти
+====
+Жадид алломаларининг фаолияти
+
+++++
+“Бу дунёда ўлиб бўлмайди” романининг бош қаҳрамони ким?
+====
+# Ботир фирқа
+====
+Холмат малай
+====
+Қодирқул
+====
+Раис Ражабов
+
+++++
+Ботир фирқа учун “улуғ зот” ва “қиблагоҳ” ким эди?
+====
+# Ленин ва КПСС
+====
+Коммунистик партия
+====
+Ленин ва Сталин
+====
+Шўро ҳукумати
+====
+
+++++
+4. Аввалига коммунистик партияга хизмат қилган, кейин “отинбиби”га айланган образ ким эди?
+====
+# Дилбар Мирзахўжа қизи
+====
+Дилором Эгамова 
+====
+Зайнаб Бозорова
+====
+Клара Ходжаева
+
+++++
+Авваламбор, совет ҳукумати даврида ... хўроз ҳамма юртда бир хил қичқирди! Бу хўрозни оти – КПСС бўлди! Ушбу фикрлар кимга тегишли?
+====
+# Ботир фирқа
+====
+Ўртоқ Эсонов
+====
+Мадраҳимов
+====
+Ўртоқ Ражабов
+
+++++
+“Бошимда Қизил Байроғим бор! Мен Қизил Байроғимдан паноҳ топаман!” дея врачларга бақирган қайси образ?
+====
+# Обком Ражабов
+====
+Ботир фирқа
+====
+Райком Мадиев
+====
+Котиб Эсонов
+
+++++
+“Бу дунёда ўлиб бўлмайди” романидаги Мадиевнинг касби нима эди?
+====
+# Авангард шоир
+====
+Журналист
+====
+Архитектор
+====
+Райком секретари
+
+++++
+ Жанозасиз кўмилган райком Тўрақулов образи қайси асарда берилган? 
+====
+# “Бу дунёда ўлиб бўлмайди”
+====
+“Отамдан қолган далалар”
+====
+“Юлдузлар мангу ёнади”
+====
+“От кишнаган оқшом”
+++++
+Ботир фирқа кимни ҳаётлигида ўзбек халқи номини жаҳонга ёйгани, Тошкентга метро қурганини фахр билан эслайди?
+====
+# Шароф Рашидовни
+====
+Йўлдош Оҳунбобоевни
+====
+Акмал Икромовни
+====
+Усмон Юсуповни
+
+++++
+Қайси асарда қайта қуриш даври воқеалари, Горбачев, Елцин собиқ ҳукумат раҳбарлари ҳақида фикр юритилган?
+====
+# “Бу дунёда ўлиб бўлмайди”
+====
+“Отамдан қолган далалар”
+====
+“Юлдузлар мангу ёнади”
+====
+“От кишнаган оқшом”
+Xurshid Do`stmuhammad. “Bozor” romanidan test
+++++
+“Bozor” romanida asosiy syujet qaysi muhit atrofida kechadi?  
+====
+    Shahar hayoti  
+====
+   # Qishloq bozori  
+====
+    Tarixiy saroy  
+====
+    Sanoat hududi  
+  
+++++  
+ Romanda asosiy qahramonlardan biri bo‘lgan Fazliddin kim sifatida tasvirlanadi? 
+=== 
+   # Savdogar 
+==== 
+    Dehqon  
+====
+    Ustoz 
+==== 
+    Shifokor  
+   
+++++  
+ Romanda bozor qanday ramziy ma’noga ega?  
+====
+    Faqat savdo-sotiq joyi  
+====
+   # Ijtimoiy munosabatlar va hayot sinovi maydoni
+====  
+    Diniy marosimlar markazi 
+==== 
+    Siyosiy kurashlar sahnasi  
+
+++++
+ Romanda To‘lqin va boshqa qahramonlar o‘rtasidagi ziddiyatning asosiy sababi nima?  
+====
+    Mol-mulk taqsimoti 
+==== 
+    Sevgi munosabatlari 
+==== 
+   # Ijtimoiy, ma’naviy farqlar 
+==== 
+    Diniy e’tiqodlar  
+   
+++++
+Romanda qaysi qahramon adolat va halollik timsoli sifatida ko‘rinadi? 
+==== 
+    To‘lqin  
+====
+    Ota Qodirov  
+====
+    Bozor boshlig‘i  
+====
+   # Mahalla oqsoqoli  
+   
+++++
+“Bozor” romanida tasvirlangan asosiy ijtimoiy muammo nima?  
+====
+    Ta’lim tizimidagi muammolar
+====  
+   # Iqtisodiy tengsizlik va axloqiy tanazzul  
+====
+    Siyosiy repressiyalar  
+====
+    Ekologik muammolar  
+   
+++++
+ Roman qahramonlaridan Qadriya qayerda ishlar edi? 
+==== 
+   #  Qiroatxonada
+===
+    Maktabda  
+====
+   Savdo do`konida  
+====
+   Diniy muassasada  
+  
+++++
+Romanda Fazliddin qanday ichki ziddiyatni boshdan kechiradi?  
+====
+   Oilaviy muammolar  
+====
+   # Halollik va foyda o‘rtasidagi tanlov  
+====
+    Siyosiy bosimlar  
+====
+    Do‘stlik va raqobat  
+====
+ 
+ ++++
+9. Romanda qaysi adabiy uslub asosiy o‘rin egallaydi?  
+====
+    Romantizm  
+====
+   # Realizm  
+====
+    Modernizm 
+==== 
+    Simvolizm  
+   ++++
+Romanda bozor muhitidagi qaysi hodisa insoniy xislatlarning sinovi sifatida ko‘rsatiladi?
+====
+     Tabiiy ofatlar  
+====
+    # Savdo raqobati  
+====
+     Diniy marosimlar 
+==== 
+     Oilaviy nizolar  
