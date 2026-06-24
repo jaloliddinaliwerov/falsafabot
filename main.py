@@ -60,7 +60,7 @@ def process_raw_text(content: str) -> dict:
             continue
             
         # 3. To'g'ri javob belgisi (== Javob)
-        if line.startswith('==') and current_q:
+        if line.startswith('#') and current_q:
             current_q['correct_idx'] = len(current_q['options'])
             current_q['options'].append(line[2:].strip()[:100])
             continue
